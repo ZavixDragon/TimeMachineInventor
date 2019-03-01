@@ -1,0 +1,156 @@
+{
+    "SpreadSheetID": "1V04Rgs7lIky_XzNhJIbhfg22SnSgqiXwp3CrIyK5ETE",
+    "Range": "Breakthroughs!A2:M73",
+    "Output": "BreakthroughItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "Target",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\bBlue\\b", "\\bRed\\b", "\\bYellow\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\bDark Matter\\b" ], 
+                    "Replacement": "[^DarkMatter]" 
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Text",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\b(Money)\\b", 
+                        "\\b(Science)\\b", 
+                        "\\b(Parts)\\b", 
+                        "\\b(Energy)\\b", 
+                        "\\b(Robotic)\\b", 
+                        "\\b(Biotech)\\b", 
+                        "\\b(Dimensional)\\b", 
+                        "\\b(Mod)s?\\b", 
+                        "\\b(Breakthrough)s?\\b" ,
+                        "\\b(Purple)\\b", 
+                        "\\b(Blue)\\b", 
+                        "\\b(Red)\\b", 
+                        "\\b(Yellow)\\b",
+                        "\\b(Charge)s?e?d?i?n?g?\\b"
+                    ], 
+                    "Replacement": "[^$1]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b(Victory) (Point)s?\\b", "\\b(Chrono) (Matter)\\b" ],
+                    "Replacement": "[^$1$2]"
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\bDark Matter\\b" ], 
+                    "Replacement": "[^DarkMatter]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b(Drafts?e?d?i?n?g?)\\b", 
+                        "\\b(Invent)\\b",
+                        "\\b(Act)\\b",
+                        "\\b(Generates?e?d?i?n?g?)\\b",
+                        "\\b(Chrono)\\b",
+                        "\\b(Money)z\\b", 
+                        "\\b(Good)\\b",
+                        "\\b(Evil)\\b",
+                        "\\b(Science)z\\b", 
+                        "\\b(Parts)z\\b", 
+                        "\\b(Energy)z\\b", 
+                        "\\b(Goal)\\b",
+                        "\\b(Produce?s?d?i?n?g?)\\b",
+                        "\\b(Chaos)\\b",
+                        "\\b(Chances?)\\b",
+                        "\\b(Round)z\\b",
+                        "\\b(Rainbow)\\b",
+                        "\\b(Mixed)\\b",
+                        "\\b(Trade)\\b",
+                        "\\b(Overclock)s?e?d?i?n?g?\\b",
+                        "\\b(Reputation)\\b",
+
+                        "(Once per Round)", 
+                        "(Triggers?e?d?i?n?g?)", 
+                        "(Effect)",
+                        "(Start of Generate phase)",
+                        "(End of Game)",
+                        "(End of Draft phase)"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ":" ],
+                    "Replacement": " ->"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ " ->" ],
+                    "Replacement": "[[WingDings3 u]]"
+                }
+            ]
+        },
+        { "ColumnIndex": 3, "Name": "Stage" },
+        {
+            "ColumnIndex": 9,
+            "Name": "StageOneRebate",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "0" ],
+                    "Replacement": ""
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "[0-9][0-9]?" ],
+                    "Replacement": "Stage 1 Bonus[[WingDings3 u]] $& [^Money]"
+                }
+            ]
+        },
+        {
+            "ColumnIndex": 10,
+            "Name": "StageTwoRebate",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "0" ],
+                    "Replacement": ""
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "[0-9][0-9]?" ],
+                    "Replacement": "Stage 2 Bonus[[WingDings3 u]] $& [^Money]"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 12, 
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money", "Science", "Parts", "Energy" ], 
+                    "Replacement": "[^$&]" 
+                }
+            ]
+        }
+    ]
+}

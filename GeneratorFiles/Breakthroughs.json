@@ -1,0 +1,102 @@
+{
+    "SavePath": "Breakthroughs",
+    "SaveName": "Breakthrough",
+    "ImportedConstants": 
+    [
+        "SharedResources.json"
+    ],
+    "ImportedPrototypes":
+    [
+        "SharedResources.json"
+    ],
+    "ImportedItems": 
+    [
+        "BreakthroughItems.json"
+    ],
+    "Blueprint": 
+    {
+        "Prototype": "MiniCardBlueprint",
+        "Elements": 
+        [
+            { "Prototype": "MiniCardBorder" },
+            {
+                "Type": "Image",
+                "Source": "^Breakthrough",
+                "X": "20",
+                "Y": "155",
+                "Width": "480",
+                "Height": "480",
+                "Opacity": "0.3"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~Name",
+                "FontSize": "36",
+                "X": "20",
+                "Y": "20",
+                "Width": "480",
+                "Height": "105",
+                "VerticalTextAlign": "Top"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~Cost",
+                "FontSize": "34",
+                "X": "20",
+                "Y": "130",
+                "Width": "480",
+                "Height": "48"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~StageOneRebate",
+                "FontSize": "30",
+                "FontStyle": "^Regular",
+                "X": "20",
+                "Y": "188",
+                "Width": "480",
+                "Height": "46"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~StageTwoRebate",
+                "FontSize": "30",
+                "FontStyle": "^Regular",
+                "X": "20",
+                "Y": "244",
+                "Width": "480",
+                "Height": "46"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~Target",
+                "FontSize": "34",
+                "FontStyle": "^Regular",
+                "X": "20",
+                "Y": "300",
+                "Width": "480",
+                "Height": "48",
+                "VerticalAlignment": "Top"
+            },   
+            {
+                "Prototype": "CardText",
+                "Content": "~Text",
+                "FontSize": "30",
+                "FontStyle": "^Regular",
+                "X": "20",
+                "Y": "360",
+                "Width": "480",
+                "Height": "370"
+            },
+            {
+                "Prototype": "CardText",
+                "Content": "~Stage",
+                "FontSize": "28",
+                "X": "20",
+                "Y": "730",
+                "Width": "480",
+                "Height": "38"
+            }
+        ]
+    }
+}

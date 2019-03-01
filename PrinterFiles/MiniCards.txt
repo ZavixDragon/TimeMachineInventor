@@ -1,0 +1,5 @@
+..\GeneratorFiles
+..\PrinterFiles\Prints
+MiniCards
+10
+1 Mods/

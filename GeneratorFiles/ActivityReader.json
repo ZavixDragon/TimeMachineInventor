@@ -1,0 +1,34 @@
+{
+    "SpreadSheetID": "1TnGPBWZ_PPZ3n8k6J2O0l7JyccC4DWsqSgy1544q5og",
+    "Range": "Activities!A2:D145",
+    "Output": "ActivityItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 1,
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\b([0-9][0-9]?)(Money)\\b", "\\b([0-9])(Science)\\b", "\\b([0-9])(Parts)\\b", "\\b([0-9])(Energy)\\b", "\\b([0-9])(ChronoMatter)\\b" ], 
+                    "Replacement": "$1[^$2]" 
+                }
+            ] 
+        },
+        { 
+            "ColumnIndex": 2,
+            "Name": "Gain",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\b([0-9][0-9]?)(Money)\\b", "\\b([0-9])(Science)\\b", "\\b([0-9])(Parts)\\b", "\\b([0-9])(Energy)\\b", "\\b([0-9])(ChronoMatter)\\b" ], 
+                    "Replacement": "$1[^$2]" 
+                }
+            ] 
+        },
+        { "ColumnIndex": 3, "Name": "Quality" }
+    ]
+}

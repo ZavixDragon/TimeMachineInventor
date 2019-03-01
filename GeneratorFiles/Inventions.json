@@ -1,0 +1,141 @@
+{
+    "SavePath": "Inventions",
+    "SaveName": "Invention",
+    "Constants": 
+    {
+        "InventionFont": "FreightSansLFPro"
+    },
+    "ImportedConstants": 
+    [
+        "SharedResources.json"
+    ],
+    "ImportedPrototypes":
+    [
+        "SharedResources.json"
+    ],
+    "ImportedItems": 
+    [
+        "InventionItems.json"
+    ],
+    "Blueprint": 
+    {
+        "Prototype": "CardBlueprint",
+        "Elements": 
+        [
+            {
+                "Type": "Image",
+                "Source": "{^ArtPath}Stage{~Stage}.png",
+                "X": "0",
+                "Y": "50",
+                "Width": "750",
+                "Height": "500"
+            },
+            {
+                "Type": "Image",
+                "Source": "^{~Color}Invention",
+                "X": "0",
+                "Y": "0",
+                "Width": "^CardWidth",
+                "Height": "^CardHeight"
+            },
+            {
+                "Type": "Image",
+                "Source": "^~Symbol",
+                "X": "47",
+                "Y": "47",
+                "Width": "130",
+                "Height": "130"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Name",
+                "Font": "^InventionFont",
+                "FontStyle": "^Bold",
+                "X": "190",
+                "Y": "22",
+                "Width": "410",
+                "Height": "100",
+                "FlawedDynamicSizeEnabled": "True"
+            },
+            {
+                "Type": "Text",
+                "Content": "~VictoryPoints",
+                "Font": "^InventionFont",
+                "FontStyle": "^Bold",
+                "FontSize": "40",
+                "X": "607",
+                "Y": "37",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Cost",
+                "Font": "^InventionFont",
+                "FontStyle": "^Bold",
+                "FontSize": "30",
+                "Color": "FFFFFF",
+                "X": "644",
+                "Y": "150",
+                "Width": "100",
+                "Height": "180",
+                "VerticalAlignment": "Top",
+                "HorizontalAlignment": "Left"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Tags",
+                "Font": "^InventionFont",
+                "FontStyle": "^Bold",
+                "FontSize": "30",
+                "Color": "FFFFFF",
+                "X": "190",
+                "Y": "130",
+                "Width": "410",
+                "Height": "90",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Text",
+                "Font": "^InventionFont",
+                "FontStyle": "^Regular",
+                "FontSize": "30",
+                "Color": "FFFFFF",
+                "X": "35",
+                "Y": "480",
+                "Width": "680",
+                "Height": "0",
+                "HorizontalAlignment": "Left",
+                "VerticalAlignment": "Top",
+                "LineAlignment": "Left"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Flavor",
+                "Font": "^InventionFont",
+                "FontStyle": "^Italic",
+                "FontSize": "24",
+                "Color": "FFFFFF",
+                "X": "50",
+                "Y": "970",
+                "Width": "650",
+                "Height": "0",
+                "HorizontalAlignment": "Left",
+                "VerticalAlignment": "Bottom",
+                "LineAlignment": "Left"
+            },
+            {
+                "Type": "Text",
+                "Content": "~Mode",
+                "Font": "^InventionFont",
+                "FontStyle": "^Bold",
+                "FontSize": "20",
+                "X": "50",
+                "Y": "980",
+                "Width": "650",
+                "Height": "30",
+            }
+        ]
+    }
+}

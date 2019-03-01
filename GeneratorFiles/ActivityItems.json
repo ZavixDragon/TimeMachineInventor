@@ -1,0 +1,868 @@
+{
+  "Items": [
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "14[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "16[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "18[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "2[^Science] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Science] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Science] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "2[^Parts] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Parts] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Parts] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "2[^Energy] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Energy] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter]",
+      "Gain": "3[^Energy] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Money]",
+      "Gain": "3[^Science]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 4[^Money]",
+      "Gain": "4[^Science]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 2[^Money]",
+      "Gain": "4[^Science]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Money]",
+      "Gain": "3[^Parts]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 4[^Money]",
+      "Gain": "4[^Parts]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 2[^Money]",
+      "Gain": "4[^Parts]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Money]",
+      "Gain": "3[^Energy]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 4[^Money]",
+      "Gain": "4[^Energy]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 2[^Money]",
+      "Gain": "4[^Energy]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "19[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "21[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "23[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "3[^Parts] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "4[^Parts] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "4[^Parts] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "3[^Energy] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "4[^Energy] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Science]",
+      "Gain": "4[^Energy] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "19[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "21[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "23[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "3[^Science] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "4[^Science] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "4[^Science] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "3[^Energy] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "4[^Energy] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Parts]",
+      "Gain": "4[^Energy] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "19[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "21[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "23[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "3[^Science] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "4[^Science] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "4[^Science] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "3[^Parts] 4[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "4[^Parts] 1[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "2[^ChronoMatter] 1[^Energy]",
+      "Gain": "4[^Parts] 3[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "21[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "24[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "27[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Science] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Science] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "5[^Science] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Parts] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Parts] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "5[^Parts] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Energy] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "4[^Energy] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter]",
+      "Gain": "5[^Energy] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 4[^Money]",
+      "Gain": "5[^Science]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Money]",
+      "Gain": "5[^Science]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 3[^Money]",
+      "Gain": "6[^Science]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 4[^Money]",
+      "Gain": "5[^Parts]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Money]",
+      "Gain": "5[^Parts]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 3[^Money]",
+      "Gain": "6[^Parts]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 4[^Money]",
+      "Gain": "5[^Energy]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Money]",
+      "Gain": "5[^Energy]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 3[^Money]",
+      "Gain": "6[^Energy]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "26[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "29[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "32[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "5[^Parts] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "5[^Parts] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "6[^Parts] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "5[^Energy] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "5[^Energy] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Science]",
+      "Gain": "6[^Energy] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "26[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "29[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "32[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "5[^Science] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "5[^Science] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "6[^Science] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "5[^Energy] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "5[^Energy] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Parts]",
+      "Gain": "6[^Energy] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "26[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "29[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "32[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "5[^Science] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "5[^Science] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "6[^Science] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "5[^Parts] 1[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "5[^Parts] 4[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "3[^ChronoMatter] 1[^Energy]",
+      "Gain": "6[^Parts] 2[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "28[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "32[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "36[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "5[^Science] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "6[^Science] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "7[^Science] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "5[^Parts] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "6[^Parts] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "7[^Parts] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "5[^Energy] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "6[^Energy] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter]",
+      "Gain": "7[^Energy] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 2[^Money]",
+      "Gain": "6[^Science]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 3[^Money]",
+      "Gain": "7[^Science]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 4[^Money]",
+      "Gain": "8[^Science]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 2[^Money]",
+      "Gain": "6[^Parts]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 3[^Money]",
+      "Gain": "7[^Parts]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 4[^Money]",
+      "Gain": "8[^Parts]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 2[^Money]",
+      "Gain": "6[^Energy]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 3[^Money]",
+      "Gain": "7[^Energy]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 4[^Money]",
+      "Gain": "8[^Energy]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "33[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "37[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "41[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "6[^Parts] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "7[^Parts] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "8[^Parts] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "6[^Energy] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "7[^Energy] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Science]",
+      "Gain": "8[^Energy] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "33[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "37[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "41[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "6[^Science] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "7[^Science] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "8[^Science] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "6[^Energy] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "7[^Energy] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Parts]",
+      "Gain": "8[^Energy] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "33[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "37[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "41[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "6[^Science] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "7[^Science] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "8[^Science] 1[^Money]",
+      "Quality": "Future"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "6[^Parts] 3[^Money]",
+      "Quality": "Past"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "7[^Parts] 2[^Money]",
+      "Quality": "Present"
+    },
+    {
+      "Name": "",
+      "Cost": "4[^ChronoMatter] 1[^Energy]",
+      "Gain": "8[^Parts] 1[^Money]",
+      "Quality": "Future"
+    }
+  ]
+}

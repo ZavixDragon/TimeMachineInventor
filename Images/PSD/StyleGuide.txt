@@ -1,0 +1,12 @@
+Primary Color: 424242
+Light: 6d6d6d
+Dark: 1b1b1b
+
+Descriptive Font: Roboto
+Named Header Font: Oswald
+Descriptive Pixel Font Size: 
+Header Pixel Font Size: 50 px
+
+paragraphs must be on light backgrounds
+
+Border pixels of rounded rectangles: 3 px

@@ -1,0 +1,22 @@
+{
+    "SpreadSheetID": "1TnGPBWZ_PPZ3n8k6J2O0l7JyccC4DWsqSgy1544q5og",
+    "Range": "Grants!A2:D25",
+    "Output": "GrantItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 1, "Name": "Type" },
+        { "ColumnIndex": 3, "Name": "Target" },
+        { 
+            "ColumnIndex": 0,
+            "Name": "Effect",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "(Money)()\\b", "\\b(Biotech)()\\b", "\\b(Dark) (Matter)\\b", "\\b(Robotic)()\\b", "\\b(Dimensional)()\\b", "\\b(Purple)()\\b", "\\b(Green)()\\b", "\\b(Yellow)()\\b", "\\b(Red)()\\b" ], 
+                    "Replacement": "[^$1$2]" 
+                }
+            ]   
+        }
+    ]
+}
