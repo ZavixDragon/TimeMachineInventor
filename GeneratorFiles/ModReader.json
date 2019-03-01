@@ -38,22 +38,22 @@
                         "\\b(Purple)\\b",
                         "\\b(Red)\\b",
                         "\\b(Yellow)\\b",
-                        "\\b(Money)\\b",
-                        "\\b(Science)\\b",
-                        "\\b(Parts)\\b",
-                        "\\b(Energy)\\b",
+                        "(Money)\\b",
+                        "(Science)\\b",
+                        "(Parts)\\b",
+                        "(Energy)\\b",
                         "\\b(Past)\\b",
                         "\\b(Present)\\b",
                         "\\b(Future)\\b",
-                        "\\b(Trigger)\\b",
+                        "\\b(Trigger)e?d?s?i?n?g?\\b",
                         "\\b(Effect)\\b",
-                        "\\b(Good)\\b",
-                        "\\b(Evil)\\b",
+                        "(Good)\\b",
+                        "(Evil)\\b",
                         "\\b(Mod)s?\\b",
                         "\\b(Breakthrough)s\\b",
                         "\\b(Overclock)s?e?d?i?n?g?\\b",
-                        "\\b(Produce)\\b",
-                        "\\b(Progress)\\b",
+                        "\\b(Produce)d?s?i?n?g?\\b",
+                        "(Progress)\\b",
                         "\\b(Activate)\\b",
                         "\\b(Grant)s\\b"
                     ], 
@@ -64,8 +64,8 @@
                     "Patterns": 
                     [ 
                         "\\b(Dark) (Matter)\\b", 
-                        "\\b(Chrono) (Matter)\\b",
-                        "\\b(Victory) (Point)s?\\b" 
+                        "(Chrono) (Matter)\\b",
+                        "(Victory) (Point)s?\\b" 
                     ],
                     "Replacement": "[^$1$2]"
                 },
@@ -109,6 +109,15 @@
                     "Type": "Replace",
                     "Patterns": [ " ->" ],
                     "Replacement": "[[WingDings3 u]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "(effect)z",
+                        "(mods?)z"
+                    ],
+                    "Replacement": "$1"
                 }
             ]
         },

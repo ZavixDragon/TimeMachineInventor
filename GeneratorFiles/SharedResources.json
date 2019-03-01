@@ -92,7 +92,7 @@
             "Type": "Text",
             "Font": "Oswald",
             "FontStyle": "^Bold",
-            "FontSize": "50",
+            "FontSize": "40",
             "X": "72",
             "Y": "460",
             "Width": "672",
@@ -114,14 +114,14 @@
             "Type": "Text",
             "Font": "Roboto",
             "FontStyle": "^Bold",
-            "FontSize": "50",
+            "FontSize": "40",
             "Color": "FFFFFF"
         },
         "DescriptionText": 
         {
             "Type": "Text",
             "Font": "Roboto",
-            "FontSize": "40"
+            "FontSize": "30"
         },
 
 

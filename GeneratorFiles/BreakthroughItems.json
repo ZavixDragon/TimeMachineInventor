@@ -2,651 +2,624 @@
   "Items": [
     {
       "Name": "Draft Tech",
-      "Target": "Draft Charge",
-      "Text": "These inventions have once per game gain 1 [^Charge] \n\nWhenever you [[BoldText trigger]] one of these inventions gain 1 [^Money]",
+      "Target": "Draft Progress",
+      "Text": "These inventions have once per game gain 1[^Progress]\n\nWhenever you [^Trigger] one of these inventions gain 1[^Money]",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 3[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Draft Tech",
-      "Target": "Draft Charge",
-      "Text": "These inventions have once per game gain 1 [^Charge] \n\nWhenever you [[BoldText trigger]] one of these inventions gain 2 [^Money]",
+      "Target": "Draft Progress",
+      "Text": "These inventions have once per game gain 1[^Progress] \n\nWhenever you [^Trigger] one of these inventions gain 2[^Money]",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Draft Tech",
       "Target": "Draft",
       "Text": "Each of these inventions is worth 1 additional [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Invent Tech",
-      "Target": "Invent Charge",
-      "Text": "Everytime this invention is [[BoldText triggered]] gain 2 [^Charge] or 2 [^Money] (even after fully [^Charge])",
+      "Target": "Invent Progress",
+      "Text": "Everytime you [^Trigger] these inventions gain 2[^Progress]",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Invent Tech",
-      "Target": "Invent Charge",
-      "Text": "Everytime this invention is [[BoldText triggered]] gain 6 [^Charge] or 1 [^VictoryPoint] (even after fully [^Charge])",
+      "Target": "Invent Progress",
+      "Text": "Everytime you [^Trigger] these inventions gain 6[^Progress]",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Invent Tech",
       "Target": "Invent",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Acquisition Tech",
-      "Target": "Act Charge",
-      "Text": "Gain 1 additional [^Charge] when [[BoldText triggered]]",
+      "Target": "Act Progress",
+      "Text": "Gain 1 additional [^Progress] when you [^Trigger] these inventions",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Acquisition Tech",
-      "Target": "Act Charge",
-      "Text": "Gain 2 [^Money] and 1 additional [^Charge] when [[BoldText triggered]] (even after fully [^Charge])",
+      "Target": "Act Progress",
+      "Text": "Gain 1[^Money] and 1 additional [^Progress] when you [^Trigger] these inventions",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 7 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Acquisition Tech",
       "Target": "Act",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 6 [^Money]",
-      "Cost": "2[^Science] 4[^Money]"
-    },
-    {
-      "Name": "Temporal Tech",
-      "Target": "Chrono Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
-      "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Temporal Tech",
-      "Target": "Chrono Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 4 [^Money]",
-      "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Temporal Tech",
-      "Target": "Chrono Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^ChronoMatter]",
-      "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 2 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 5 [^Money]",
-      "Cost": "2[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Profit Tech",
-      "Target": "Money Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
+      "Target": "Money",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Profit Tech",
-      "Target": "Money Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
+      "Target": "Money",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Profit Tech",
       "Target": "Money",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Research Network Tech",
-      "Target": "Science Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
+      "Target": "Science",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Science] for every pair of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Research Network Tech",
-      "Target": "Science Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
+      "Target": "Science",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Science] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Research Network Tech",
       "Target": "Science",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Recycler Tech",
-      "Target": "Parts Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
+      "Target": "Parts",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Parts] for every pair of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Recycler Tech",
-      "Target": "Parts Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
+      "Target": "Parts",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Parts] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Recycler Tech",
       "Target": "Parts",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Discharge Tech",
-      "Target": "Energy Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
+      "Target": "Energy",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Energy] for every pair of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Discharge Tech",
-      "Target": "Energy Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
+      "Target": "Energy",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Energy] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Discharge Tech",
       "Target": "Energy",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Temporal Donation Tech",
       "Target": "Good",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Gain 1 [^Money] for each [[BoldText Good]] invention you own",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Good] for every pair of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Temporal Donation Tech",
       "Target": "Good",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Gain 2 [^Money] for each [[BoldText Good]] invention you own",
-      "Stage": "1",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Temporal Donation Tech",
-      "Target": "Good",
-      "Text": "These inventions are worth 1 more [^VictoryPoint]",
-      "Stage": "1",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 6 [^Money]",
-      "Cost": "2[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Exploit Tech",
-      "Target": "Evil",
-      "Text": "These inventions have once per game lose 1 [[BoldText Reputation]] but gain 2 [^Science], [^Parts], [^Energy], or 10 [^Money]",
-      "Stage": "1",
-      "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Exploit Tech",
-      "Target": "Evil",
-      "Text": "These inventions have once per game lose 1 [[BoldText Reputation]] but gain 2 [^Science], [^Parts], [^Energy], or 10 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Good] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 16 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 7[^Money]",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Temporal Donation Tech",
+      "Target": "Good",
+      "Text": "These inventions are worth 2 more [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Exploit Tech",
+      "Target": "Evil",
+      "Text": "These inventions have once per game gain 1[^Evil] but gain 2[^Science], 2[^Parts], 2[^Energy], or 10[^Money]",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Exploit Tech",
+      "Target": "Evil",
+      "Text": "These inventions have once per game gain 1[^Evil] but gain 2[^Science], 2[^Parts], 2[^Energy], or 10[^Money]",
+      "Stage": "2",
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 15[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Exploit Tech",
       "Target": "Evil",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "6[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Streamlining Tech",
-      "Target": "Produce Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
+      "Target": "Produce",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Streamlining Tech",
-      "Target": "Produce Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
+      "Target": "Produce",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Streamlining Tech",
       "Target": "Produce",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "4[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Chaos Tech",
       "Target": "Chaos",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Roll 1 dice for each of these inventions and gain that much [^Money]\n1[[WingDings3 u]] -1   2[[WingDings3 u]] 0   3[[WingDings3 u]] 1\n4[[WingDings3 u]] 2   5[[WingDings3 u]] 3   6[[WingDings3 u]] 4",
+      "Text": "[^Activate][[WingDings3 u]] Roll 1 dice for each of these inventions you own and gain that much [^Money]\n1[[WingDings3 u]] -1   2[[WingDings3 u]] 0   3[[WingDings3 u]] 1\n4[[WingDings3 u]] 2   5[[WingDings3 u]] 3   6[[WingDings3 u]] 4",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 1[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Chaos Tech",
       "Target": "Chaos",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Roll 1 dice for each of these inventions and gain that much [^Money]\n1[[WingDings3 u]] -1   2[[WingDings3 u]] 1   3[[WingDings3 u]] 2\n4[[WingDings3 u]] 3   5[[WingDings3 u]] 4   6[[WingDings3 u]] 5",
-      "Stage": "1",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science]"
+      "Text": "[^Activate][[WingDings3 u]] Roll 1 dice for each of these inventions you own and gain that much [^Money]\n1[[WingDings3 u]] -1   2[[WingDings3 u]] 1   3[[WingDings3 u]] 2\n4[[WingDings3 u]] 3   5[[WingDings3 u]] 4   6[[WingDings3 u]] 5",
+      "Stage": "2",
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Chaos Tech",
       "Target": "Chaos",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
-      "Stage": "1",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 5 [^Money]",
-      "Cost": "2[^Science] 3[^Money]"
+      "Stage": "3",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Sustainable Overclocking Tech",
       "Target": "Overclock",
-      "Text": "Every 2 inventions that are [[BoldText Overclock]] in a turn gain 1 [^Money]",
+      "Text": "Every time you [^Overclock] these inventions gain 1[^Money]",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Sustainable Overclocking Tech",
       "Target": "Overclock",
-      "Text": "Every time these inventions are [[BoldText Overclock]] gain 1 [^Money]",
+      "Text": "Every time you [^Overclock] these inventions gain 2[^Money]",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 5[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Sustainable Overclocking Tech",
       "Target": "Overclock",
+      "Text": "Every time you [^Overclock] these inventions gain 1[^VictoryPoint]",
+      "Stage": "3",
+      "Cost": "9",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3[^Money]",
+      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9[^Money]"
+    },
+    {
+      "Name": "Activation Tech",
+      "Target": "Activate",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Activation Tech",
+      "Target": "Activate",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
+      "Stage": "2",
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3[^Money]",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Activation Tech",
+      "Target": "Activate",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "7[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Activation Tech",
-      "Target": "Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 1 [^Money]",
-      "Stage": "1",
-      "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Activation Tech",
-      "Target": "Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power gain 2 [^Money]",
-      "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 7 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Activation Tech",
-      "Target": "Round",
-      "Text": "When you use these inventions [[BoldText Once per Round]][[WingDings3 u]] power lose 3 [^Money] and gain 1 [^VictoryPoint]",
-      "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 1 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 1 [^Money]",
-      "Cost": "3[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Rainbow Tech",
       "Target": "Rainbow",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Gain 1 [^Money] for each different color and type you have between these inventions",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each different color and type you have between these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Rainbow Tech",
       "Target": "Rainbow",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Gain 2 [^Money] for each different color and type you have between these inventions",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each different color and type you have between these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "2[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Rainbow Tech",
       "Target": "Rainbow",
-      "Text": "[[BoldText Once per Round]][[WingDings3 u]] Gain 1 [^VictoryPoint] for each different color and type you have between these inventions",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^VictoryPoint] for each different color and type you have between these inventions you own",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 2 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 6 [^Money]",
-      "Cost": "4[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Matter Rearrange Tech",
       "Target": "Mixed",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Lose 15 [^Money] minus 1 for each [[BoldText Mixed]] inventions you own, and gain 1 [^Science], [^Parts], and [^Energy]",
+      "Text": "[^Activate][[WingDings3 u]] Lose 15[^Money] minus 1 for each [[BoldText Mixed]] inventions you own, and gain 1[^Science], 1[^Parts], and 1[^Energy]",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Matter Rearrange Tech",
       "Target": "Mixed",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Lose 15 [^Money] minus 2 for each [[BoldText Mixed]] invention you own, and gain 1 [^Science], [^Parts], and [^Energy]",
+      "Text": "[^Activate][[WingDings3 u]] Lose 15[^Money] minus 2 for each [[BoldText Mixed]] invention you own, and gain 1[^Science], 1[^Parts], and 1[^Energy]",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 2[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Matter Rearrange Tech",
       "Target": "Mixed",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 4 [^Money]",
-      "Cost": "3[^Science] 1[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Purple Tech",
       "Target": "[^Purple]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Purple Tech",
       "Target": "[^Purple]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Purple Tech",
       "Target": "[^Purple]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Yellow Tech",
       "Target": "[^Yellow]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Yellow Tech",
       "Target": "[^Yellow]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 4[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 1[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Yellow Tech",
       "Target": "[^Yellow]",
-      "Text": "These inventions are worth 1 more [^VictoryPoint]",
+      "Text": "These inventions are worth 2 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Red Tech",
       "Target": "[^Red]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Red Tech",
       "Target": "[^Red]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Red Tech",
       "Target": "[^Red]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Blue Tech",
-      "Target": "[^Blue]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
-      "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
-      "Name": "Blue Tech",
-      "Target": "[^Blue]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Name": "Green Tech",
+      "Target": "Green",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for every pair of these inventions you own",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Green Tech",
+      "Target": "Green",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 4[^Money]",
+      "StageTwoRebate": ""
     },
     {
-      "Name": "Blue Tech",
-      "Target": "[^Blue]",
-      "Text": "These inventions are worth 1 more [^VictoryPoint]",
+      "Name": "Green Tech",
+      "Target": "Green",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^VictoryPoint] for every pair of these inventions you own",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Dark Matter Tech",
       "Target": "[^DarkMatter]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
       "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Dark Matter Tech",
       "Target": "[^DarkMatter]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Dark Matter Tech",
       "Target": "[^DarkMatter]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Robotic Tech",
-      "Target": "[^Robotic]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
-      "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Robotic Tech",
       "Target": "[^Robotic]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Robotic Tech",
+      "Target": "[^Robotic]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Robotic Tech",
       "Target": "[^Robotic]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Dimensional Tech",
-      "Target": "[^Dimensional]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
-      "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Dimensional Tech",
       "Target": "[^Dimensional]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Dimensional Tech",
+      "Target": "[^Dimensional]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Dimensional Tech",
       "Target": "[^Dimensional]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": "6[^Science] 3[^Money]"
-    },
-    {
-      "Name": "Biotech Tech",
-      "Target": "[^Biotech]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 1 [^Money]",
-      "Stage": "1",
+      "Cost": "0",
       "StageOneRebate": "",
-      "StageTwoRebate": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "StageTwoRebate": ""
     },
     {
       "Name": "Biotech Tech",
       "Target": "[^Biotech]",
-      "Text": "Start of [[BoldText Generate]] phase[[WingDings3 u]] Each of these inventions gains 2 [^Money]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] for each of these inventions you own",
+      "Stage": "1",
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
+    },
+    {
+      "Name": "Biotech Tech",
+      "Target": "[^Biotech]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] for each of these inventions you own",
       "Stage": "2",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 8 [^Money]",
-      "StageTwoRebate": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "0",
+      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 6[^Money]",
+      "StageTwoRebate": ""
     },
     {
       "Name": "Biotech Tech",
       "Target": "[^Biotech]",
       "Text": "These inventions are worth 1 more [^VictoryPoint]",
       "Stage": "3",
-      "StageOneRebate": "Stage 1 Bonus[[WingDings3 u]] 3 [^Money]",
-      "StageTwoRebate": "Stage 2 Bonus[[WingDings3 u]] 9 [^Money]",
-      "Cost": ""
+      "Cost": "0",
+      "StageOneRebate": "",
+      "StageTwoRebate": ""
     }
   ]
 }
