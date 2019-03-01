@@ -17,6 +17,7 @@
                 "Prototype": "MiniCardName",
                 "Content": "~Type"
             },
+            
             {
                 "Type": "Image",
                 "Source": "^~Target",
