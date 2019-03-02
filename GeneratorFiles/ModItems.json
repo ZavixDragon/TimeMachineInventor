@@ -45,14 +45,14 @@
     {
       "Name": "Acquisition Mod",
       "Target": "Act Progress",
-      "Text": "Whenever you [^Trigger] this invention treat it as if the Activity costed double the [^ChronoMatter]",
+      "Text": "Whenever you [^Trigger] this invention treat it as if the [^Activity] costed double the [^ChronoMatter]",
       "Stage": "1",
       "Cost": "1[^Parts]"
     },
     {
       "Name": "Acquisition Mod",
       "Target": "Act Progress",
-      "Text": "Whenever you [^Trigger] this invention treat it as if the Activity costed double the [^ChronoMatter]",
+      "Text": "Whenever you [^Trigger] this invention treat it as if the [^Activity] costed double the [^ChronoMatter]",
       "Stage": "2",
       "Cost": "1[^Parts] 1[^Money]"
     },
@@ -80,7 +80,7 @@
     {
       "Name": "Temporal Mod",
       "Target": "Chrono",
-      "Text": "[^Activate][[WingDings3 u]] Gain 3[^ChronoMatter] and draw 1 Activity\nThis invention is worth 1 additional [^VictoryPoint]",
+      "Text": "[^Activate][[WingDings3 u]] Gain 3[^ChronoMatter] and draw 1 [^Activity]\n\nThis invention is worth 1 additional [^VictoryPoint]",
       "Stage": "3",
       "Cost": "6[^Parts]"
     },
@@ -311,7 +311,7 @@
     {
       "Name": "Activator Mod",
       "Target": "Any",
-      "Text": "[^Activate][[WingDings3 u]] Ready this invention and all mods on it\nThis invention is worth 1 additional [^VictoryPoint]",
+      "Text": "[^Activate][[WingDings3 u]] Ready this invention and all mods on it\n\nThis invention is worth 1 additional [^VictoryPoint]",
       "Stage": "3",
       "Cost": "6[^Parts]"
     },
@@ -402,7 +402,7 @@
     {
       "Name": "Legendary Mod",
       "Target": "Goal",
-      "Text": "This mod is worth 1 [^VictoryPoint] for every 2[^VictoryPoint] this invention is worth",
+      "Text": "This mod is worth 1[^VictoryPoint] for every 2[^VictoryPoint] this invention is worth",
       "Stage": "3",
       "Cost": "3[^Parts] 4[^Money]"
     },
@@ -443,7 +443,7 @@
     },
     {
       "Name": "Green Mod",
-      "Target": "Green",
+      "Target": "[^Green]",
       "Text": "This invention is worth an additional 1[^VictoryPoint]",
       "Stage": "3",
       "Cost": "1[^Parts] 1[^Money]"

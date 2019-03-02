@@ -1,6 +1,6 @@
 {
     "SpreadSheetID": "1TnGPBWZ_PPZ3n8k6J2O0l7JyccC4DWsqSgy1544q5og",
-    "Range": "Breakthroughs!A2:M70",
+    "Range": "Breakthroughs!A2:N70",
     "Output": "BreakthroughItems.json",
     "Properties": 
     [
@@ -12,7 +12,7 @@
             [
                 { 
                     "Type": "Replace", 
-                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\Green\\b", "\\bRed\\b", "\\bYellow\\b" ], 
+                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\bGreen\\b", "\\bRed\\b", "\\bYellow\\b" ], 
                     "Replacement": "[^$&]" 
                 },
                 { 
@@ -42,6 +42,7 @@
                         "(Science)\\b",
                         "(Parts)\\b",
                         "(Energy)\\b",
+                        "(Activity)\\b",
                         "\\b(Past)\\b",
                         "\\b(Present)\\b",
                         "\\b(Future)\\b",
@@ -115,7 +116,8 @@
                     "Patterns": 
                     [ 
                         "(effect)z",
-                        "(mods?)z"
+                        "(mods?)z",
+                        "(activate)z"
                     ],
                     "Replacement": "$1"
                 }
@@ -123,7 +125,7 @@
         },
         { "ColumnIndex": 3, "Name": "Stage" },
         { 
-            "ColumnIndex": 10, 
+            "ColumnIndex": 12, 
             "Name": "Cost",
             "Modifiers": 
             [
@@ -134,6 +136,7 @@
                 }
             ]
         },
+        { "ColumnIndex": "13", "Name": "Rebates" },
         {
             "ColumnIndex": 9,
             "Name": "StageOneRebate",
@@ -147,7 +150,7 @@
                 {
                     "Type": "Replace",
                     "Patterns": [ "[0-9][0-9]?" ],
-                    "Replacement": "Stage 1 Bonus[[WingDings3 u]] $&[^Money]"
+                    "Replacement": "$&[^Money]"
                 }
             ]
         },
@@ -164,7 +167,7 @@
                 {
                     "Type": "Replace",
                     "Patterns": [ "[0-9][0-9]?" ],
-                    "Replacement": "Stage 2 Bonus[[WingDings3 u]] $&[^Money]"
+                    "Replacement": "$&[^Money]"
                 }
             ]
         }

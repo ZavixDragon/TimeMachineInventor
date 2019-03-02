@@ -17,22 +17,21 @@
                 "Prototype": "MiniCardName",
                 "Content": "~Type"
             },
-            
             {
                 "Type": "Image",
                 "Source": "^~Target",
-                "X": "241",
-                "Y": "180",
-                "Width": "110",
-                "Height": "110"
+                "X": "246",
+                "Y": "200",
+                "Width": "100",
+                "Height": "100"
             },
             {
                 "Prototype": "DescriptionText",
                 "Content": "~Effect",
                 "X": "72",
-                "Y": "380",
+                "Y": "580",
                 "Width": "448",
-                "Height": "400"
+                "Height": "200"
             }
         ]
     }

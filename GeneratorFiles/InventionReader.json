@@ -14,32 +14,44 @@
                     "Type": "Replace", 
                     "Patterns": 
                     [ 
-                        "\\b(Money)\\b", 
-                        "\\b(Science)\\b", 
-                        "\\b(Parts)\\b", 
-                        "\\b(Energy)\\b", 
-                        "\\b(Robotic)\\b", 
-                        "\\b(Biotech)\\b", 
-                        "\\b(Dimensional)\\b", 
-                        "\\b(Mod)s?\\b", 
-                        "\\b(Breakthrough)s?\\b" ,
-                        "\\b(Purple)\\b", 
-                        "\\b(Blue)\\b", 
-                        "\\b(Red)\\b", 
+                        "\\b(Biotech)\\b",
+                        "\\b(Dimensional)\\b",
+                        "\\b(Robotic)\\b",
+                        "\\b(Green)\\b",
+                        "\\b(Purple)\\b",
+                        "\\b(Red)\\b",
                         "\\b(Yellow)\\b",
-                        "\\b(Charge)s?e?d?i?n?g?\\b"
+                        "(Money)\\b",
+                        "(Science)\\b",
+                        "(Parts)\\b",
+                        "(Energy)\\b",
+                        "(Activity)\\b",
+                        "\\b(Past)\\b",
+                        "\\b(Present)\\b",
+                        "\\b(Future)\\b",
+                        "\\b(Trigger)e?d?s?i?n?g?\\b",
+                        "\\b(Effect)\\b",
+                        "(Good)\\b",
+                        "(Evil)\\b",
+                        "\\b(Mod)s?\\b",
+                        "\\b(Breakthrough)s\\b",
+                        "\\b(Overclock)s?e?d?i?n?g?\\b",
+                        "\\b(Produce)d?s?i?n?g?\\b",
+                        "(Progress)\\b",
+                        "\\b(Activate)\\b",
+                        "\\b(Grant)s\\b"
                     ], 
                     "Replacement": "[^$1]" 
                 },
                 {
                     "Type": "Replace",
-                    "Patterns": [ "\\b(Victory) (Point)s?\\b", "\\b(Chrono) (Matter)\\b" ],
+                    "Patterns": 
+                    [ 
+                        "\\b(Dark) (Matter)\\b", 
+                        "(Chrono) (Matter)\\b",
+                        "(Victory) (Point)s?\\b" 
+                    ],
                     "Replacement": "[^$1$2]"
-                },
-                { 
-                    "Type": "Replace", 
-                    "Patterns": [ "\\bDark Matter\\b" ], 
-                    "Replacement": "[^DarkMatter]" 
                 },
                 {
                     "Type": "Replace",
@@ -51,26 +63,22 @@
                         "\\b(Generates?e?d?i?n?g?)\\b",
                         "\\b(Chrono)\\b",
                         "\\b(Money)z\\b", 
-                        "\\b(Good)\\b",
-                        "\\b(Evil)\\b",
+                        "\\b(Good)z\\b",
+                        "\\b(Evil)z\\b",
                         "\\b(Science)z\\b", 
                         "\\b(Parts)z\\b", 
                         "\\b(Energy)z\\b", 
                         "\\b(Goal)\\b",
-                        "\\b(Produce?s?d?i?n?g?)\\b",
+                        "\\b(Produce?s?d?i?n?g?)z\\b",
                         "\\b(Chaos)\\b",
                         "\\b(Chances?)\\b",
                         "\\b(Round)z\\b",
                         "\\b(Rainbow)\\b",
                         "\\b(Mixed)\\b",
                         "\\b(Trade)\\b",
-                        "\\b(Overclocks?e?d?i?n?g?)\\b",
+                        "\\b(Overclock)s?e?d?i?n?g?z\\b",
                         "\\b(Reputation)\\b",
-
-                        "(Once per Round)", 
-                        "(Triggers?e?d?i?n?g?)", 
-                        "(Effect)",
-                        "(Start of Generate phase)",
+                        
                         "(End of Game)",
                         "(End of Draft phase)"
                     ],
@@ -85,24 +93,23 @@
                     "Type": "Replace",
                     "Patterns": [ " ->" ],
                     "Replacement": "[[WingDings3 u]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "(effect)z",
+                        "(mods?)z",
+                        "(activate)z"
+                    ],
+                    "Replacement": "$1"
                 }
             ]
         },
         { "ColumnIndex": 2, "Name": "Tags" },
         { "ColumnIndex": 3, "Name": "Flavor" },
         { "ColumnIndex": 4, "Name": "Stage" },
-        { 
-            "ColumnIndex": 5, 
-            "Name": "Symbol",
-            "Modifiers": 
-            [
-                { 
-                    "Type": "Replace",
-                    "Patterns": [ "Dark Matter" ],
-                    "Replacement": "DarkMatter"
-                }
-            ]
-        },
+        { "ColumnIndex": 5, "Name": "Symbol" },
         { "ColumnIndex": 6, "Name": "Color" },
         { 
             "ColumnIndex": 7, 
@@ -116,7 +123,18 @@
                 }
             ]  
         },
-        { "ColumnIndex": 8, "Name": "Mode" },
+        { 
+            "ColumnIndex": 8, 
+            "Name": "Mode",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "General" ],
+                    "Replacement": ""
+                }
+            ]
+        },
         { 
             "ColumnIndex": 9, 
             "Name": "Cost",

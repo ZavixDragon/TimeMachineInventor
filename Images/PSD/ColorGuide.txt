@@ -1,0 +1,29 @@
+http://paletton.com
+
+Green Light Movements: 2 2
+Green Light: BBFBDC
+Green Base: 00E676
+Green Dark: 002A16
+Green Dark Tint: 00160B
+Green Dark Movements: 2 2 2
+
+Purple Light Movements: 2 2
+Purple Light: E1D3FF
+Purple Base: 651FFF
+Purple Dark: 1D015C
+Purple Dark Tint: 13003D
+Purple Dark Movements: 2 2 1
+
+Red Light Movements: 2 2
+Red Light: FFE6EB
+Red Base: FF1744
+Red Dark: 36000B
+Red Dark Tint: 1C0005
+Red Dark Movements: 2 2 2 2
+
+Yellow Light Movements: 2 2
+Yellow Light: FFF9B3
+Yellow Base: FFEA00
+Yellow Dark: 4C4500
+Yellow Dark Tint: 2C2800
+Yellow Dark Movements: 2 2

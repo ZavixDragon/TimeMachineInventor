@@ -12,7 +12,7 @@
             [
                 { 
                     "Type": "Replace", 
-                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\Green\\b", "\\bRed\\b", "\\bYellow\\b" ], 
+                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\bGreen\\b", "\\bRed\\b", "\\bYellow\\b" ], 
                     "Replacement": "[^$&]" 
                 },
                 { 
@@ -42,6 +42,7 @@
                         "(Science)\\b",
                         "(Parts)\\b",
                         "(Energy)\\b",
+                        "(Activity)\\b",
                         "\\b(Past)\\b",
                         "\\b(Present)\\b",
                         "\\b(Future)\\b",
@@ -115,7 +116,8 @@
                     "Patterns": 
                     [ 
                         "(effect)z",
-                        "(mods?)z"
+                        "(mods?)z",
+                        "(activate)z"
                     ],
                     "Replacement": "$1"
                 }

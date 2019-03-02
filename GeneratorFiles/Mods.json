@@ -21,25 +21,26 @@
                 "Prototype": "FlashyText",
                 "Content": "~Target",
                 "X": "72",
-                "Y": "170",
-                "Width": "300",
-                "Height": "130"  
+                "Y": "180",
+                "Width": "448",
+                "Height": "80"  
             },
             {
                 "Prototype": "FlashyText",
+                "Color": "FFFFFF",
                 "Content": "~Cost",
-                "X": "380",
-                "Y": "200",
-                "Width": "140",
-                "Height": "70"
+                "X": "72",
+                "Y": "260",
+                "Width": "448",
+                "Height": "80"
             },  
             {
                 "Prototype": "DescriptionText",
                 "Content": "~Text",
                 "X": "72",
-                "Y": "380",
+                "Y": "340",
                 "Width": "448",
-                "Height": "400"
+                "Height": "450"
             }
         ]
     }

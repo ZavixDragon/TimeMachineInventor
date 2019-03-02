@@ -14,28 +14,36 @@
                 "Source": "^CardActivity"
             },
             {
+                "Prototype": "MiniCardName",
+                "Content": "~Name"
+            },
+            {
                 "Type": "Image",
                 "Source": "^~Quality",
-                "X": "425",
-                "Y": "425",
-                "Width": "90",
-                "Height": "90"
+                "X": "410",
+                "Y": "430",
+                "Width": "100",
+                "Height": "100"
             },
             {
                 "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "FontStyle": "^Bold",
                 "Content": "Cost\n{~Cost}",
                 "X": "72",
-                "Y": "160",
+                "Y": "180",
                 "Width": "448",
-                "Height": "310"
+                "Height": "300"
             },
             {
                 "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "FontStyle": "^Bold",
                 "Content": "Gain\n{~Gain}",
                 "X": "72",
-                "Y": "470",
+                "Y": "480",
                 "Width": "448",
-                "Height": "310"
+                "Height": "300"
             }
         ]
     }
