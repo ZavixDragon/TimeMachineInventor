@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Activities",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Border",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Activities/Activity.png",
+            "Back": "../Images/CardBackActivity.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 143 } }
+        }
+    ]
+}

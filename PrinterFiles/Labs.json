@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Labs",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Border",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Labs/Lab.png",
+            "Back": "../Images/CardBackLab.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 7 } }
+        }
+    ]
+}

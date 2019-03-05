@@ -1,6 +1,0 @@
-..\GeneratorFiles\Inventions
-Prints
-Inventions
-36
-1 Invention0.png
-1 Inventions\Invention395.png

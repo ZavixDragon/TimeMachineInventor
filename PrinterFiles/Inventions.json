@@ -36,6 +36,6 @@
             "Front": "../GeneratorFiles/Inventions/Invention.png",
             "Back": "../Images/CardBackInventionStarter.png",
             "Range": { "Type": "Range", "Range": { "Start": 218, "End": 225 } }
-        },
+        }
     ]
 }

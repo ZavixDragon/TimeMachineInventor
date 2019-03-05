@@ -6,23 +6,11 @@
       "Tags": "Draft Progress Mixed Overclock",
       "Flavor": "I’m purple",
       "Stage": "1",
-      "Symbol": "Biotech",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Energy]"
-    },
-    {
-      "Name": "Yellow Publicity Program",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "A richer Future",
-      "Stage": "1",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "4",
-      "Mode": "",
-      "Cost": "4[^Science] 2[^Money]"
+      "Cost": "3[^Science]"
     },
     {
       "Name": "Seeing Red Program",
@@ -34,19 +22,7 @@
       "Color": "Red",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts]"
-    },
-    {
-      "Name": "Green Publicity City",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "We make everyone's lives easier, and with the newest model, things just got easier",
-      "Stage": "1",
-      "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "2[^Science] 2[^Money]"
+      "Cost": "3[^Energy]"
     },
     {
       "Name": "Dark Matter Cult",
@@ -55,10 +31,10 @@
       "Flavor": "Dark Matter is the key to unlocking all the secrets of the universe",
       "Stage": "1",
       "Symbol": "DarkMatter",
-      "Color": "Red",
-      "VictoryPoints": "2",
+      "Color": "Green",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Parts]"
+      "Cost": "2[^Parts] 1[^Money]"
     },
     {
       "Name": "Robotic Catalog",
@@ -67,22 +43,10 @@
       "Flavor": "On the horizon of robotic tech, you may own a robot chef",
       "Stage": "1",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "2[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Dimension Mapper",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "To understand the nature of parallel dimensions, we must map the differences",
-      "Stage": "1",
-      "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "2[^Energy] 1[^Money]"
+      "Cost": "3[^Energy] 4[^Money]"
     },
     {
       "Name": "Biotech Scanners",
@@ -91,22 +55,10 @@
       "Flavor": "Humanity’s next step in evolution is just a scan away",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "3[^Science]"
-    },
-    {
-      "Name": "Intro to Future Socities",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 6_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] Gain 1[^Progress]",
-      "Tags": "Draft Rainbow Progress Mixed Overclock",
-      "Flavor": "A look into the socities of the Future",
-      "Stage": "1",
-      "Symbol": "DarkMatter",
       "Color": "Yellow",
       "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "4[^Parts] 1[^Money]"
+      "Cost": "3[^Science] 4[^Money]"
     },
     {
       "Name": "Intro to Future Sciences",
@@ -118,7 +70,7 @@
       "Color": "Red",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts] 2[^Money]"
+      "Cost": "3[^Energy] 2[^Money]"
     },
     {
       "Name": "Multitasker Implant",
@@ -133,64 +85,16 @@
       "Cost": "2[^Parts] 1[^Money]"
     },
     {
-      "Name": "Residual Energy Collector",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 20_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 32_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
-      "Tags": "Invent Progress Energy Overclock",
-      "Flavor": "No need to be wasteful, you never really lose energy if you know how to capture it",
-      "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Red",
-      "VictoryPoints": "1",
-      "Mode": "Advanced",
-      "Cost": "3[^Energy] 2[^Money]"
-    },
-    {
-      "Name": "Matter Recycler",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 20_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 32_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
-      "Tags": "Invent Progress Parts Overclock",
-      "Flavor": "I throw everything in there! I don't like that person's car... into my recycler it goes",
-      "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "2[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Subconscious Implant",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]] [[ChargeText 32_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
-      "Tags": "Invent Progress Science Overclock",
-      "Flavor": "Subliminal Researching",
-      "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Red",
-      "VictoryPoints": "1",
-      "Mode": "Advanced",
-      "Cost": "3[^Science] 2[^Money]"
-    },
-    {
       "Name": "Specialized Purple Tech Tools",
       "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Purple] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 10_[[WingDings3 u]]_10[^Money]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 32_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
       "Tags": "Invent Progress Mixed Overclock",
       "Flavor": "The world will see my true color!",
       "Stage": "1",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
       "Cost": "3[^Science] 2[^Money]"
-    },
-    {
-      "Name": "Specialized Yellow Tech Tools",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Yellow] invention \n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 30_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 38_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
-      "Tags": "Invent Progress Mixed Overclock",
-      "Flavor": "Pristine tools...",
-      "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "4[^Parts] 1[^Money]"
     },
     {
       "Name": "Specialized Red Tech Tools",
@@ -198,11 +102,11 @@
       "Tags": "Invent Progress Mixed Overclock",
       "Flavor": "They may look like ordinary tools...",
       "Stage": "1",
-      "Symbol": "Biotech",
+      "Symbol": "DarkMatter",
       "Color": "Red",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
+      "Cost": "3[^Parts] 2[^Money]"
     },
     {
       "Name": "Specialized Green Tech Tools",
@@ -210,7 +114,7 @@
       "Tags": "Invent Progress Mixed Overclock",
       "Flavor": "Tools to make a better world",
       "Stage": "1",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
@@ -223,10 +127,10 @@
       "Flavor": "Now with a steady supply of dark matter, our research can continue",
       "Stage": "1",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "2[^Parts] 3[^Money]"
+      "Cost": "3[^Science] 2[^Money]"
     },
     {
       "Name": "Hive Mind",
@@ -259,10 +163,10 @@
       "Flavor": "Want scales for your skin or maybe some fur, just come in to get your skin grafts",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Parts] 2[^Money]"
+      "Cost": "2[^Energy] 3[^Money]"
     },
     {
       "Name": "Dimensional Phone",
@@ -274,7 +178,7 @@
       "Color": "Green",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "2[^Energy]"
+      "Cost": "2[^Science]"
     },
     {
       "Name": "Cross-Researching AI",
@@ -298,7 +202,7 @@
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "2[^Science] 2[^Money]"
+      "Cost": "2[^Energy] 2[^Money]"
     },
     {
       "Name": "Temporal Investment Program",
@@ -310,7 +214,7 @@
       "Color": "Green",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "1[^Parts] 4[^Money]"
+      "Cost": "1[^Science] 4[^Money]"
     },
     {
       "Name": "Scientific Publishing Program",
@@ -319,10 +223,10 @@
       "Flavor": "Just enough Science for the masses to debate over, while us real scientists do the work",
       "Stage": "1",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Color": "Red",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "1[^Science] 4[^Money]"
+      "Cost": "2[^Science] 3[^Money]"
     },
     {
       "Name": "Parts Black Market Program",
@@ -330,11 +234,11 @@
       "Tags": "Act Progress Parts Overclock",
       "Flavor": "Isn't that our prototype Battery being sold...",
       "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "1[^Parts] 4[^Money]"
+      "Cost": "3[^Parts] 2[^Money]"
     },
     {
       "Name": "Energy Bank",
@@ -342,7 +246,7 @@
       "Tags": "Act Progress Energy Overclock",
       "Flavor": "Collecting interest on my energy",
       "Stage": "1",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Red",
       "VictoryPoints": "2",
       "Mode": "",
@@ -354,11 +258,11 @@
       "Tags": "Act Progress Mixed Overclock",
       "Flavor": "Wanna see what happened back then? Feel free to zoom in to that time",
       "Stage": "1",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Purple",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Energy]"
+      "Cost": "3[^Parts]"
     },
     {
       "Name": "Holo Disguise",
@@ -379,22 +283,10 @@
       "Flavor": "Ever wanted to see your future?",
       "Stage": "1",
       "Symbol": "DarkMatter",
-      "Color": "Red",
-      "VictoryPoints": "2",
+      "Color": "Green",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Quickening Field",
-      "Text": "You may take one action before any other player during [[BoldText Act]] phase",
-      "Tags": "Act Unique",
-      "Flavor": "They're quick but I'm much quicker!",
-      "Stage": "1",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "4[^Energy] 3[^Money]"
+      "Cost": "2[^Science] 2[^Money]"
     },
     {
       "Name": "Future Sight Sunglasses",
@@ -406,18 +298,6 @@
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Energy]"
-    },
-    {
-      "Name": "Anti-Apocalypse Tech",
-      "Text": "When invented, gain 1[^Good]\n\nOnce per game, as an action, during [[BoldText Act]] phase, gain a Breakthrough for free but it applies to all players",
-      "Tags": "Act Good",
-      "Flavor": "The world is doomed unless this breakthrough happens now",
-      "Stage": "1",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "1",
-      "Mode": "Advanced",
       "Cost": "3[^Science]"
     },
     {
@@ -451,10 +331,10 @@
       "Flavor": "I needed this part yesterday, time to order it in the Past",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Cost": "2[^Parts] 1[^Money]"
     },
     {
       "Name": "Power Dispenser",
@@ -463,10 +343,10 @@
       "Flavor": "Hope this doesn’t steal my cred!",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy]"
+      "Cost": "2[^Energy] 1[^Money]"
     },
     {
       "Name": "Science Smuggling Program",
@@ -475,10 +355,10 @@
       "Flavor": "Other countries pay top dollar for last week's discoveries",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "2[^Energy] 3[^Money]"
+      "Cost": "3[^Parts] 3[^Money]"
     },
     {
       "Name": "Inventor's Space",
@@ -486,11 +366,11 @@
       "Tags": "Produce Parts Overclock",
       "Flavor": "Here we have lots of parts to invent until you're content",
       "Stage": "1",
-      "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Symbol": "Dimensional",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts] 3[^Money]"
+      "Cost": "4[^Parts] 2[^Money]"
     },
     {
       "Name": "Black Hole Generator",
@@ -498,7 +378,7 @@
       "Tags": "Produce Energy Overclock",
       "Flavor": "The more I work on this, the better it gets",
       "Stage": "1",
-      "Symbol": "Dimensional",
+      "Symbol": "Robotic",
       "Color": "Red",
       "VictoryPoints": "1",
       "Mode": "",
@@ -511,10 +391,10 @@
       "Flavor": "If they abuse the dark matter, we'll just go back in time and cancel their order",
       "Stage": "1",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "2[^Parts] 3[^Money]"
+      "Cost": "3[^Parts] 3[^Money]"
     },
     {
       "Name": "Automated Experimenting",
@@ -522,11 +402,11 @@
       "Tags": "Produce Science Overclock",
       "Flavor": "The Last 301,789 experiments were failures, but I'm optimistic",
       "Stage": "1",
-      "Symbol": "Robotic",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Science] 2[^Money]"
+      "Cost": "2[^Science] 3[^Money]"
     },
     {
       "Name": "Combustion Plant",
@@ -534,7 +414,7 @@
       "Tags": "Produce Energy Overclock",
       "Flavor": "Don't bring those safety concerns in here! It's a power plant that literally runs off explosions!",
       "Stage": "1",
-      "Symbol": "Robotic",
+      "Symbol": "Dimensional",
       "Color": "Red",
       "VictoryPoints": "1",
       "Mode": "",
@@ -546,11 +426,11 @@
       "Tags": "Produce Money Overclock",
       "Flavor": "The power companies wish they could charge us with assault and batteries",
       "Stage": "1",
-      "Symbol": "Robotic",
+      "Symbol": "Dimensional",
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "2[^Parts] 3[^Money]"
+      "Cost": "2[^Science] 3[^Money]"
     },
     {
       "Name": "Science Assistant Program",
@@ -570,7 +450,7 @@
       "Tags": "Produce Parts Overclock",
       "Flavor": "Energy you can hold!",
       "Stage": "1",
-      "Symbol": "Dimensional",
+      "Symbol": "Robotic",
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
@@ -589,28 +469,16 @@
       "Cost": "1[^Science] 1[^Parts] 1[^Energy] 5[^Money]"
     },
     {
-      "Name": "Temporal Gambling Device",
-      "Text": "[^Produce][[WingDings3 u]] Gain 1[^Evil], gain 10[^Money]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Evil], gain 12[^Money]",
-      "Tags": "Produce Evil Money Overclock",
-      "Flavor": "Yes, it’s incredibly illegal but they haven't caught me yet!",
-      "Stage": "1",
-      "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "2[^Energy] 2[^Money]"
-    },
-    {
       "Name": "Spy Bots",
       "Text": "[^Produce][[WingDings3 u]] Gain 1[^Evil], gain 2[^Science]\n\n[^Overclock] 3[[WingDings3 u]] Gain 1[^Evil], gain 3[^Science]",
       "Tags": "Produce Evil Science Overclock",
       "Flavor": "All your Science are belong to us!",
       "Stage": "1",
-      "Symbol": "Dimensional",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Science] 2[^Money]"
+      "Cost": "2[^Science] 2[^Money]"
     },
     {
       "Name": "Moon Mining Apparatus",
@@ -619,10 +487,10 @@
       "Flavor": "Do we really need a moon?",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "1[^Parts] 3[^Money]"
+      "Cost": "3[^Parts] 2[^Money]"
     },
     {
       "Name": "Human Battery",
@@ -631,10 +499,10 @@
       "Flavor": "Living humans are an incredible power source; Our prisons could be human power plants!",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "2[^Energy] 2[^Money]"
+      "Cost": "1[^Energy] 3[^Money]"
     },
     {
       "Name": "Hunger Detector",
@@ -646,7 +514,7 @@
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy] 1[^Money]"
+      "Cost": "3[^Science] 1[^Money]"
     },
     {
       "Name": "Medcial Tech Program",
@@ -654,11 +522,11 @@
       "Tags": "Produce Good Overclock",
       "Flavor": "The cure to that disease is coming out next month",
       "Stage": "1",
-      "Symbol": "Robotic",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts]"
+      "Cost": "3[^Energy]"
     },
     {
       "Name": "Emergancy Shelter Program",
@@ -697,28 +565,16 @@
       "Cost": "4[^Energy] 2[^Money]"
     },
     {
-      "Name": "Space Elevator",
-      "Text": "[^Produce][[WingDings3 u]] Pay 1[^Parts], gain 2[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 6_[[WingDings3 u]]_30[^Money]]] [[ChargeText 9_[[WingDings3 u]]_20[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Progress]",
-      "Tags": "Produce Progress Money Overclock",
-      "Flavor": "Moving people and resources to and from space!",
-      "Stage": "1",
-      "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "2[^Parts] 2[^Money]"
-    },
-    {
       "Name": "Black Hole Analyzer",
       "Text": "[^Produce][[WingDings3 u]] Pay 1[^Parts], gain 2[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 6_[[WingDings3 u]]_6[^Science]]] [[ChargeText 9_[[WingDings3 u]]_4[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Progress]",
       "Tags": "Produce Progress Science Overclock",
       "Flavor": "Once we have finished analyzing this black hole, we will know the secrets of the universe",
       "Stage": "1",
-      "Symbol": "DarkMatter",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "Cost": "2[^Science] 2[^Money]"
     },
     {
       "Name": "Unstable Extracter",
@@ -726,11 +582,11 @@
       "Tags": "Produce Progress Parts Overclock",
       "Flavor": "It's gotta be carefully watched if you wanna get anything from this",
       "Stage": "1",
-      "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": "1[^Parts] 3[^Money]"
     },
     {
       "Name": "Black Hole Energy",
@@ -739,10 +595,10 @@
       "Flavor": "Nothing can escape a black hole's gravity... while in the same dimension",
       "Stage": "1",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "1[^Energy] 3[^Money]"
+      "Cost": "2[^Energy] 2[^Money]"
     },
     {
       "Name": "Pollution Killing Nanites",
@@ -754,7 +610,7 @@
       "Color": "Yellow",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Science] 4[^Money]"
+      "Cost": "3[^Parts] 4[^Money]"
     },
     {
       "Name": "Chrono Matter Capturer",
@@ -763,10 +619,10 @@
       "Flavor": "This device is really good at getting chrono matter, but it doesn't like to share",
       "Stage": "1",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Color": "Red",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "1[^Parts] 3[^Money]"
+      "Cost": "2[^Energy] 2[^Money]"
     },
     {
       "Name": "Chaos Brain In A Jar",
@@ -774,11 +630,11 @@
       "Tags": "Activate Draft Chaos Money",
       "Flavor": "This brain always has ideas, I'm just not sure if any of them are good!",
       "Stage": "1",
-      "Symbol": "Biotech",
+      "Symbol": "Robotic",
       "Color": "Purple",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Science]"
+      "Cost": "3[^Energy]"
     },
     {
       "Name": "Chaos Insomnia Implant",
@@ -790,7 +646,7 @@
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
+      "Cost": "3[^Science] 2[^Money]"
     },
     {
       "Name": "Chaos Portal",
@@ -802,7 +658,7 @@
       "Color": "Purple",
       "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "2[^Science] 4[^Money]"
+      "Cost": "2[^Parts] 4[^Money]"
     },
     {
       "Name": "Chaos Modding AI",
@@ -815,18 +671,6 @@
       "VictoryPoints": "3",
       "Mode": "",
       "Cost": "2[^Parts] 4[^Money]"
-    },
-    {
-      "Name": "Future History Chaos Pad",
-      "Text": "When invented, gain 1[^Evil]\nDuring [[BoldText Act]] phase, D & R 2 [^Breakthrough]\n\n[^Overclock] 0[[WingDings3 u]] Usable directly after you draw the [^Breakthrough]: gain 2 [[BoldText Chances]] with this invention",
-      "Tags": "Act Chaos Evil Overclock Unique",
-      "Flavor": "Show me a Future Breakthrough... this time, make it one that might actually be useful",
-      "Stage": "1",
-      "Symbol": "Biotech",
-      "Color": "Purple",
-      "VictoryPoints": "2",
-      "Mode": "Advanced",
-      "Cost": "2[^Science] 3[^Money]"
     },
     {
       "Name": "Alternate Universe Portal",
@@ -862,7 +706,7 @@
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Science]"
+      "Cost": "3[^Energy]"
     },
     {
       "Name": "Maximum Potential Realizer",
@@ -870,11 +714,11 @@
       "Tags": "Progress Mixed Overclock",
       "Flavor": "Maximum Power!",
       "Stage": "1",
-      "Symbol": "Biotech",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "2[^Energy] 3[^Money]"
+      "Cost": "2[^Parts] 3[^Money]"
     },
     {
       "Name": "Temporal Mod Shop",
@@ -889,28 +733,16 @@
       "Cost": "3[^Parts] 1[^Money]"
     },
     {
-      "Name": "Tech Review Program",
-      "Text": "[^Trigger][[WingDings3 u]] Gain or upgrade a Breakthrough\n[^Effect][[WingDings3 u]] Gain 2[^Money]\n\n[^Overclock] 3[[WingDings3 u]] Usable at the start of [[BoldText Act]] phase: reserve a Breakthrough",
-      "Tags": "Act Money Overclock Unique",
-      "Flavor": "Time to put this tech to the test",
-      "Stage": "1",
-      "Symbol": "Biotech",
-      "Color": "Purple",
-      "VictoryPoints": "2",
-      "Mode": "Advanced",
-      "Cost": "3[^Science] 1[^Money]"
-    },
-    {
       "Name": "Research Exchange Program",
       "Text": "You may convert [^Science] into [^Parts] or [^Energy]",
       "Tags": "Trade Science",
       "Flavor": "Ooh, my new transfer parts have arrived!",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Color": "Purple",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "2[^Science]"
+      "Cost": "2[^Science] 4[^Money]"
     },
     {
       "Name": "Matter Converter",
@@ -919,10 +751,10 @@
       "Flavor": "It doesn't matter what I put in this converter",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "3",
+      "Color": "Purple",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts] 3[^Money]"
+      "Cost": "2[^Parts] 4[^Money]"
     },
     {
       "Name": "Energy Converter",
@@ -931,10 +763,10 @@
       "Flavor": "Energy Materialization, Facinating!",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "4",
+      "Color": "Purple",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "4[^Energy]"
+      "Cost": "3[^Energy] 1[^Money]"
     },
     {
       "Name": "Temporal Market Program",
@@ -943,10 +775,10 @@
       "Flavor": "Uranium is dirt cheap if you know where in history to buy them",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "1[^Energy] 4[^Money]"
+      "Cost": "2[^Parts] 4[^Money]"
     },
     {
       "Name": "Black Market Program",
@@ -955,10 +787,10 @@
       "Flavor": "There are people paying fortunes for resources they need; you just gotta know where to look",
       "Stage": "1",
       "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Science] 3[^Money]"
+      "Cost": "1[^Science] 4[^Money]"
     },
     {
       "Name": "Elite Clientele Locator",
@@ -970,7 +802,7 @@
       "Color": "Yellow",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "4[^Parts] 2[^Money]"
+      "Cost": "4[^Energy] 2[^Money]"
     },
     {
       "Name": "Popular Inventions Display",
@@ -982,7 +814,7 @@
       "Color": "Yellow",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "4[^Energy] 2[^Money]"
+      "Cost": "4[^Science] 2[^Money]"
     },
     {
       "Name": "Perfection AI",
@@ -1006,7 +838,7 @@
       "Color": "Purple",
       "VictoryPoints": "1[[WingDings s]]",
       "Mode": "",
-      "Cost": "2[^Parts] 4[^Money]"
+      "Cost": "2[^Energy] 4[^Money]"
     },
     {
       "Name": "Rube Goldberg Machine",
@@ -1027,10 +859,310 @@
       "Flavor": "I have never even heard of 1.0",
       "Stage": "1",
       "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "1",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy] 4[^Money]"
+      "Cost": "2[^Parts] 4[^Money]"
+    },
+    {
+      "Name": "Subconscious Implant",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]] [[ChargeText 32_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Science Overclock",
+      "Flavor": "Subliminal Researching",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Red",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "3[^Science]"
+    },
+    {
+      "Name": "Matter Recycler",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 20_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 32_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Parts Overclock",
+      "Flavor": "I throw everything in there! I don't like that person's car... into my recycler it goes",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Red",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "3[^Parts] 1[^Money]"
+    },
+    {
+      "Name": "Quickening Field",
+      "Text": "You may take one action before any other player during [[BoldText Act]] phase",
+      "Tags": "Act Unique",
+      "Flavor": "They're quick but I'm much quicker!",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "1",
+      "Mode": "Basic",
+      "Cost": "4[^Energy] 2[^Money]"
+    },
+    {
+      "Name": "Residual Energy Collector",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 20_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 32_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Energy Overclock",
+      "Flavor": "No need to be wasteful, you never really lose energy if you know how to capture it",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "1",
+      "Mode": "Basic",
+      "Cost": "2[^Energy] 2[^Money]"
+    },
+    {
+      "Name": "Yellow Publicity Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "A richer Future",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "4",
+      "Mode": "Basic",
+      "Cost": "4[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Intro to Future Socities",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 6_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] Gain 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "A look into the socities of the Future",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
+      "Mode": "Basic",
+      "Cost": "4[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Specialized Yellow Tech Tools",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Yellow] invention \n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 30_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 38_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "Pristine tools...",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "4[^Parts] 1[^Money]"
+    },
+    {
+      "Name": "Dimension Mapper",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "To understand the nature of parallel dimensions, we must map the differences",
+      "Stage": "1",
+      "Symbol": "Dimensional",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
+      "Mode": "Basic",
+      "Cost": "3[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Green Publicity City",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "We make everyone's lives easier, and with the newest model, things just got easier",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Green",
+      "VictoryPoints": "1",
+      "Mode": "Basic",
+      "Cost": "2[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Temporal Gambling Device",
+      "Text": "[^Produce][[WingDings3 u]] Gain 1[^Evil], gain 10[^Money]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Evil], gain 12[^Money]",
+      "Tags": "Produce Evil Money Overclock",
+      "Flavor": "Yes, it’s incredibly illegal but they haven't caught me yet!",
+      "Stage": "1",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "1[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Space Elevator",
+      "Text": "[^Produce][[WingDings3 u]] Pay 1[^Parts], gain 2[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 6_[[WingDings3 u]]_30[^Money]]] [[ChargeText 9_[[WingDings3 u]]_20[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Progress]",
+      "Tags": "Produce Progress Money Overclock",
+      "Flavor": "Moving people and resources to and from space!",
+      "Stage": "1",
+      "Symbol": "Robotic",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "1[^Energy] 3[^Money]"
+    },
+    {
+      "Name": "Tech Review Program",
+      "Text": "[^Trigger][[WingDings3 u]] Gain or upgrade a Breakthrough\n[^Effect][[WingDings3 u]] Gain 2[^Money]\n\n[^Overclock] 3[[WingDings3 u]] Usable at the start of [[BoldText Act]] phase: reserve a Breakthrough",
+      "Tags": "Act Money Overclock Unique",
+      "Flavor": "Time to put this tech to the test",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Purple",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "3[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Future History Chaos Pad",
+      "Text": "When invented, gain 1[^Evil]\nDuring [[BoldText Act]] phase, D & R 2 [^Breakthrough]\n\n[^Overclock] 0[[WingDings3 u]] Usable directly after you draw the [^Breakthrough]: gain 2 [[BoldText Chances]] with this invention",
+      "Tags": "Act Chaos Evil Overclock Unique",
+      "Flavor": "Show me a Future Breakthrough... this time, make it one that might actually be useful",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Purple",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "2[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Anti-Apocalypse Tech",
+      "Text": "When invented, gain 1[^Good]\n\nOnce per game, as an action, during [[BoldText Act]] phase, gain a Breakthrough for free but it applies to all players",
+      "Tags": "Act Good",
+      "Flavor": "The world is doomed unless this breakthrough happens now",
+      "Stage": "1",
+      "Symbol": "Dimensional",
+      "Color": "Red",
+      "VictoryPoints": "1",
+      "Mode": "Advanced",
+      "Cost": "3[^Science]"
+    },
+    {
+      "Name": "Subconscious Implant",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]] [[ChargeText 32_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Science Overclock",
+      "Flavor": "Subliminal Researching",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Red",
+      "VictoryPoints": "1",
+      "Mode": "Advanced",
+      "Cost": "3[^Science] 2[^Money]"
+    },
+    {
+      "Name": "Matter Recycler",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 20_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 32_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Parts Overclock",
+      "Flavor": "I throw everything in there! I don't like that person's car... into my recycler it goes",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Red",
+      "VictoryPoints": "1",
+      "Mode": "Advanced",
+      "Cost": "3[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Quickening Field",
+      "Text": "You may take one action before any other player during [[BoldText Act]] phase",
+      "Tags": "Act Unique",
+      "Flavor": "They're quick but I'm much quicker!",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "4[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Residual Energy Collector",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 20_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 32_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Energy Overclock",
+      "Flavor": "No need to be wasteful, you never really lose energy if you know how to capture it",
+      "Stage": "1",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "2[^Energy] 3[^Money]"
+    },
+    {
+      "Name": "Yellow Publicity Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "A richer Future",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "4",
+      "Mode": "Advanced",
+      "Cost": "4[^Science] 2[^Money]"
+    },
+    {
+      "Name": "Intro to Future Socities",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 6_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] Gain 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "A look into the socities of the Future",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
+      "Mode": "Advanced",
+      "Cost": "4[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Specialized Yellow Tech Tools",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Yellow] invention \n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 20_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 30_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 38_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] X[[WingDings3 u]] Gain 5 + X [^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "Pristine tools...",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "4[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Dimension Mapper",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 7_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "To understand the nature of parallel dimensions, we must map the differences",
+      "Stage": "1",
+      "Symbol": "Dimensional",
+      "Color": "Yellow",
+      "VictoryPoints": "3",
+      "Mode": "Advanced",
+      "Cost": "3[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Green Publicity City",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_5[^Money]]] [[ChargeText 14_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "We make everyone's lives easier, and with the newest model, things just got easier",
+      "Stage": "1",
+      "Symbol": "DarkMatter",
+      "Color": "Green",
+      "VictoryPoints": "1",
+      "Mode": "Advanced",
+      "Cost": "2[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Temporal Gambling Device",
+      "Text": "[^Produce][[WingDings3 u]] Gain 1[^Evil], gain 10[^Money]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Evil], gain 12[^Money]",
+      "Tags": "Produce Evil Money Overclock",
+      "Flavor": "Yes, it’s incredibly illegal but they haven't caught me yet!",
+      "Stage": "1",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "1[^Energy] 3[^Money]"
+    },
+    {
+      "Name": "Space Elevator",
+      "Text": "[^Produce][[WingDings3 u]] Pay 1[^Parts], gain 2[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 6_[[WingDings3 u]]_30[^Money]]] [[ChargeText 9_[[WingDings3 u]]_20[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Progress]",
+      "Tags": "Produce Progress Money Overclock",
+      "Flavor": "Moving people and resources to and from space!",
+      "Stage": "1",
+      "Symbol": "Robotic",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "1[^Science] 3[^Money]"
     },
     {
       "Name": "Purple Publishing Program",
@@ -1038,11 +1170,11 @@
       "Tags": "Draft Progress Mixed Overclock",
       "Flavor": "Cutting edge expermental technologies ",
       "Stage": "2",
-      "Symbol": "Biotech",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "5[^Energy]"
+      "Cost": "5[^Parts]"
     },
     {
       "Name": "Yellow Publishing Program",
@@ -1050,35 +1182,11 @@
       "Tags": "Draft Progress Mixed Overclock",
       "Flavor": "A brighter and more epic Future awaits us",
       "Stage": "2",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Yellow",
       "VictoryPoints": "4",
       "Mode": "",
       "Cost": "5[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Red Expansion Program",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Red] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "Aggresively taming untamed worlds",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "3",
-      "Mode": "",
-      "Cost": "5[^Energy]"
-    },
-    {
-      "Name": "Green Publishing Program",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "We publish solutions to tomorrow's problem today",
-      "Stage": "2",
-      "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "4[^Science] 2[^Money]"
     },
     {
       "Name": "Dark Matter Analyzer",
@@ -1093,64 +1201,16 @@
       "Cost": "5[^Parts]"
     },
     {
-      "Name": "Dimension Transfer Detector",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "Detecting the effects of dimensional transfers",
-      "Stage": "2",
-      "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "4[^Parts]"
-    },
-    {
-      "Name": "Robotic Efficiency",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Robotic] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Progress Mixed Overclock",
-      "Flavor": "Showing tomorrow's models today",
-      "Stage": "2",
-      "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "4[^Parts]"
-    },
-    {
       "Name": "Biotech Simulations",
       "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Biotech] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 2_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
       "Tags": "Draft Progress Mixed Overclock",
       "Flavor": "Simulating the effects of tomorrow's genetic technologies",
       "Stage": "2",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "3",
-      "Mode": "",
-      "Cost": "5[^Energy]"
-    },
-    {
-      "Name": "Tomorrow's Socities Today",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Rainbow Progress Mixed Overclock",
-      "Flavor": "An analyses of all Future potential socities",
-      "Stage": "2",
-      "Symbol": "Biotech",
       "Color": "Green",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
-    },
-    {
-      "Name": "Tomorrow's Sciences Today",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a type you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 4_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
-      "Tags": "Draft Rainbow Progress Mixed Overclock",
-      "Flavor": "A comprehensive look at the Future sciences",
-      "Stage": "2",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "4[^Energy] 2[^Money]"
+      "Cost": "4[^Energy]"
     },
     {
       "Name": "Multimedia Platform",
@@ -1162,79 +1222,7 @@
       "Color": "Purple",
       "VictoryPoints": "[[WingDings s]]",
       "Mode": "",
-      "Cost": "4[^Energy]"
-    },
-    {
-      "Name": "Super Efficient Conductor",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 13_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 18_[[WingDings3 u]]_1[^Energy]]]  [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Energy Overclock",
-      "Flavor": "By being extremly efficient, we can have much more power then we should have",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "5[^Energy] 1[^Money]"
-    },
-    {
-      "Name": "Waste Zero Protocol",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 21_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Parts Overclock",
-      "Flavor": "Waste not, want not",
-      "Stage": "2",
-      "Symbol": "DarkMatter",
-      "Color": "Yellow",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "5[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Universal Application",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Science Overclock",
-      "Flavor": "This data could also be used to invent all these other inventions",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "5[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Unlimited Potental AI",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Purple] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 11_[[WingDings3 u]]_6[^Money]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 16_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Mixed Overclock",
-      "Flavor": "A truly creative Future",
-      "Stage": "2",
-      "Symbol": "DarkMatter",
-      "Color": "Purple",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "5[^Science] 1[^Money]"
-    },
-    {
-      "Name": "Marketing Neural Net",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 14_[[WingDings3 u]]_12[^Money]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 29_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Mixed Overclock",
-      "Flavor": "Humans are so manipulatable! Don’t you agree, creator?",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "5[^Science] 4[^Money]"
-    },
-    {
-      "Name": "Creative Solutions Net",
-      "Text": "When invented, gain 1[^Evil]\n[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 21_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Evil Mixed Overclock",
-      "Flavor": "Some people say our solutions are evil, our solutions aren't evil they are creative",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "3[^Science] 1[^Money]"
+      "Cost": "4[^Parts]"
     },
     {
       "Name": "Military Tactics AI",
@@ -1258,7 +1246,7 @@
       "Color": "Red",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "5[^Energy] 1[^Money]"
+      "Cost": "5[^Science] 1[^Money]"
     },
     {
       "Name": "Hyper Effecient Circuits",
@@ -1270,7 +1258,7 @@
       "Color": "Red",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "5[^Parts] 1[^Money]"
+      "Cost": "5[^Science] 1[^Money]"
     },
     {
       "Name": "Reality Manipulator",
@@ -1285,30 +1273,6 @@
       "Cost": "5[^Science] 1[^Money]"
     },
     {
-      "Name": "Cyber-Genetic Enhancements",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Biotech] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 12_[[WingDings3 u]]_8[^Money]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 26_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
-      "Tags": "Invent Progress Mixed Overclock",
-      "Flavor": "We make the normal human body look outdated",
-      "Stage": "2",
-      "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "5[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Market Manulation Program",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a color you have not invented this turn\n[^Effect][[WingDings3 u]] Gain 2[^Progress]\n[^Progress][[WingDings3 u]]  [[ChargeText 1_[[WingDings3 u]]_2[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 9_[[WingDings3 u]]_1[^Science]]] [[ChargeText 12_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 2[^Progress]",
-      "Tags": "Invent Rainbow Progress Mixed Overclock",
-      "Flavor": "Only when you are in every market, can you bend the market to your will",
-      "Stage": "2",
-      "Symbol": "Dimensional",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "5[^Energy] 1[^Money]"
-    },
-    {
       "Name": "Full Spectrum AI",
       "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a type you have not invented this turn\n[^Effect][[WingDings3 u]] Gain 2[^Progress]\n[^Progress][[WingDings3 u]]  [[ChargeText 1_[[WingDings3 u]]_2[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 4_[[WingDings3 u]]_1[^Science]]] [[ChargeText 7_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 9_[[WingDings3 u]]_1[^Science]]] [[ChargeText 12_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 2[^Progress]",
       "Tags": "Invent Rainbow Progress Mixed Overclock",
@@ -1318,7 +1282,7 @@
       "Color": "Red",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "4[^Energy] 1[^Money]"
+      "Cost": "4[^Parts] 1[^Money]"
     },
     {
       "Name": "Ancient Artifact Auctioner",
@@ -1330,7 +1294,7 @@
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts]"
+      "Cost": "3[^Science]"
     },
     {
       "Name": "Science Marketing Program",
@@ -1339,10 +1303,10 @@
       "Flavor": "Releasing scientific data to other dimensions for money has virtually no drawbacks",
       "Stage": "2",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "3",
+      "Color": "Yellow",
+      "VictoryPoints": "5",
       "Mode": "",
-      "Cost": "4[^Science]"
+      "Cost": "5[^Science] 4[^Money]"
     },
     {
       "Name": "Rare Parts Locator",
@@ -1374,7 +1338,7 @@
       "Tags": "Act Progress Mixed Overclock",
       "Flavor": "Now you can see what happed in secret!",
       "Stage": "2",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Purple",
       "VictoryPoints": "3",
       "Mode": "",
@@ -1399,10 +1363,10 @@
       "Flavor": "With the right deals made now, I'll be set in the future, trust me!",
       "Stage": "2",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "1",
+      "Color": "Red",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
+      "Cost": "4[^Science] 2[^Money]"
     },
     {
       "Name": "Deja Vu Device",
@@ -1414,7 +1378,7 @@
       "Color": "Purple",
       "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "4[^Parts] 2[^Money]"
+      "Cost": "4[^Energy] 2[^Money]"
     },
     {
       "Name": "Science Siphoning Bot Net",
@@ -1423,10 +1387,10 @@
       "Flavor": "I won’t publicly admit it but I’m a subscriber to the stolen Science feed",
       "Stage": "2",
       "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Science] 2[^Money]"
+      "Cost": "3[^Science] 3[^Money]"
     },
     {
       "Name": "Invention Parts As A Service",
@@ -1434,11 +1398,11 @@
       "Tags": "Produce Parts Overclock",
       "Flavor": "Why worry about buying parts, you just choose a tier and sweet parts show up",
       "Stage": "2",
-      "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
+      "Symbol": "Robotic",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Parts] 2[^Money]"
+      "Cost": "3[^Parts] 3[^Money]"
     },
     {
       "Name": "Bottled Energy",
@@ -1458,11 +1422,11 @@
       "Tags": "Produce Money Overclock",
       "Flavor": "We sell super weapon deterent systems",
       "Stage": "2",
-      "Symbol": "Robotic",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "5[^Science] 4[^Money]"
+      "Cost": "3[^Parts] 4[^Money]"
     },
     {
       "Name": "Telekinesis Implant",
@@ -1470,7 +1434,7 @@
       "Tags": "Produce Parts Overclock",
       "Flavor": "Wanna be a mover in the world, shifting things with an unseen hand?",
       "Stage": "2",
-      "Symbol": "Dimensional",
+      "Symbol": "Robotic",
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
@@ -1498,7 +1462,7 @@
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Cost": "3[^Energy] 4[^Money]"
     },
     {
       "Name": "Smart Robots",
@@ -1506,11 +1470,11 @@
       "Tags": "Produce Science Overclock",
       "Flavor": "Let us observe what they come up with",
       "Stage": "2",
-      "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Symbol": "Dimensional",
+      "Color": "Red",
+      "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "3[^Science] 4[^Money]"
+      "Cost": "4[^Science] 4[^Money]"
     },
     {
       "Name": "Kinetic Power Plant",
@@ -1519,10 +1483,10 @@
       "Flavor": "Motion powers everything; it makes 100% clean energy",
       "Stage": "2",
       "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Energy] 4[^Money]"
+      "Cost": "5[^Energy] 4[^Money]"
     },
     {
       "Name": "Lightning Recharge System",
@@ -1531,10 +1495,10 @@
       "Flavor": "We can manipulate lightning strikes to recharge your power station for a price",
       "Stage": "2",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "0",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Cost": "5[^Energy] 4[^Money]"
     },
     {
       "Name": "Think Tank",
@@ -1578,11 +1542,11 @@
       "Tags": "Produce Evil Money Overclock",
       "Flavor": "I’m earning creds hand over fist and no one can prove it’s me yet!",
       "Stage": "2",
-      "Symbol": "Robotic",
+      "Symbol": "Dimensional",
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Parts] 1[^Money]"
+      "Cost": "3[^Energy] 1[^Money]"
     },
     {
       "Name": "Thought Stealer",
@@ -1591,10 +1555,10 @@
       "Flavor": "It’s beautiful; we take their idea, and they forget they ever had the idea",
       "Stage": "2",
       "Symbol": "Robotic",
-      "Color": "Yellow",
-      "VictoryPoints": "2",
+      "Color": "Green",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "5[^Science] 1[^Money]"
+      "Cost": "3[^Science] 1[^Money]"
     },
     {
       "Name": "Geothermal Fracking Drills",
@@ -1626,7 +1590,7 @@
       "Tags": "Produce Good Overclock",
       "Flavor": "When there is an emergancey, the AET quickly and efficiently goes in and gets the people out",
       "Stage": "2",
-      "Symbol": "Robotic",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
@@ -1638,11 +1602,11 @@
       "Tags": "Produce Good Overclock",
       "Flavor": "Saving the world!",
       "Stage": "2",
-      "Symbol": "Robotic",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Science] 2[^Money]"
+      "Cost": "3[^Energy] 2[^Money]"
     },
     {
       "Name": "Reinforced Structures",
@@ -1650,11 +1614,11 @@
       "Tags": "Produce Good Overclock",
       "Flavor": "We are making everybody safer by enhancing large structures to be earthquake resistant",
       "Stage": "2",
-      "Symbol": "Robotic",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
+      "Cost": "3[^Parts] 2[^Money]"
     },
     {
       "Name": "Powering The Future Device",
@@ -1666,7 +1630,7 @@
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Parts] 2[^Money]"
+      "Cost": "3[^Science] 2[^Money]"
     },
     {
       "Name": "Time Stop Implant",
@@ -1690,7 +1654,7 @@
       "Color": "Red",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "3[^Energy] 2[^Money]"
+      "Cost": "3[^Science] 2[^Money]"
     },
     {
       "Name": "Dark Matter Experimenter",
@@ -1710,7 +1674,7 @@
       "Tags": "Produce Progress Parts Overclock",
       "Flavor": "The DSP will go and collect all matter it comes across",
       "Stage": "2",
-      "Symbol": "DarkMatter",
+      "Symbol": "Robotic",
       "Color": "Red",
       "VictoryPoints": "0",
       "Mode": "",
@@ -1722,11 +1686,11 @@
       "Tags": "Produce Progress Energy Overclock",
       "Flavor": "You can harvest vast amounts of energy from a planet's core",
       "Stage": "2",
-      "Symbol": "DarkMatter",
-      "Color": "Yellow",
-      "VictoryPoints": "1",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Energy] 1[^Money]"
+      "Cost": "3[^Energy] 2[^Money]"
     },
     {
       "Name": "Comet Prevention Grid",
@@ -1738,7 +1702,7 @@
       "Color": "Yellow",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "5[^Parts] 2[^Money]"
+      "Cost": "5[^Energy] 2[^Money]"
     },
     {
       "Name": "Chrono Matter Stabilizer",
@@ -1746,7 +1710,7 @@
       "Tags": "Produce Progress Chrono Overclock",
       "Flavor": "Unusable chrono matter? Not once I'm done with it",
       "Stage": "2",
-      "Symbol": "DarkMatter",
+      "Symbol": "Robotic",
       "Color": "Red",
       "VictoryPoints": "0",
       "Mode": "",
@@ -1765,18 +1729,6 @@
       "Cost": "4[^Parts] 1[^Money]"
     },
     {
-      "Name": "Chaos Tech",
-      "Text": "[^Activate][[WingDings3 u]] Gain or upgrade the top card of the Breakthrough deck paying 1 less [^Science] for it\n\n[^Overclock] 1[[WingDings3 u]] Gain an additional 2 [[BoldText Chance]] with this invention for this turn",
-      "Tags": "Activate Chaos Overclock",
-      "Flavor": "It’s absolutely genius, but we will see whether it’s useful or not",
-      "Stage": "2",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "4",
-      "Mode": "Advanced",
-      "Cost": "4[^Science] 3[^Money]"
-    },
-    {
       "Name": "Linked Chaos Dice Set",
       "Text": "[^Activate][[WingDings3 u]] Roll a die and gain\n1: 2[^Evil]   2: 2[^Science]   3: 2[^Energy]\n4: 2[^Parts]   5: 2[^Good]   6: 2[^ChronoMatter]\n\n[^Overclock] 5[[WingDings3 u]] You may do this 1 additional time this round",
       "Tags": "Activate Chaos Mixed Overclock",
@@ -1786,7 +1738,7 @@
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "4[^Parts]"
+      "Cost": "4[^Science]"
     },
     {
       "Name": "Chaos Orb",
@@ -1798,7 +1750,7 @@
       "Color": "Purple",
       "VictoryPoints": "1",
       "Mode": "",
-      "Cost": "4[^Science] 2[^Money]"
+      "Cost": "4[^Parts] 2[^Money]"
     },
     {
       "Name": "Complete Loop",
@@ -1806,11 +1758,11 @@
       "Tags": "Progress Mixed Overclock",
       "Flavor": "Everyone else is wasting energy when using it, but we are conserving it",
       "Stage": "2",
-      "Symbol": "DarkMatter",
+      "Symbol": "Biotech",
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Science] 1[^Money]"
+      "Cost": "4[^Energy] 1[^Money]"
     },
     {
       "Name": "Interdimensional Trading Hub",
@@ -1822,7 +1774,7 @@
       "Color": "Green",
       "VictoryPoints": "0[[WingDings s]]",
       "Mode": "",
-      "Cost": "3[^Science] 4[^Money]"
+      "Cost": "3[^Parts] 4[^Money]"
     },
     {
       "Name": "Secret Research Compound",
@@ -1870,7 +1822,7 @@
       "Color": "Red",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "4[^Energy]"
+      "Cost": "4[^Science]"
     },
     {
       "Name": "Rube Goldberg Machine",
@@ -1894,55 +1846,355 @@
       "Color": "Purple",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "4[^Science] 1[^Money]"
+      "Cost": "4[^Parts] 1[^Money]"
     },
     {
-      "Name": "Zero Point Power",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Energy] spent",
-      "Tags": "Invent Energy",
-      "Flavor": "Powering tomorrow's world today",
-      "Stage": "3",
+      "Name": "Super Efficient Conductor",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 13_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 18_[[WingDings3 u]]_1[^Energy]]]  [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Energy Overclock",
+      "Flavor": "By being extremly efficient, we can have much more power then we should have",
+      "Stage": "2",
       "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Energy]"
+    },
+    {
+      "Name": "Waste Zero Protocol",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 21_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Parts Overclock",
+      "Flavor": "Waste not, want not",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Parts]"
+    },
+    {
+      "Name": "Universal Application",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Science Overclock",
+      "Flavor": "This data could also be used to invent all these other inventions",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Robotic Efficiency",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Robotic] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Showing tomorrow's models today",
+      "Stage": "2",
+      "Symbol": "Robotic",
+      "Color": "Yellow",
+      "VictoryPoints": "4",
+      "Mode": "Basic",
+      "Cost": "6[^Parts]"
+    },
+    {
+      "Name": "Red Expansion Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Red] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Aggresively taming untamed worlds",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Red",
+      "VictoryPoints": "3",
+      "Mode": "Basic",
+      "Cost": "5[^Energy]"
+    },
+    {
+      "Name": "Marketing Neural Net",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 14_[[WingDings3 u]]_12[^Money]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 29_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "Humans are so manipulatable! Don’t you agree, creator?",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Parts] 4[^Money]"
+    },
+    {
+      "Name": "Cyber-Genetic Enhancements",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Biotech] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 12_[[WingDings3 u]]_8[^Money]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 26_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "We make the normal human body look outdated",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Red",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Green Publishing Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "We publish solutions to tomorrow's problem today",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "4[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Dimension Transfer Detector",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Detecting the effects of dimensional transfers",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "4[^Science]"
+    },
+    {
+      "Name": "Tomorrow's Socities Today",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "An analyses of all Future potential socities",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "1",
+      "Mode": "Basic",
+      "Cost": "3[^Parts] 2[^Money]"
+    },
+    {
+      "Name": "Unlimited Potental AI",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Purple] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 11_[[WingDings3 u]]_6[^Money]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 16_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "A truly creative Future",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Purple",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "5[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Market Manulation Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a color you have not invented this turn\n[^Effect][[WingDings3 u]] Gain 2[^Progress]\n[^Progress][[WingDings3 u]]  [[ChargeText 1_[[WingDings3 u]]_2[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 9_[[WingDings3 u]]_1[^Science]]] [[ChargeText 12_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 2[^Progress]",
+      "Tags": "Invent Rainbow Progress Mixed Overclock",
+      "Flavor": "Only when you are in every market, can you bend the market to your will",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "5[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Tomorrow's Sciences Today",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a type you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 4_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "A comprehensive look at the Future sciences",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Purple",
+      "VictoryPoints": "2",
+      "Mode": "Basic",
+      "Cost": "4[^Science] 2[^Money]"
+    },
+    {
+      "Name": "Creative Solutions Net",
+      "Text": "When invented, gain 1[^Evil]\n[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 21_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Evil Mixed Overclock",
+      "Flavor": "Some people say our solutions are evil, our solutions aren't evil they are creative",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "3[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Waste Zero Protocol",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Parts] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 15_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 21_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Parts Overclock",
+      "Flavor": "Waste not, want not",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Parts] 1[^Money]"
+    },
+    {
+      "Name": "Universal Application",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Science] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Science]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Science]]] [[ChargeText 25_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Science Overclock",
+      "Flavor": "This data could also be used to invent all these other inventions",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Chaos Tech",
+      "Text": "[^Activate][[WingDings3 u]] Gain or upgrade the top card of the Breakthrough deck paying 1 less [^Science] for it\n\n[^Overclock] 1[[WingDings3 u]] Gain an additional 2 [[BoldText Chance]] with this invention for this turn",
+      "Tags": "Activate Chaos Overclock",
+      "Flavor": "It’s absolutely genius, but we will see whether it’s useful or not",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Purple",
+      "VictoryPoints": "4",
+      "Mode": "Advanced",
+      "Cost": "4[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Super Efficient Conductor",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each [^Energy] spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 10_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 13_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 18_[[WingDings3 u]]_1[^Energy]]]  [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 25_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Energy Overclock",
+      "Flavor": "By being extremly efficient, we can have much more power then we should have",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Robotic Efficiency",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Robotic] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Showing tomorrow's models today",
+      "Stage": "2",
+      "Symbol": "Robotic",
+      "Color": "Yellow",
+      "VictoryPoints": "4",
+      "Mode": "Advanced",
+      "Cost": "6[^Science]"
+    },
+    {
+      "Name": "Red Expansion Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Red] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Aggresively taming untamed worlds",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
       "Color": "Red",
       "VictoryPoints": "3",
       "Mode": "Advanced",
-      "Cost": "7[^Energy] 4[^Money]"
+      "Cost": "5[^Science]"
     },
     {
-      "Name": "Omega Factory",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Parts] spent",
-      "Tags": "Invent Parts",
-      "Flavor": "Parts for everyone",
-      "Stage": "3",
+      "Name": "Marketing Neural Net",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Yellow] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 5_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 14_[[WingDings3 u]]_12[^Money]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 21_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 29_[[WingDings3 u]]_5[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "Humans are so manipulatable! Don’t you agree, creator?",
+      "Stage": "2",
       "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Cyber-Genetic Enhancements",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Biotech] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 12_[[WingDings3 u]]_8[^Money]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 17_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 19_[[WingDings3 u]]_1[^Science]]] [[ChargeText 26_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "We make the normal human body look outdated",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Red",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Green Publishing Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Science]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "We publish solutions to tomorrow's problem today",
+      "Stage": "2",
+      "Symbol": "Biotech",
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "Advanced",
-      "Cost": "6[^Parts] 4[^Money]"
+      "Cost": "4[^Science] 2[^Money]"
     },
     {
-      "Name": "Quantum Computing",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Science] spent",
-      "Tags": "Invent Science",
-      "Flavor": "Unlimited computational power",
-      "Stage": "3",
-      "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "3",
-      "Mode": "Advanced",
-      "Cost": "7[^Science] 4[^Money]"
-    },
-    {
-      "Name": "Planetary Assault Platform",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Red] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
-      "Tags": "Invent",
-      "Flavor": "We have aquried 23 new planets that we can begin our experiments on",
-      "Stage": "3",
+      "Name": "Dimension Transfer Detector",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a [^Dimensional] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 5_[[WingDings3 u]]_3[^Money]]] [[ChargeText 7_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Progress Mixed Overclock",
+      "Flavor": "Detecting the effects of dimensional transfers",
+      "Stage": "2",
       "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "4",
-      "Mode": "",
-      "Cost": "7[^Science] 4[^Money]"
+      "Color": "Green",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "4[^Science]"
+    },
+    {
+      "Name": "Tomorrow's Socities Today",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a color you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 3_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Parts]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "An analyses of all Future potential socities",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "1",
+      "Mode": "Advanced",
+      "Cost": "3[^Science] 2[^Money]"
+    },
+    {
+      "Name": "Unlimited Potental AI",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Purple] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Science]]] [[ChargeText 8_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 11_[[WingDings3 u]]_6[^Money]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 16_[[WingDings3 u]]_1[^Science]]] [[ChargeText 18_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 25_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Mixed Overclock",
+      "Flavor": "A truly creative Future",
+      "Stage": "2",
+      "Symbol": "DarkMatter",
+      "Color": "Purple",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "5[^Parts] 1[^Money]"
+    },
+    {
+      "Name": "Market Manulation Program",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a color you have not invented this turn\n[^Effect][[WingDings3 u]] Gain 2[^Progress]\n[^Progress][[WingDings3 u]]  [[ChargeText 1_[[WingDings3 u]]_2[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Science]]] [[ChargeText 4_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 7_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 9_[[WingDings3 u]]_1[^Science]]] [[ChargeText 12_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 14_[[WingDings3 u]]_1[^Energy]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 2[^Progress]",
+      "Tags": "Invent Rainbow Progress Mixed Overclock",
+      "Flavor": "Only when you are in every market, can you bend the market to your will",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Yellow",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "5[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Tomorrow's Sciences Today",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Draft]] a type you have not [[BoldText drafted]] this turn\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 1_[[WingDings3 u]]_1[^Money]]] [[ChargeText 2_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 4_[[WingDings3 u]]_1[^Science]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Tags": "Draft Rainbow Progress Mixed Overclock",
+      "Flavor": "A comprehensive look at the Future sciences",
+      "Stage": "2",
+      "Symbol": "Dimensional",
+      "Color": "Purple",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "4[^Energy] 2[^Money]"
+    },
+    {
+      "Name": "Creative Solutions Net",
+      "Text": "When invented, gain 1[^Evil]\n[^Trigger][[WingDings3 u]] [[BoldText Invent]] a [^Green] invention\n[^Effect][[WingDings3 u]] Gain 1[^Progress] for each core resource spent\n[^Progress][[WingDings3 u]] [[ChargeText 3_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 5_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 8_[[WingDings3 u]]_1[^Science]]] [[ChargeText 10_[[WingDings3 u]]_1[^Parts]]] [[ChargeText 13_[[WingDings3 u]]_1[^Science]]] [[ChargeText 15_[[WingDings3 u]]_1[^Energy]]] [[ChargeText 21_[[WingDings3 u]]_4[^Money]]]\n\n[^Overclock] 0[[WingDings3 u]] Gain 3[^Progress]",
+      "Tags": "Invent Progress Evil Mixed Overclock",
+      "Flavor": "Some people say our solutions are evil, our solutions aren't evil they are creative",
+      "Stage": "2",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Advanced",
+      "Cost": "3[^Science] 1[^Money]"
     },
     {
       "Name": "Terraformer",
@@ -1950,11 +2202,11 @@
       "Tags": "Invent",
       "Flavor": "We have already established colonies on Mars! Next up: Venus",
       "Stage": "3",
-      "Symbol": "Robotic",
+      "Symbol": "DarkMatter",
       "Color": "Green",
       "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "6[^Energy] 4[^Money]"
+      "Cost": "6[^Science] 4[^Money]"
     },
     {
       "Name": "Immortality Implant",
@@ -1962,23 +2214,11 @@
       "Tags": "Invent",
       "Flavor": "The things people will pay you in exchange for immortality...",
       "Stage": "3",
-      "Symbol": "Robotic",
+      "Symbol": "Dimensional",
       "Color": "Yellow",
       "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "8[^Energy] 4[^Money]"
-    },
-    {
-      "Name": "Secret Intelligence Agency",
-      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Purple] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
-      "Tags": "Invent",
-      "Flavor": "We are in the business of collecting information; Not using it",
-      "Stage": "3",
-      "Symbol": "Robotic",
-      "Color": "Purple",
-      "VictoryPoints": "4",
-      "Mode": "",
-      "Cost": "7[^Parts] 4[^Money]"
+      "Cost": "8[^Parts] 4[^Money]"
     },
     {
       "Name": "Helper Drones",
@@ -1987,10 +2227,10 @@
       "Flavor": "I can’t believe how inconvenient life must have been before these drone existed",
       "Stage": "3",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "2",
+      "Color": "Red",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "6[^Energy] 4[^Money]"
+      "Cost": "7[^Science] 4[^Money]"
     },
     {
       "Name": "Resurrection Program",
@@ -1999,10 +2239,10 @@
       "Flavor": "Solving new ways to bring your loved ones back",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "3",
+      "Color": "Green",
+      "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "7[^Science] 4[^Money]"
+      "Cost": "6[^Parts] 4[^Money]"
     },
     {
       "Name": "Dimensional Fracking",
@@ -2014,7 +2254,7 @@
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "6[^Energy] 4[^Money]"
+      "Cost": "6[^Parts] 4[^Money]"
     },
     {
       "Name": "Dark Matter Stabilizer",
@@ -2026,19 +2266,7 @@
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "6[^Energy] 4[^Money]"
-    },
-    {
-      "Name": "Iteration Device",
-      "Text": "This invention is 1 resource cheaper for each [[BoldText Invent]] invention you have\n\nThis is worth 1[^VictoryPoint] for every [[BoldText Invent]] invention you have",
-      "Tags": "Invent Goal",
-      "Flavor": "Inventions are never perfect on your first attempt; It’s all about iterating quickly",
-      "Stage": "3",
-      "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "4[[WingDings s]]",
-      "Mode": "",
-      "Cost": "9[^Science] 2[^Money]"
+      "Cost": "6[^Science] 4[^Money]"
     },
     {
       "Name": "Dimensional Streaming",
@@ -2047,10 +2275,10 @@
       "Flavor": "Supply the best TV shows accross the multiverse",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "5",
+      "Color": "Red",
+      "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "7[^Parts]"
+      "Cost": "6[^Energy]"
     },
     {
       "Name": "Omega Vault",
@@ -2058,11 +2286,11 @@
       "Tags": "Act Money Goal",
       "Flavor": "The Omega Vault holds wealth beyond imagination with a temporal security system",
       "Stage": "3",
-      "Symbol": "DarkMatter",
-      "Color": "Red",
-      "VictoryPoints": "3[[WingDings s]]",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Energy]"
+      "Cost": "6[^Science]"
     },
     {
       "Name": "Super Antivirus",
@@ -2071,10 +2299,10 @@
       "Flavor": "Bio weapons don’t stand a chance against this new antivirus",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "3",
+      "Color": "Red",
+      "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "4[^Science] 4[^Money]"
+      "Cost": "6[^Science]"
     },
     {
       "Name": "Ultimate Scientific Library",
@@ -2082,11 +2310,11 @@
       "Tags": "Act Science Goal",
       "Flavor": "Any invention you come up with has already been recorded in the library",
       "Stage": "3",
-      "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "3[[WingDings s]]",
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "4[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Science]"
+      "Cost": "8[^Energy]"
     },
     {
       "Name": "High-Tech Warehouse",
@@ -2095,10 +2323,10 @@
       "Flavor": "Like a library for technology",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "4",
+      "Color": "Yellow",
+      "VictoryPoints": "5",
       "Mode": "",
-      "Cost": "6[^Parts]"
+      "Cost": "7[^Parts]"
     },
     {
       "Name": "Reforming Nanites",
@@ -2110,7 +2338,7 @@
       "Color": "Green",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Parts]"
+      "Cost": "6[^Science]"
     },
     {
       "Name": "Energy Scarcity Generator",
@@ -2119,10 +2347,10 @@
       "Flavor": "Let’s make sure this planned energy crisis leaves us on top",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Yellow",
-      "VictoryPoints": "5",
+      "Color": "Green",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "7[^Energy]"
+      "Cost": "4[^Energy] 4[^Money]"
     },
     {
       "Name": "Temporal Energy Stream",
@@ -2131,10 +2359,10 @@
       "Flavor": "We can now use energy from other points in time without disrupting their power supply",
       "Stage": "3",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "2[[WingDings s]]",
+      "Color": "Red",
+      "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Energy]"
+      "Cost": "7[^Science]"
     },
     {
       "Name": "Linch Pin Program",
@@ -2149,28 +2377,16 @@
       "Cost": "5[^Energy] 4[^Money]"
     },
     {
-      "Name": "Time Museum",
-      "Text": "Worth 1 additional [^VictoryPoint] for every 2[^ChronoMatter] on your [^Past] [^Activity]",
-      "Tags": "Act Goal",
-      "Flavor": "The key to the Future is the Past",
-      "Stage": "3",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "4[[WingDings s]]",
-      "Mode": "",
-      "Cost": "7[^Science] 1[^Money]"
-    },
-    {
       "Name": "Philanthropist Clone",
       "Text": "[^Trigger][[WingDings3 u]] Do a [^Present] [^Activity]\n[^Effect][[WingDings3 u]] Lose 3[^Money] and gain 1[^VictoryPoint] for each [^ChronoMatter] cost on that [^Activity]\n\n[^Overclock] 1[[WingDings3 u]] 1[^Activity] counts as a [^Present] [^Activity]",
       "Tags": "Act Overclock",
       "Flavor": "How does he have time to come to all these charity events, and run a lab?",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "3",
+      "Color": "Red",
+      "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "4[^Parts] 3[^Money]"
+      "Cost": "5[^Parts] 4[^Money]"
     },
     {
       "Name": "Illuminati Device",
@@ -2178,11 +2394,11 @@
       "Tags": "Act Goal",
       "Flavor": "Pulling the strings...",
       "Stage": "3",
-      "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1[[WingDings s]]",
+      "Symbol": "Biotech",
+      "Color": "Yellow",
+      "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Science]"
+      "Cost": "8[^Parts]"
     },
     {
       "Name": "Holopark",
@@ -2191,10 +2407,10 @@
       "Flavor": "Come and enjoy the Future today at Holopark",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "3",
+      "Color": "Red",
+      "VictoryPoints": "4",
       "Mode": "",
-      "Cost": "4[^Energy] 2[^Money]"
+      "Cost": "5[^Science] 3[^Money]"
     },
     {
       "Name": "Tech Stealing Device",
@@ -2203,10 +2419,10 @@
       "Flavor": "It’s hard to prove this was someone else’s tech when I clearly invented it first",
       "Stage": "3",
       "Symbol": "DarkMatter",
-      "Color": "Green",
-      "VictoryPoints": "0[[WingDings s]]",
+      "Color": "Yellow",
+      "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Science] 3[^Money]"
+      "Cost": "8[^Parts] 3[^Money]"
     },
     {
       "Name": "Direction Heat Satellite",
@@ -2214,11 +2430,11 @@
       "Tags": "Produce Good Overclock",
       "Flavor": "Providing Heat to those who need it the most",
       "Stage": "3",
-      "Symbol": "DarkMatter",
+      "Symbol": "Dimensional",
       "Color": "Green",
       "VictoryPoints": "2",
       "Mode": "",
-      "Cost": "6[^Parts] 1[^Money]"
+      "Cost": "6[^Energy] 1[^Money]"
     },
     {
       "Name": "Death Detection Satellite",
@@ -2239,10 +2455,10 @@
       "Flavor": "Imagine if you had a group of robots that responded to your thoughts",
       "Stage": "3",
       "Symbol": "Robotic",
-      "Color": "Yellow",
-      "VictoryPoints": "4",
+      "Color": "Purple",
+      "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "7[^Science] 2[^Money]"
+      "Cost": "6[^Parts] 2[^Money]"
     },
     {
       "Name": "Energy Backup Grid",
@@ -2254,7 +2470,7 @@
       "Color": "Purple",
       "VictoryPoints": "3",
       "Mode": "",
-      "Cost": "6[^Science] 2[^Money]"
+      "Cost": "6[^Energy] 2[^Money]"
     },
     {
       "Name": "Chaos Realm Portal",
@@ -2262,35 +2478,11 @@
       "Tags": "Chaos Goal",
       "Flavor": "I harness the energies of the Chaos Realm itself",
       "Stage": "3",
-      "Symbol": "Dimensional",
+      "Symbol": "DarkMatter",
       "Color": "Purple",
       "VictoryPoints": "[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Science] 4[^Money]"
-    },
-    {
-      "Name": "Overclocker",
-      "Text": "Worth 1[^VictoryPoint] for each [^Overclock] invention you have\n\n[^Overclock] 1[[WingDings3 u]] For each invention you [^Overclock] this turn, you may pay 4[^Money] and gain 1[^VictoryPoint]",
-      "Tags": "Goal Overclock",
-      "Flavor": "You have no idea how powerful my inventions are, time for MAXIMUM POWER!",
-      "Stage": "3",
-      "Symbol": "Biotech",
-      "Color": "Purple",
-      "VictoryPoints": "[[WingDings s]]",
-      "Mode": "",
-      "Cost": "7[^Parts] 4[^Money]"
-    },
-    {
-      "Name": "Critical Breakthrough Device",
-      "Text": "When invented search the Breakthrough deck for any Breakthrough and gain or upgrade it paying its associated cost\n\nWorth 1[^VictoryPoint] for every Breakthrough you have",
-      "Tags": "Goal Unique",
-      "Flavor": "This is just the breakthrough I needed",
-      "Stage": "3",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "[[WingDings s]]",
-      "Mode": "Advanced",
-      "Cost": "7[^Science]"
+      "Cost": "6[^Energy] 4[^Money]"
     },
     {
       "Name": "Modded Reality",
@@ -2305,40 +2497,16 @@
       "Cost": "6[^Parts] 4[^Money]"
     },
     {
-      "Name": "Elite Inventor's Guild",
-      "Text": "This is worth [^VictoryPoint] equal to a different owned invention's core resource cost of your choice",
-      "Tags": "Goal",
-      "Flavor": "Only the best inventions!",
-      "Stage": "3",
-      "Symbol": "DarkMatter",
-      "Color": "Yellow",
-      "VictoryPoints": "[[WingDings s]]",
-      "Mode": "",
-      "Cost": "8[^Science] 4[^Money]"
-    },
-    {
       "Name": "Elitist Scientific Community",
       "Text": "This is worth 1 less [^VictoryPoint] for each invention you own",
       "Tags": "Goal",
       "Flavor": "One of those closed portal communities",
       "Stage": "3",
-      "Symbol": "DarkMatter",
+      "Symbol": "Dimensional",
       "Color": "Yellow",
       "VictoryPoints": "20[[WingDings s]]",
       "Mode": "",
-      "Cost": "9[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Rube Goldberg Machine",
-      "Text": "Worth 1 additional [^VictoryPoint] for each Rube Goldburg Machine you own including this one",
-      "Tags": "Goal",
-      "Flavor": "...The hurricane will travel near here…",
-      "Stage": "3",
-      "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "5[[WingDings s]]",
-      "Mode": "",
-      "Cost": "7[^Energy] 4[^Money]"
+      "Cost": "9[^Energy] 2[^Money]"
     },
     {
       "Name": "Rube Goldberg Machine",
@@ -2362,7 +2530,7 @@
       "Color": "Green",
       "VictoryPoints": "0",
       "Mode": "",
-      "Cost": "6[^Science] 4[^Money]"
+      "Cost": "6[^Parts] 4[^Money]"
     },
     {
       "Name": "Enhanced Form",
@@ -2371,10 +2539,10 @@
       "Flavor": "Behold! My true form!",
       "Stage": "3",
       "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "2[[WingDings s]]",
+      "Color": "Yellow",
+      "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Science] 2[^Money]"
+      "Cost": "8[^Science] 2[^Money]"
     },
     {
       "Name": "Pocket Dimension",
@@ -2395,10 +2563,10 @@
       "Flavor": "No one knows how to find the castle, it appears and vanishes in an instant",
       "Stage": "3",
       "Symbol": "DarkMatter",
-      "Color": "Purple",
-      "VictoryPoints": "2[[WingDings s]]",
+      "Color": "Yellow",
+      "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Parts] 2[^Money]"
+      "Cost": "8[^Energy] 2[^Money]"
     },
     {
       "Name": "Robotic City",
@@ -2410,7 +2578,7 @@
       "Color": "Red",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Science] 2[^Money]"
+      "Cost": "7[^Energy] 2[^Money]"
     },
     {
       "Name": "Elite Space Station",
@@ -2422,7 +2590,7 @@
       "Color": "Yellow",
       "VictoryPoints": "[[WingDings s]]",
       "Mode": "",
-      "Cost": "8[^Parts] 1[^Money]"
+      "Cost": "8[^Energy] 1[^Money]"
     },
     {
       "Name": "Invisible-ite",
@@ -2430,11 +2598,11 @@
       "Tags": "Goal",
       "Flavor": "This new material is strong and is virtually undetectable",
       "Stage": "3",
-      "Symbol": "DarkMatter",
+      "Symbol": "Dimensional",
       "Color": "Red",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Parts] 2[^Money]"
+      "Cost": "7[^Science] 2[^Money]"
     },
     {
       "Name": "Personal Megacorp",
@@ -2446,7 +2614,7 @@
       "Color": "Purple",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Energy] 2[^Money]"
+      "Cost": "7[^Parts] 2[^Money]"
     },
     {
       "Name": "Universal Translator",
@@ -2454,11 +2622,11 @@
       "Tags": "Goal",
       "Flavor": "Have you ever wondered what your pet was trying to communicate?",
       "Stage": "3",
-      "Symbol": "DarkMatter",
+      "Symbol": "Dimensional",
       "Color": "Green",
       "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Parts] 2[^Money]"
+      "Cost": "6[^Energy] 2[^Money]"
     },
     {
       "Name": "Rainbow Showcase",
@@ -2470,7 +2638,7 @@
       "Color": "Purple",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Parts]"
+      "Cost": "7[^Energy]"
     },
     {
       "Name": "Invention Emporium",
@@ -2482,7 +2650,7 @@
       "Color": "Red",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Energy]"
+      "Cost": "7[^Science]"
     },
     {
       "Name": "Optimized Time Machine",
@@ -2490,7 +2658,7 @@
       "Tags": "Produce Chrono Goal",
       "Flavor": "Traveling through time at a fraction of the cost",
       "Stage": "3",
-      "Symbol": "Robotic",
+      "Symbol": "Dimensional",
       "Color": "Purple",
       "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
@@ -2503,10 +2671,10 @@
       "Flavor": "I own a good percentage of all companies under various shell corporations",
       "Stage": "3",
       "Symbol": "Robotic",
-      "Color": "Red",
-      "VictoryPoints": "3[[WingDings s]]",
+      "Color": "Green",
+      "VictoryPoints": "2[[WingDings s]]",
       "Mode": "",
-      "Cost": "7[^Parts] 2[^Money]"
+      "Cost": "6[^Parts] 2[^Money]"
     },
     {
       "Name": "Ultimate Analyzer Satellite",
@@ -2527,10 +2695,10 @@
       "Flavor": "Who needs walls when you can have tiny robots BE the walls!",
       "Stage": "3",
       "Symbol": "Robotic",
-      "Color": "Yellow",
-      "VictoryPoints": "4[[WingDings s]]",
+      "Color": "Red",
+      "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "8[^Parts] 2[^Money]"
+      "Cost": "7[^Parts] 2[^Money]"
     },
     {
       "Name": "Infinite Power Exploit Device",
@@ -2539,10 +2707,10 @@
       "Flavor": "Before time travel, there was no way to change the amount of energy in the universe",
       "Stage": "3",
       "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "2[[WingDings s]]",
+      "Color": "Red",
+      "VictoryPoints": "3[[WingDings s]]",
       "Mode": "",
-      "Cost": "6[^Energy] 2[^Money]"
+      "Cost": "7[^Energy] 2[^Money]"
     },
     {
       "Name": "Market Monopoly AI",
@@ -2551,10 +2719,106 @@
       "Flavor": "Whoever controls the supply controls all the consumers",
       "Stage": "3",
       "Symbol": "Dimensional",
-      "Color": "Yellow",
-      "VictoryPoints": "3[[WingDings s]]",
+      "Color": "Green",
+      "VictoryPoints": "1[[WingDings s]]",
       "Mode": "",
-      "Cost": "2[^Science] 2[^Parts] 2[^Energy] 6[^Money]"
+      "Cost": "1[^Science] 1[^Parts] 1[^Energy] 10[^Money]"
+    },
+    {
+      "Name": "Mimic Machine",
+      "Text": "[^Activate][[WingDings3 u]] Ready another Activate invention\n\nWorth 1 additional [^VictoryPoint] for each Activate invention you own",
+      "Tags": "Activate Goal",
+      "Flavor": "It’s what I need it to be",
+      "Stage": "3",
+      "Symbol": "Dimensional",
+      "Color": "Green",
+      "VictoryPoints": "2[[WingDings s]]",
+      "Mode": "",
+      "Cost": "6[^Science] 3[^Money]"
+    },
+    {
+      "Name": "Adaptive Careful AI ",
+      "Text": "[^Activate][[WingDings3 u]] Every [^Progress] invention gains 1[^Progress]\n[^Trigger][[WingDings3 u]] A [^Progress] power is activated\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress] 4[[WingDings3 u]] Gain 1[^VictoryPoint],\n\nThis is worth 1 additional [^VictoryPoint] for each [^Progress] invention",
+      "Tags": "Activate Progress Goal",
+      "Flavor": "Watching your back",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "[[WingDings s]]",
+      "Mode": "",
+      "Cost": "7[^Science] 2[^Money]"
+    },
+    {
+      "Name": "World Freedom Program",
+      "Text": "When invented, gain 3[^Good]\n[^Activate][[WingDings3 u]] For every [^Good] invention you own pay 2[^Money] and gain 1[^Good]",
+      "Tags": "Activate Produce Good Goal",
+      "Flavor": "Ensuring freedom to all, with exceptions of course",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Green",
+      "VictoryPoints": "-1",
+      "Mode": "",
+      "Cost": "5[^Science] 4[^Money]"
+    },
+    {
+      "Name": "World Domination Program",
+      "Text": "When invented, gain 3[^Evil]\n\nThis is worth 2 additional [^VictoryPoint] for each [^Evil] invention you own",
+      "Tags": "Evil Goal",
+      "Flavor": "My ultimate goal? World domination of course!",
+      "Stage": "3",
+      "Symbol": "DarkMatter",
+      "Color": "Purple",
+      "VictoryPoints": "4[[WingDings s]]",
+      "Mode": "",
+      "Cost": "7[^Energy] 1[^Money]"
+    },
+    {
+      "Name": "Quantum Computing",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Science] spent",
+      "Tags": "Invent Science",
+      "Flavor": "Unlimited computational power",
+      "Stage": "3",
+      "Symbol": "DarkMatter",
+      "Color": "Green",
+      "VictoryPoints": "0",
+      "Mode": "Basic",
+      "Cost": "6[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Omega Factory",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Parts] spent",
+      "Tags": "Invent Parts",
+      "Flavor": "Parts for everyone",
+      "Stage": "3",
+      "Symbol": "DarkMatter",
+      "Color": "Red",
+      "VictoryPoints": "4",
+      "Mode": "Basic",
+      "Cost": "7[^Parts] 4[^Money]"
+    },
+    {
+      "Name": "Zero Point Power",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Energy] spent",
+      "Tags": "Invent Energy",
+      "Flavor": "Powering tomorrow's world today",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "3",
+      "Mode": "Basic",
+      "Cost": "6[^Energy] 4[^Money]"
+    },
+    {
+      "Name": "Iteration Device",
+      "Text": "This invention is 1 resource cheaper for each [[BoldText Invent]] invention you have\n\nThis is worth 1[^VictoryPoint] for every [[BoldText Invent]] invention you have",
+      "Tags": "Invent Goal",
+      "Flavor": "Inventions are never perfect on your first attempt; It’s all about iterating quickly",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "4[[WingDings s]]",
+      "Mode": "Basic",
+      "Cost": "9[^Parts] 2[^Money]"
     },
     {
       "Name": "Automated Future",
@@ -2565,152 +2829,224 @@
       "Symbol": "Robotic",
       "Color": "Yellow",
       "VictoryPoints": "[[WingDings s]]",
-      "Mode": "",
+      "Mode": "Basic",
       "Cost": "9[^Energy]"
     },
     {
-      "Name": "Mimic Machine",
-      "Text": "[^Activate][[WingDings3 u]] Ready another Activate invention\n\nWorth 1 additional [^VictoryPoint] for each Activate invention you own",
-      "Tags": "Activate Goal",
-      "Flavor": "It’s what I need it to be",
+      "Name": "Elite Inventor's Guild",
+      "Text": "This is worth [^VictoryPoint] equal to a different owned invention's core resource cost of your choice",
+      "Tags": "Goal",
+      "Flavor": "Only the best inventions!",
       "Stage": "3",
-      "Symbol": "Dimensional",
-      "Color": "Purple",
-      "VictoryPoints": "3[[WingDings s]]",
-      "Mode": "",
-      "Cost": "7[^Energy] 3[^Money]"
+      "Symbol": "DarkMatter",
+      "Color": "Yellow",
+      "VictoryPoints": "[[WingDings s]]",
+      "Mode": "Basic",
+      "Cost": "8[^Parts] 4[^Money]"
     },
     {
-      "Name": "Adaptive Careful AI ",
-      "Text": "[^Activate][[WingDings3 u]] Every [^Progress] invention gains 1[^Progress]\n[^Trigger][[WingDings3 u]] A [^Progress] power is activated\n[^Effect][[WingDings3 u]] Gain 1[^Progress]\n[^Progress] 4[[WingDings3 u]] Gain 1[^VictoryPoint],\n\nThis is worth 1 additional [^VictoryPoint] for each [^Progress] invention",
-      "Tags": "Activate Progress Goal",
-      "Flavor": "Watching your back",
+      "Name": "Planetary Assault Platform",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Red] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
+      "Tags": "Invent",
+      "Flavor": "We have aquried 23 new planets that we can begin our experiments on",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "4",
+      "Mode": "Basic",
+      "Cost": "7[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Secret Intelligence Agency",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Purple] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
+      "Tags": "Invent",
+      "Flavor": "We are in the business of collecting information; Not using it",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Purple",
+      "VictoryPoints": "4",
+      "Mode": "Basic",
+      "Cost": "7[^Energy] 4[^Money]"
+    },
+    {
+      "Name": "Time Museum",
+      "Text": "Worth 1 additional [^VictoryPoint] for every 2[^ChronoMatter] on your [^Past] [^Activity]",
+      "Tags": "Act Goal",
+      "Flavor": "The key to the Future is the Past",
+      "Stage": "3",
+      "Symbol": "DarkMatter",
+      "Color": "Purple",
+      "VictoryPoints": "4[[WingDings s]]",
+      "Mode": "Basic",
+      "Cost": "7[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Overclocker",
+      "Text": "Worth 1[^VictoryPoint] for each [^Overclock] invention you have\n\n[^Overclock] 1[[WingDings3 u]] For each invention you [^Overclock] this turn, you may pay 4[^Money] and gain 1[^VictoryPoint]",
+      "Tags": "Goal Overclock",
+      "Flavor": "You have no idea how powerful my inventions are, time for MAXIMUM POWER!",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Purple",
+      "VictoryPoints": "[[WingDings s]]",
+      "Mode": "Basic",
+      "Cost": "7[^Parts] 4[^Money]"
+    },
+    {
+      "Name": "Rube Goldberg Machine",
+      "Text": "Worth 1 additional [^VictoryPoint] for each Rube Goldburg Machine you own including this one",
+      "Tags": "Goal",
+      "Flavor": "...The hurricane will travel near here…",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "5[[WingDings s]]",
+      "Mode": "Basic",
+      "Cost": "7[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Zero Point Power",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has an [^Energy] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Energy] spent",
+      "Tags": "Invent Energy",
+      "Flavor": "Powering tomorrow's world today",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "2",
+      "Mode": "Advanced",
+      "Cost": "6[^Energy] 4[^Money]"
+    },
+    {
+      "Name": "Critical Breakthrough Device",
+      "Text": "When invented search the Breakthrough deck for any Breakthrough and gain or upgrade it paying its associated cost\n\nWorth 1[^VictoryPoint] for every Breakthrough you have",
+      "Tags": "Goal Unique",
+      "Flavor": "This is just the breakthrough I needed",
       "Stage": "3",
       "Symbol": "Dimensional",
       "Color": "Yellow",
       "VictoryPoints": "1[[WingDings s]]",
-      "Mode": "",
-      "Cost": "8[^Energy] 3[^Money]"
+      "Mode": "Advanced",
+      "Cost": "8[^Science]"
     },
     {
-      "Name": "World Freedom Program",
-      "Text": "When invented, gain 3[^Good]\n[^Activate][[WingDings3 u]] For every [^Good] invention you own pay 2[^Money] and gain 1[^Good]",
-      "Tags": "Activate Produce Good Goal",
-      "Flavor": "Ensuring freedom to all, with exceptions of course",
-      "Stage": "3",
-      "Symbol": "Biotech",
-      "Color": "Green",
-      "VictoryPoints": "-1",
-      "Mode": "",
-      "Cost": "5[^Parts] 4[^Money]"
-    },
-    {
-      "Name": "World Domination Program",
-      "Text": "When invented, gain 3[^Evil]\n\nThis is worth 2 additional [^VictoryPoint] for each [^Evil] invention you own",
-      "Tags": "Evil Goal",
-      "Flavor": "My ultimate goal? World domination of course!",
+      "Name": "Omega Factory",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Parts] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Parts] spent",
+      "Tags": "Invent Parts",
+      "Flavor": "Parts for everyone",
       "Stage": "3",
       "Symbol": "DarkMatter",
       "Color": "Red",
-      "VictoryPoints": "4[[WingDings s]]",
-      "Mode": "",
-      "Cost": "7[^Energy] 1[^Money]"
+      "VictoryPoints": "3",
+      "Mode": "Advanced",
+      "Cost": "7[^Parts] 4[^Money]"
     },
     {
-      "Name": "Library Implant",
-      "Text": "At the start of [[BoldText Draft]] phase, draw 4 inventions that are not considered to be [[BoldText drafted]]\nDuring [[BoldText invent]] phase you may [[BoldText invent]] one of those inventions",
-      "Tags": "Invent",
-      "Flavor": "I access a whole library with this implant",
-      "Stage": "Starter",
-      "Symbol": "Biotech",
-      "Color": "Purple",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "2[^Parts]"
-    },
-    {
-      "Name": "Dimensional Back Door",
-      "Text": "[^Overclock] 1[[WingDings3 u]] Gain 2[^Evil] and choose one to gain: \n20[^Money], 4[^Science], 4[^Parts], or 4[^Energy]",
-      "Tags": "Evil Mixed Overclock",
-      "Flavor": "Sometime you just need the resources, and it doesn't matter how much backlash there is",
-      "Stage": "Starter",
-      "Symbol": "Dimensional",
-      "Color": "Red",
-      "VictoryPoints": "1",
-      "Mode": "",
-      "Cost": "1[^Energy] 1[^Money]"
-    },
-    {
-      "Name": "Chrono Field",
-      "Text": "At the start of [[BoldText Act]] Phase draw 2[^Activity]\n[^Produce][[WingDings3 u]] Pay 1[^Money] and 1[^Energy], gain 2[^ChronoMatter]",
-      "Tags": "Produce Act Chrono",
-      "Flavor": "We are exploring time",
-      "Stage": "Starter",
-      "Symbol": "Biotech",
-      "Color": "Yellow",
+      "Name": "Quantum Computing",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] an invention that has a [^Science] cost\n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2[^Science] spent",
+      "Tags": "Invent Science",
+      "Flavor": "Unlimited computational power",
+      "Stage": "3",
+      "Symbol": "DarkMatter",
+      "Color": "Green",
       "VictoryPoints": "2",
-      "Mode": "",
-      "Cost": "6[^Parts] 4[^Money]"
+      "Mode": "Advanced",
+      "Cost": "6[^Science] 4[^Money]"
     },
     {
-      "Name": "Open Universe",
-      "Text": "[^Produce][[WingDings3 u]] Pay 1[^Science] and 1[^Parts], gain 2[^Progress]\n[^Progress][[WingDings3 u]] [[ChargeText 6_[[WingDings3 u]]_Choose 2 different]] 9 | Choose 1 different\n3[^ChronoMatter], 5[^Science], 5[^Parts], or 5[^Energy],\nAlso D & R 2 [^Breakthrough], 2 [^Mod], and 2[^Activity]\n[^Overclock] 2[[WingDings3 u]] gain 1[^Progress]",
-      "Tags": "Produce Progress Mixed Overclock",
-      "Flavor": "Unlocking the keys of the universe\nIt is all in the set up",
-      "Stage": "Starter",
+      "Name": "Iteration Device",
+      "Text": "This invention is 1 resource cheaper for each [[BoldText Invent]] invention you have\n\nThis is worth 1[^VictoryPoint] for every [[BoldText Invent]] invention you have",
+      "Tags": "Invent Goal",
+      "Flavor": "Inventions are never perfect on your first attempt; It’s all about iterating quickly",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Green",
+      "VictoryPoints": "4[[WingDings s]]",
+      "Mode": "Advanced",
+      "Cost": "9[^Science] 2[^Money]"
+    },
+    {
+      "Name": "Automated Future",
+      "Text": "[^Produce][[WingDings3 u]] Pay 11[^Money] - 1 for every [^Produce] invention you own to gain 3[^VictoryPoint]\n\nWorth 1[^VictoryPoint] for every [^Produce] invention you own",
+      "Tags": "Produce Goal",
+      "Flavor": "No one has to work anymore, people only work if they want to",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Yellow",
+      "VictoryPoints": "[[WingDings s]]",
+      "Mode": "Advanced",
+      "Cost": "9[^Science]"
+    },
+    {
+      "Name": "Elite Inventor's Guild",
+      "Text": "This is worth [^VictoryPoint] equal to a different owned invention's core resource cost of your choice",
+      "Tags": "Goal",
+      "Flavor": "Only the best inventions!",
+      "Stage": "3",
       "Symbol": "DarkMatter",
       "Color": "Yellow",
-      "VictoryPoints": "1",
+      "VictoryPoints": "[[WingDings s]]",
       "Mode": "Advanced",
-      "Cost": "3[^Energy] 4[^Money]"
+      "Cost": "8[^Science] 4[^Money]"
     },
     {
-      "Name": "Paradox Exploiter",
-      "Text": "At the start of [[BoldText Act]] phase draw 2 less [^Activity]\nGain 3[^Money] for each [^ChronoMatter] you turn into other resources",
-      "Tags": "Evil Money",
-      "Flavor": "We unlock the true potental of paradoxes",
-      "Stage": "Starter",
-      "Symbol": "Biotech",
-      "Color": "Red",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "4[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Critical Theory",
-      "Text": "Before [[BoldText Invent]] phase of stage 1, search the Breakthrough deck for any Breakthrough and gain it paying its associated cost",
-      "Tags": "Unique",
-      "Flavor": "I have a plan that requires an all in approach",
-      "Stage": "Starter",
-      "Symbol": "Dimensional",
-      "Color": "Green",
-      "VictoryPoints": "0",
-      "Mode": "Advanced",
-      "Cost": "1[^Energy] 1[^Money]"
-    },
-    {
-      "Name": "Mass Producer",
-      "Text": "During your first [^Produce] phase, select a core resource and add that resource Tag to this invention\n[^Produce][[WingDings3 u]] Lose 5[^Money], gain 3 of the selected resource",
-      "Tags": "Produce",
-      "Flavor": "Our lab has a distinct advantage, we double as a hi-tech production center",
-      "Stage": "Starter",
+      "Name": "Planetary Assault Platform",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Red] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
+      "Tags": "Invent",
+      "Flavor": "We have aquried 23 new planets that we can begin our experiments on",
+      "Stage": "3",
       "Symbol": "Robotic",
-      "Color": "Green",
-      "VictoryPoints": "0",
-      "Mode": "",
-      "Cost": "5[^Energy]"
+      "Color": "Red",
+      "VictoryPoints": "4",
+      "Mode": "Advanced",
+      "Cost": "7[^Science] 4[^Money]"
     },
     {
-      "Name": "Experimention Chamber",
-      "Text": "[^Activate][[WingDings3 u]] Choose one you haven't picked before:\n1. D & R 4 [^Breakthrough]\n2. D & R 4 [^Mod]\n3. D & R 4[^Activity]\n4. You start with one additional card in your pack and you must choose an additional card for your first pick",
-      "Tags": "Activate Draft Act",
-      "Flavor": "Progress requires experimentation",
-      "Stage": "Starter",
+      "Name": "Secret Intelligence Agency",
+      "Text": "[^Trigger][[WingDings3 u]] [[BoldText Invent]] a different [^Purple] invention \n[^Effect][[WingDings3 u]] Gain 1[^VictoryPoint] for every 2 core resources spent",
+      "Tags": "Invent",
+      "Flavor": "We are in the business of collecting information; Not using it",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Purple",
+      "VictoryPoints": "4",
+      "Mode": "Advanced",
+      "Cost": "7[^Parts] 4[^Money]"
+    },
+    {
+      "Name": "Time Museum",
+      "Text": "Worth 1 additional [^VictoryPoint] for every 2[^ChronoMatter] on your [^Past] [^Activity]",
+      "Tags": "Act Goal",
+      "Flavor": "The key to the Future is the Past",
+      "Stage": "3",
       "Symbol": "DarkMatter",
       "Color": "Purple",
-      "VictoryPoints": "0",
+      "VictoryPoints": "4[[WingDings s]]",
       "Mode": "Advanced",
-      "Cost": "2[^Science] 1[^Money]"
+      "Cost": "7[^Science] 1[^Money]"
+    },
+    {
+      "Name": "Overclocker",
+      "Text": "Worth 1[^VictoryPoint] for each [^Overclock] invention you have\n\n[^Overclock] 1[[WingDings3 u]] For each invention you [^Overclock] this turn, you may pay 4[^Money] and gain 1[^VictoryPoint]",
+      "Tags": "Goal Overclock",
+      "Flavor": "You have no idea how powerful my inventions are, time for MAXIMUM POWER!",
+      "Stage": "3",
+      "Symbol": "Biotech",
+      "Color": "Purple",
+      "VictoryPoints": "[[WingDings s]]",
+      "Mode": "Advanced",
+      "Cost": "7[^Science] 4[^Money]"
+    },
+    {
+      "Name": "Rube Goldberg Machine",
+      "Text": "Worth 1 additional [^VictoryPoint] for each Rube Goldburg Machine you own including this one",
+      "Tags": "Goal",
+      "Flavor": "...The hurricane will travel near here…",
+      "Stage": "3",
+      "Symbol": "Robotic",
+      "Color": "Red",
+      "VictoryPoints": "5[[WingDings s]]",
+      "Mode": "Advanced",
+      "Cost": "7[^Science] 4[^Money]"
     }
   ]
 }

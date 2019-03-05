@@ -2,6 +2,7 @@
     "SpreadSheetID": "1TnGPBWZ_PPZ3n8k6J2O0l7JyccC4DWsqSgy1544q5og",
     "Range": "Mods!A2:K67",
     "Output": "ModItems.json",
+    "Sort": "Stage",
     "Properties": 
     [
         { "ColumnIndex": 0, "Name": "Name" },

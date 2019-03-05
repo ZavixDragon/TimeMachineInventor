@@ -1,0 +1,15 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "PromoModTokens",
+    "Images": 
+    [
+        {
+            "Type": "AddImages",
+            "Count": "5",
+            "Border": "36",
+            "Front": "../Images/TokenPromoMod.png",
+            "Back": "../Images/TokenPromoMod.png",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}

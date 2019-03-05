@@ -1,0 +1,35 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Mods",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Border",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Mods/Mod.png",
+            "Back": "../Images/CardBackMod1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 18 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Mods/Mod.png",
+            "Back": "../Images/CardBackMod2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 19, "End": 37 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Mods/Mod.png",
+            "Back": "../Images/CardBackMod3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 38, "End": 65 } }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Breakthroughs",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Border",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
+            "Back": "../Images/CardBackBreakthrough1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 22 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
+            "Back": "../Images/CardBackBreakthrough2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 23, "End": 45 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
+            "Back": "../Images/CardBackBreakthrough3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 46, "End": 68 } }
+        }
+    ]
+}

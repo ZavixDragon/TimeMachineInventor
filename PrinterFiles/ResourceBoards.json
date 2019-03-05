@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "ResourceBoards",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "5"
+        },
+        {
+            "Type": "Set",
+            "Key": "Border",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../Images/ResourceBoard.png",
+            "Back": "../Images/ResourceBoard.png",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}
