@@ -8,6 +8,8 @@
         "CardHeight": "1110",
         "MiniCardWidth": "592",
         "MiniCardHeight": "862",
+        "LargeCardWidth": "1122",
+        "LargeCardHeight": "1797",
 
         "ArtPath": "../Images/",
 
@@ -21,6 +23,7 @@
         "CardInventionPurple": "../Images/CardInventionPurple.png",
         "CardInventionRed": "../Images/CardInventionRed.png",
         "CardInventionYellow": "../Images/CardInventionYellow.png",
+        "CardLab": "../Images/Lab.png",
         "Biotech": "../Images/IconTypeBiotech.png",
         "DarkMatter": "../Images/IconTypeDarkMatter.png",
         "Dimensional": "../Images/IconTypeDimensional.png",
@@ -63,6 +66,11 @@
             "Width": "^MiniCardWidth",
             "Height": "^MiniCardHeight"
         },
+        "LargeCardBlueprint": 
+        {
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
+        },
         "CardImage": 
         {
             "Type": "Image",
@@ -76,6 +84,12 @@
             "Prototype": "CardImage",
             "Width": "^MiniCardWidth",
             "Height": "^MiniCardHeight"
+        },
+        "LargeCardImage": 
+        {
+            "Prototype": "CardImage",
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
         },
         "CardName": 
         {
@@ -93,11 +107,13 @@
         "MiniCardName": 
         {
             "Prototype": "CardName",
-            "X": "72",
-            "Y": "72",
-            "Width": "448",
-            "Height": "0",
-            "VerticalAlignment": "Top"
+            "Width": "448"
+        },
+        "LargeCardName": 
+        {
+            "Prototype": "CardName",
+            "FontSize": "60",
+            "Width": "978"
         },
         "FlashyText": 
         {
@@ -112,7 +128,6 @@
             "FontSize": "30"
         },
 
-
         "WingDings": 
         {
             "Font": "WingDings",
@@ -126,6 +141,13 @@
         "BoldText": 
         {
             "FontStyle": "^Bold"
+        },
+        "ChargeText": 
+        {
+            "BackgroundColor": "424242",
+            "BackgroundBorderColor": "1b1b1b",
+            "BackgroundBorderThickness": "2",
+            "Color": "FFFFFF"
         }
     }
 }

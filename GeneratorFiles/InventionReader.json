@@ -10,6 +10,11 @@
             "Name": "Text",
             "Modifiers": 
             [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "([0-9][0-9]?) \\| (.+?)," ],
+                    "Replacement": "[[ChargeText $1_[[WingDings3 u]]_$2]]"
+                },
                 { 
                     "Type": "Replace", 
                     "Patterns": 
@@ -83,11 +88,6 @@
                         "(End of Draft phase)"
                     ],
                     "Replacement": "[[BoldText $1]]"
-                },
-                {
-                    "Type": "Replace",
-                    "Patterns": [ ":" ],
-                    "Replacement": " ->"
                 },
                 {
                     "Type": "Replace",

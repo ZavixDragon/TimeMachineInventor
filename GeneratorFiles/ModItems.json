@@ -45,14 +45,14 @@
     {
       "Name": "Acquisition Mod",
       "Target": "Act Progress",
-      "Text": "Whenever you [^Trigger] this invention treat it as if the [^Activity] costed double the [^ChronoMatter]",
+      "Text": "Gain double the [^Progress] from the [^Effect]",
       "Stage": "1",
       "Cost": "1[^Parts]"
     },
     {
       "Name": "Acquisition Mod",
       "Target": "Act Progress",
-      "Text": "Whenever you [^Trigger] this invention treat it as if the [^Activity] costed double the [^ChronoMatter]",
+      "Text": "Gain double the [^Progress] from the [^Effect]",
       "Stage": "2",
       "Cost": "1[^Parts] 1[^Money]"
     },

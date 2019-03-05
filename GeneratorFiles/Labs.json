@@ -1,0 +1,89 @@
+{
+    "SavePath": "Labs",
+    "SaveName": "Lab",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "LabItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "LargeCardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "LargeCardImage",
+                "Source": "^CardLab"
+            },
+            {
+                "Prototype": "LargeCardName",
+                "Content": "~Name"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "50",
+                "Content": "~Lab",
+                "X": "72",
+                "Y": "200",
+                "Width": "978",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "100",
+                "FontStyle": "^Bold",
+                "Color": "FFFFFF",
+                "Content": "~Priority",
+                "X": "72",
+                "Y": "300",
+                "Width": "200",
+                "Height": "200"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "50",
+                "Color": "FFFFFF",
+                "Content": "~Resources",
+                "X": "272",
+                "Y": "300",
+                "Width": "578",
+                "Height": "200"
+            },
+            {
+                "Type": "Image",
+                "Source": "^~Alignment",
+                "X": "860",
+                "Y": "310",
+                "Width": "180",
+                "Height": "180"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "100",
+                "FontStyle": "^Bold",
+                "Content": "~Reputation",
+                "X": "850",
+                "Y": "300",
+                "Width": "200",
+                "Height": "200"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "50",
+                "Content": "~Invention",
+                "X": "72",
+                "Y": "500",
+                "Width": "978",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "40",
+                "Color": "FFFFFF",
+                "Content": "~Flavor",
+                "X": "72",
+                "Y": "1485",
+                "Width": "978",
+                "Height": "240"
+            }
+        ]
+    }
+}

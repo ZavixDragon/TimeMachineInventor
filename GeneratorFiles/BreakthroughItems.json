@@ -33,7 +33,7 @@
     {
       "Name": "Invent Tech",
       "Target": "Invent Progress",
-      "Text": "Everytime you [^Trigger] these inventions gain 2[^Progress]",
+      "Text": "Everytime you [^Trigger] these inventions, the [^trigger] invention gains 2[^Progress]",
       "Stage": "1",
       "Cost": "1[^Science] 2[^Money]",
       "Rebates": "0",
@@ -43,7 +43,7 @@
     {
       "Name": "Invent Tech",
       "Target": "Invent Progress",
-      "Text": "Everytime you [^Trigger] these inventions gain 6[^Progress]",
+      "Text": "Everytime you [^Trigger] these inventions, the [^trigger] invention gains 6[^Progress]",
       "Stage": "2",
       "Cost": "2[^Science]",
       "Rebates": "1",

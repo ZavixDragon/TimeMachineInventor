@@ -1,0 +1,84 @@
+{
+  "Items": [
+    {
+      "Name": "Blake, Lead Researcher",
+      "Lab": "Dimensional Theory Lab",
+      "Invention": "Dimensional Study Guide",
+      "Priority": "8",
+      "Alignment": "Good",
+      "Reputation": "1",
+      "Resources": "3[^Money]",
+      "Flavor": "We will study the other dimensions for the answers"
+    },
+    {
+      "Name": "Styles, Head of Operations",
+      "Lab": "Corporate Research Compound",
+      "Invention": "Dimensional Back Door",
+      "Priority": "12",
+      "Alignment": "Evil",
+      "Reputation": "1",
+      "Resources": "7[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Flavor": "We will hit our deadlines no matter the cost"
+    },
+    {
+      "Name": "Cassia, Future Scientist",
+      "Lab": "Time Works Lab",
+      "Invention": "Chrono Field",
+      "Priority": "20",
+      "Alignment": "Good",
+      "Reputation": "1",
+      "Resources": "-7[^Money] -1[^Science] -1[^Parts] -1[^Energy]",
+      "Flavor": "Mistakes were made in my timeline, that I came back to prevent"
+    },
+    {
+      "Name": "Laura, CEO of Expanse Labs",
+      "Lab": "Expanse Lab",
+      "Invention": "Open Universe",
+      "Priority": "14",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "1[^Money]",
+      "Flavor": "We are unlocking the secrets of the universe, pushing the boundaries of science"
+    },
+    {
+      "Name": "Dr. Adox, Mad Scientist ",
+      "Lab": "Science First Lab",
+      "Invention": "Paradox Exploter",
+      "Priority": "22",
+      "Alignment": "Evil",
+      "Reputation": "1",
+      "Resources": "1[^Money] 1[^Parts]",
+      "Flavor": "They see risk, I see oppertunity"
+    },
+    {
+      "Name": "Chase, Obsessed Scientist",
+      "Lab": "Future Tech Facility",
+      "Invention": "Critical Theory",
+      "Priority": "18",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "4[^Money] 2[^Science]",
+      "Flavor": "I just need to finish this, just a few more hours of work"
+    },
+    {
+      "Name": "Jack, Head Chairman",
+      "Lab": "Cutting Edge Factory",
+      "Invention": "Mass Producer",
+      "Priority": "10",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "-1[^Parts]",
+      "Flavor": "We are quite resourceful"
+    },
+    {
+      "Name": "Olivia, Head Archivist",
+      "Lab": "Experimentation Archives Group",
+      "Invention": "Experimention Chamber",
+      "Priority": "16",
+      "Alignment": "Good",
+      "Reputation": "1",
+      "Resources": "2[^Money]",
+      "Flavor": "Interesting, very interesting, prepare the next experiment"
+    }
+  ]
+}
