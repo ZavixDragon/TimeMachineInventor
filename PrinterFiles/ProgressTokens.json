@@ -6,7 +6,7 @@
         {
             "Type": "AddImages",
             "Count": "165",
-            "Border": "36",
+            "Trim": "36",
             "Front": "../Images/TokenProgress.png",
             "Back": "../Images/TokenProgress.png",
             "Range": { "Type": "Single" }

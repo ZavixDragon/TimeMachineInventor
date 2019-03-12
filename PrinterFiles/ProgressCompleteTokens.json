@@ -6,7 +6,7 @@
         {
             "Type": "AddImages",
             "Count": "35",
-            "Border": "36",
+            "Trim": "36",
             "Front": "../Images/TokenChargeComplete.png",
             "Back": "../Images/TokenChargeComplete.png",
             "Range": { "Type": "Single" }

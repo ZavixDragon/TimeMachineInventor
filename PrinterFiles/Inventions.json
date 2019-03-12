@@ -10,7 +10,7 @@
         },
         {
             "Type": "Set",
-            "Key": "Border",
+            "Key": "Trim",
             "Value": "36"
         },
         {
