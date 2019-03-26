@@ -16,20 +16,20 @@
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
-            "Back": "../Images/CardBackBreakthrough1.png",
-            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 22 } }
+            "Back": "MiniCardBack1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 23 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
-            "Back": "../Images/CardBackBreakthrough2.png",
-            "Range": { "Type": "Range", "Range": { "Start": 23, "End": 45 } }
+            "Back": "MiniCardBack2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 24, "End": 47 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Breakthroughs/Breakthrough.png",
-            "Back": "../Images/CardBackBreakthrough3.png",
-            "Range": { "Type": "Range", "Range": { "Start": 46, "End": 68 } }
+            "Back": "MiniCardBack3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 48, "End": 71 } }
         }
     ]
 }

@@ -16,19 +16,19 @@
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Mods/Mod.png",
-            "Back": "../Images/CardBackMod1.png",
+            "Back": "MiniCardBack1.png",
             "Range": { "Type": "Range", "Range": { "Start": 0, "End": 18 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Mods/Mod.png",
-            "Back": "../Images/CardBackMod2.png",
+            "Back": "MiniCardBack2.png",
             "Range": { "Type": "Range", "Range": { "Start": 19, "End": 37 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Mods/Mod.png",
-            "Back": "../Images/CardBackMod3.png",
+            "Back": "MiniCardBack3.png",
             "Range": { "Type": "Range", "Range": { "Start": 38, "End": 65 } }
         }
     ]

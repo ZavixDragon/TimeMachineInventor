@@ -1,6 +1,6 @@
 {
-    "SpreadSheetID": "1TnGPBWZ_PPZ3n8k6J2O0l7JyccC4DWsqSgy1544q5og",
-    "Range": "Breakthroughs!A2:N70",
+    "SpreadSheetID": "124nh5y8umwsIZyNW7Ghq2Yxd6qBG4EicFZnqzBZelZc",
+    "Range": "Breakthroughs!A2:N73",
     "Output": "BreakthroughItems.json",
     "Sort": "Stage",
     "Properties": 
@@ -62,6 +62,14 @@
                     "Replacement": "[^$1]" 
                 },
                 {
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "Activities\\b"
+                    ], 
+                    "Replacement": "[^Activity]" 
+                },
+                {
                     "Type": "Replace",
                     "Patterns": 
                     [ 
@@ -80,25 +88,24 @@
                         "\\b(Act)\\b",
                         "\\b(Generates?e?d?i?n?g?)\\b",
                         "\\b(Chrono)\\b",
-                        "\\b(Money)z\\b", 
-                        "\\b(Good)z\\b",
-                        "\\b(Evil)z\\b",
-                        "\\b(Science)z\\b", 
-                        "\\b(Parts)z\\b", 
-                        "\\b(Energy)z\\b", 
                         "\\b(Goal)\\b",
-                        "\\b(Produce?s?d?i?n?g?)z\\b",
                         "\\b(Chaos)\\b",
                         "\\b(Chances?)\\b",
-                        "\\b(Round)z\\b",
                         "\\b(Rainbow)\\b",
                         "\\b(Mixed)\\b",
                         "\\b(Trade)\\b",
-                        "\\b(Overclock)s?e?d?i?n?g?z\\b",
                         "\\b(Reputation)\\b",
                         
                         "(End of Game)",
                         "(End of Draft phase)"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b([a-z,A-Z]*)z\\b"
                     ],
                     "Replacement": "[[BoldText $1]]"
                 },
@@ -111,22 +118,12 @@
                     "Type": "Replace",
                     "Patterns": [ " ->" ],
                     "Replacement": "[[WingDings3 u]]"
-                },
-                {
-                    "Type": "Replace",
-                    "Patterns": 
-                    [ 
-                        "(effect)z",
-                        "(mods?)z",
-                        "(activate)z"
-                    ],
-                    "Replacement": "$1"
                 }
             ]
         },
         { "ColumnIndex": 3, "Name": "Stage" },
         { 
-            "ColumnIndex": 12, 
+            "ColumnIndex": 11, 
             "Name": "Cost",
             "Modifiers": 
             [
@@ -137,9 +134,9 @@
                 }
             ]
         },
-        { "ColumnIndex": "13", "Name": "Rebates" },
+        { "ColumnIndex": 12, "Name": "Rebates" },
         {
-            "ColumnIndex": 9,
+            "ColumnIndex": 8,
             "Name": "StageOneRebate",
             "Modifiers": 
             [
@@ -156,7 +153,7 @@
             ]
         },
         {
-            "ColumnIndex": 10,
+            "ColumnIndex": 9,
             "Name": "StageTwoRebate",
             "Modifiers": 
             [

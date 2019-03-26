@@ -38,17 +38,17 @@
                 "Prototype": "DescriptionText",
                 "Content": "~Text",
                 "X": "72",
-                "Y": "430",
+                "Y": "420",
                 "Width": "448",
-                "Height": "360"
+                "Height": "325"
             },
             {
                 "Prototype": "FlashyText",
                 "Color": "FFFFFF",
                 "Content": " {~StageOneRebate}",
-                "X": "105",
+                "X": "72",
                 "Y": "340",
-                "Width": "999",
+                "Width": "300",
                 "Height": "80",
                 "HorizontalAlignment": "Left"
             },
@@ -56,11 +56,11 @@
                 "Prototype": "FlashyText",
                 "Color": "FFFFFF",
                 "Content": " {~StageTwoRebate}",
-                "X": "394",
+                "X": "220",
                 "Y": "340",
-                "Width": "999",
+                "Width": "300",
                 "Height": "80",
-                "HorizontalAlignment": "Left"
+                "HorizontalAlignment": "Right"
             }
         ]
     }

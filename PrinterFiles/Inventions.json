@@ -16,26 +16,26 @@
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention1.png",
-            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 85 } }
+            "Back": "CardBack1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 90 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention2.png",
-            "Range": { "Type": "Range", "Range": { "Start": 86, "End": 157 } }
+            "Back": "CardBack2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 91, "End": 173 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention3.png",
-            "Range": { "Type": "Range", "Range": { "Start": 158, "End": 217 } }
+            "Back": "CardBack3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 174, "End": 247 } }
         },
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Inventions/Invention.png",
-            "Back": "../Images/CardBackInventionStarter.png",
-            "Range": { "Type": "Range", "Range": { "Start": 218, "End": 225 } }
+            "Back": "CardBackS.png",
+            "Range": { "Type": "Range", "Range": { "Start": 248, "End": 267 } }
         }
     ]
 }

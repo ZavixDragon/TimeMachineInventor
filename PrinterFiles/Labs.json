@@ -16,8 +16,19 @@
         {
             "Type": "AddImages",
             "Front": "../GeneratorFiles/Labs/Lab.png",
-            "Back": "../Images/CardBackLab.png",
-            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 7 } }
+            "Back": "../GeneratorFiles/Labs/Lab.png",
+            "Range": { "Type": "List", "List": [ 
+                { "Front": "0", "Back": "1" },
+                { "Front": "2", "Back": "3" },
+                { "Front": "4", "Back": "5" },
+                { "Front": "6", "Back": "7" },
+                { "Front": "8", "Back": "9" },
+                { "Front": "10", "Back": "11" },
+                { "Front": "12", "Back": "13" },
+                { "Front": "14", "Back": "15" },
+                { "Front": "16", "Back": "17" },
+                { "Front": "18", "Back": "19" },
+            ] }
         }
     ]
 }

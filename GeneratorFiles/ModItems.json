@@ -1,466 +1,466 @@
 {
   "Items": [
     {
-      "Name": "Draft Mod",
-      "Target": "Draft Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Money] and 1[^Progress]",
+      "Name": "Adapted Mod",
+      "Target": "Draft Activate",
+      "Text": "[^Activate][[WingDings3 u]] If it counts a color, choose another color for it also to count. If it counts a type, choose another type for it also to count",
       "Stage": "1",
-      "Cost": "1[^Parts]"
-    },
-    {
-      "Name": "Masterpiece Mod",
-      "Target": "Any",
-      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
-      "Stage": "1",
-      "Cost": "1[^Parts] 3[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Activator Mod",
-      "Target": "Any",
-      "Text": "[^Activate][[WingDings3 u]] Ready this invention and all mods on it",
+      "Target": "Activate",
+      "Text": "[^Activate][[WingDings3 u]] Reactivate this invention",
       "Stage": "1",
-      "Cost": "4[^Parts] 4[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Dual Core Mod",
       "Target": "Overclock",
       "Text": "Costs double the [^Money] to [^Overclock], But read the [^Overclock] text twice",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Resourcful Mod",
-      "Target": "Mixed",
-      "Text": "When this gains resources not from [^Overclock], gain 1 additional of each type of resource gained",
-      "Stage": "1",
-      "Cost": "2[^Parts]"
+      "Cost": ""
     },
     {
       "Name": "Water Cooling Mod",
       "Target": "Overclock",
       "Text": "This invention costs no [^Energy] to [^Overclock]",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": ""
+    },
+    {
+      "Name": "Chameleon Mod",
+      "Target": "Rainbow",
+      "Text": "When attached choose a color or type, it counts as always being that",
+      "Stage": "1",
+      "Cost": ""
     },
     {
       "Name": "Chaos Mod",
       "Target": "Chaos",
       "Text": "Gain 1 additional [[BoldText Chance]] when using this invention ",
       "Stage": "1",
-      "Cost": "1[^Parts]"
+      "Cost": ""
+    },
+    {
+      "Name": "Efficiency Mod",
+      "Target": "Produce",
+      "Text": "This invention [^Produce] twice",
+      "Stage": "1",
+      "Cost": ""
     },
     {
       "Name": "Sustainable Mod",
       "Target": "Produce",
       "Text": "You may ignore any payments on this invention",
       "Stage": "1",
-      "Cost": "1[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Hi-Tech Mod",
-      "Target": "Any",
+      "Target": "",
       "Text": "Each Breakthrough that affects this invention, has double the effect on this invention",
       "Stage": "1",
-      "Cost": "1[^Parts] 1[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Stealth Mod",
       "Target": "Evil Produce",
-      "Text": "You no longer gain [^Evil] when producing, but instead lose 4[^Money]",
+      "Text": "You don't gain [^Evil] on this invention",
       "Stage": "1",
-      "Cost": "1[^Parts]"
+      "Cost": ""
     },
     {
       "Name": "Popular Mod",
-      "Target": "Good",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Good]",
+      "Target": "Good Produce",
+      "Text": "This [[BoldText produces]] 1 more [^Good]",
       "Stage": "1",
-      "Cost": "3[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Tesla Mod",
-      "Target": "Energy",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Energy]",
+      "Target": "Energy Produce",
+      "Text": "This [[BoldText produces]] 1 more [^Energy]",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Factory Mod",
-      "Target": "Parts",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Parts]",
+      "Target": "Parts Produce",
+      "Text": "This [[BoldText produces]] 1 more [^Parts]",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Analysis Mod",
-      "Target": "Science",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Science]",
+      "Target": "Science Produce",
+      "Text": "This [[BoldText produces]] 1 more [^Science]",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
-      "Name": "Chameleon Mod",
-      "Target": "Rainbow Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Progress] or 2[^Money]",
+      "Name": "Masterpiece Mod",
+      "Target": "",
+      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
       "Stage": "1",
-      "Cost": "1[^Parts]"
+      "Cost": ""
     },
     {
       "Name": "Profit Mod",
       "Target": "Money",
-      "Text": "[^Activate][[WingDings3 u]] Gain 5[^Money]",
+      "Text": "Gain 1[^Money] for every 4[^Money] this invention directly gains (use counters to track between counts of 4)",
       "Stage": "1",
-      "Cost": "2[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Tinker Mod",
-      "Target": "Invent Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Progress] or 2[^Money]",
+      "Target": "Invent Activate",
+      "Text": "Gain an additonal 1[^Money] for each of the referenced things you invented",
       "Stage": "1",
-      "Cost": "1[^Parts]"
+      "Cost": ""
     },
     {
       "Name": "Acquisition Mod",
-      "Target": "Act Progress",
-      "Text": "Gain double the [^Progress] from the [^Effect]",
+      "Target": "Act Activate",
+      "Text": "Start of [[BoldText Act]] phase, D&R the first card in the [^Activity] deck that this invention references",
       "Stage": "1",
-      "Cost": "1[^Parts]"
+      "Cost": ""
     },
     {
       "Name": "Temporal Mod",
-      "Target": "Chrono",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^ChronoMatter]",
+      "Target": "Chrono Activate",
+      "Text": "Whenever this is activated, gain 1[^ChronoMatter]",
       "Stage": "1",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Profit Mod",
       "Target": "Money",
-      "Text": "[^Activate][[WingDings3 u]] Gain 10[^Money]",
+      "Text": "Gain 1[^Money] for every 3[^Money] this invention directly gains (use counters to track between counts of 3)",
       "Stage": "2",
-      "Cost": "3[^Parts] 3[^Money]"
+      "Cost": ""
     },
     {
-      "Name": "Draft Mod",
-      "Target": "Draft Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Money] and 1[^Progress]",
+      "Name": "Adapted Mod",
+      "Target": "Draft Activate",
+      "Text": "[^Activate][[WingDings3 u]] If it counts a color, choose another type for it also to count. If it counts a type, choose another color  for it also to count",
       "Stage": "2",
-      "Cost": "1[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
-      "Name": "Chameleon Mod",
-      "Target": "Rainbow Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 1[^Progress] or 4[^Money]",
+      "Name": "Masterpiece Mod",
+      "Target": "",
+      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
       "Stage": "2",
-      "Cost": "1[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Activator Mod",
-      "Target": "Any",
-      "Text": "[^Activate][[WingDings3 u]] Ready this invention and all mods on it",
-      "Stage": "2",
-      "Cost": "5[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Dual Core Mod",
       "Target": "Overclock",
-      "Text": "Costs double the [^Money] to [^Overclock], But read the [^Overclock] text twice and gain 2[^Money]",
+      "Text": "Costs double the [^Money] to [^Overclock], But read the [^Overclock] text twice and gain 3[^Money]",
       "Stage": "2",
-      "Cost": "2[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Tinker Mod",
-      "Target": "Invent Progress",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Progress] or 4[^Money]",
-      "Stage": "2",
-      "Cost": "1[^Parts] 2[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Water Cooling Mod",
       "Target": "Overclock",
-      "Text": "This invention costs no [^Energy] to [^Overclock] and when you [^Overclock] this gain 2[^Money]",
+      "Text": "This invention costs no [^Energy] to [^Overclock] and when you [^Overclock] this gain 3[^Money]",
       "Stage": "2",
-      "Cost": "2[^Parts] 3[^Money]"
+      "Cost": ""
     },
     {
-      "Name": "Resourcful Mod",
-      "Target": "Mixed",
-      "Text": "When this gains resources not from [^Overclock], gain 1 additional of each type of resource gained",
+      "Name": "Tinker Mod",
+      "Target": "Invent Activate",
+      "Text": "Gain an additonal 2[^Money] for each of the referenced things you invented",
       "Stage": "2",
-      "Cost": "2[^Parts] 3[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Chaos Mod",
       "Target": "Chaos",
       "Text": "Gain 2 additional [[BoldText Chance]] when using this invention ",
       "Stage": "2",
-      "Cost": "1[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Acquisition Mod",
-      "Target": "Act Progress",
-      "Text": "Gain double the [^Progress] from the [^Effect]",
-      "Stage": "2",
-      "Cost": "1[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Sustainable Mod",
-      "Target": "Produce",
-      "Text": "You gain any payments on this invention instead",
-      "Stage": "2",
-      "Cost": "1[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Stealth Mod",
-      "Target": "Evil Produce",
-      "Text": "You no longer gain [^Evil] when producing",
-      "Stage": "2",
-      "Cost": "1[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Analysis Mod",
-      "Target": "Science",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Science]",
-      "Stage": "2",
-      "Cost": "3[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Factory Mod",
-      "Target": "Parts",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Parts]",
-      "Stage": "2",
-      "Cost": "3[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Masterpiece Mod",
-      "Target": "Any",
-      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
-      "Stage": "2",
-      "Cost": "2[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Temporal Mod",
-      "Target": "Chrono",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^ChronoMatter]",
-      "Stage": "2",
-      "Cost": "5[^Parts] 4[^Money]"
-    },
-    {
-      "Name": "Tesla Mod",
-      "Target": "Energy",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Energy]",
-      "Stage": "2",
-      "Cost": "3[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Hi-Tech Mod",
-      "Target": "Any",
-      "Text": "Each Breakthrough that affects this invention, has double the effect on this invention",
-      "Stage": "2",
-      "Cost": "1[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Popular Mod",
-      "Target": "Good",
-      "Text": "[^Activate][[WingDings3 u]] Gain 2[^Good]",
-      "Stage": "2",
-      "Cost": "4[^Parts] 3[^Money]"
-    },
-    {
-      "Name": "Purple Mod",
-      "Target": "[^Purple]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Biotech Mod",
-      "Target": "[^Biotech]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Dimensional Mod",
-      "Target": "[^Dimensional]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Legendary Mod",
-      "Target": "Goal",
-      "Text": "This mod is worth 1[^VictoryPoint] for every 2[^VictoryPoint] this invention is worth",
-      "Stage": "3",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Cost": ""
     },
     {
       "Name": "Chameleon Mod",
       "Target": "Rainbow",
-      "Text": "This invention counts as all types and colors",
-      "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
+      "Text": "When attached choose a color and type, it counts as always being that",
+      "Stage": "2",
+      "Cost": ""
     },
     {
-      "Name": "Green Mod",
-      "Target": "[^Green]",
-      "Text": "This invention is worth an additional 1[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "1[^Parts] 1[^Money]"
+      "Name": "Efficiency Mod",
+      "Target": "Produce",
+      "Text": "This invention [^Produce] twice",
+      "Stage": "2",
+      "Cost": ""
     },
     {
-      "Name": "Resourcful Mod",
-      "Target": "Mixed",
-      "Text": "This invention is worth 3 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Dark Matter Mod",
-      "Target": "[^DarkMatter]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Robotic Mod",
-      "Target": "[^Robotic]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Hi-Tech Mod",
-      "Target": "Any",
-      "Text": "Each Breakthrough that affects this invention, has double the effect on this invention",
-      "Stage": "3",
-      "Cost": "1[^Parts] 3[^Money]"
+      "Name": "Acquisition Mod",
+      "Target": "Act Activate",
+      "Text": "Start of [[BoldText Act]] phase, D&R the first and second card in the [^Activity] deck that this invention references",
+      "Stage": "2",
+      "Cost": ""
     },
     {
       "Name": "Sustainable Mod",
       "Target": "Produce",
-      "Text": "This invention is worth 2 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Activator Mod",
-      "Target": "Any",
-      "Text": "[^Activate][[WingDings3 u]] Ready this invention and all mods on it\n\nThis invention is worth 1 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "6[^Parts]"
-    },
-    {
-      "Name": "Draft Mod",
-      "Target": "Draft",
-      "Text": "This invention is worth 2 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Tinker Mod",
-      "Target": "Invent",
-      "Text": "This invention is worth 2 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Acquisition Mod",
-      "Target": "Act",
-      "Text": "This invention is worth 2 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Temporal Mod",
-      "Target": "Chrono",
-      "Text": "[^Activate][[WingDings3 u]] Gain 3[^ChronoMatter] and draw 1 [^Activity]\n\nThis invention is worth 1 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "6[^Parts]"
-    },
-    {
-      "Name": "Profit Mod",
-      "Target": "Money",
-      "Text": "This invention is worth 4 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "4[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Analysis Mod",
-      "Target": "Science",
-      "Text": "This invention is worth 4 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "4[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Masterpiece Mod",
-      "Target": "Any",
-      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
-      "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
-    },
-    {
-      "Name": "Factory Mod",
-      "Target": "Parts",
-      "Text": "This invention is worth 4 additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "4[^Parts] 2[^Money]"
-    },
-    {
-      "Name": "Popular Mod",
-      "Target": "Good",
-      "Text": "[^Activate][[WingDings3 u]] Gain 4[^Good]",
-      "Stage": "3",
-      "Cost": "4[^Parts] 3[^Money]"
+      "Text": "Instead of paying payments, gain the payments instead on this invention",
+      "Stage": "2",
+      "Cost": ""
     },
     {
       "Name": "Stealth Mod",
-      "Target": "Evil",
-      "Text": "[^Activate][[WingDings3 u]] Each other player gains 3[^Evil]",
-      "Stage": "3",
-      "Cost": "3[^Parts] 3[^Money]"
+      "Target": "Evil Produce",
+      "Text": "You don't gain [^Evil] on this invention, instead each other player gains that [^Evil]",
+      "Stage": "2",
+      "Cost": ""
     },
     {
-      "Name": "Yellow Mod",
-      "Target": "[^Yellow]",
-      "Text": "This invention is worth an additional 3[^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
+      "Name": "Analysis Mod",
+      "Target": "Science Produce",
+      "Text": "This [[BoldText produces]] 2 more [^Science]",
+      "Stage": "2",
+      "Cost": ""
     },
     {
-      "Name": "Chaos Mod",
-      "Target": "Chaos",
-      "Text": "Roll a die and this inventions is worth that many additional [^VictoryPoint]",
-      "Stage": "3",
-      "Cost": "3[^Parts] 4[^Money]"
+      "Name": "Factory Mod",
+      "Target": "Parts Produce",
+      "Text": "This [[BoldText produces]] 2 more [^Parts]",
+      "Stage": "2",
+      "Cost": ""
     },
     {
-      "Name": "Water Cooling Mod",
-      "Target": "Overclock",
-      "Text": "This invention costs no [^Energy] to [^Overclock] and when you [^Overclock] this gain 2[^VictoryPoint]",
+      "Name": "Activator Mod",
+      "Target": "Activate",
+      "Text": "[^Activate][[WingDings3 u]] Reactivate this invention",
+      "Stage": "2",
+      "Cost": ""
+    },
+    {
+      "Name": "Temporal Mod",
+      "Target": "Chrono Activate",
+      "Text": "Whenever this is activated, gain 2[^ChronoMatter] and D&R 1[^Activity]",
+      "Stage": "2",
+      "Cost": ""
+    },
+    {
+      "Name": "Tesla Mod",
+      "Target": "Energy Produce",
+      "Text": "This [[BoldText produces]] 2 more [^Energy]",
+      "Stage": "2",
+      "Cost": ""
+    },
+    {
+      "Name": "Hi-Tech Mod",
+      "Target": "",
+      "Text": "Each Breakthrough that affects this invention, has double the effect on this invention",
+      "Stage": "2",
+      "Cost": ""
+    },
+    {
+      "Name": "Popular Mod",
+      "Target": "Good Produce",
+      "Text": "This [[BoldText produces]] 2 more [^Good]",
+      "Stage": "2",
+      "Cost": ""
+    },
+    {
+      "Name": "Purple Mod",
+      "Target": "[^Purple]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
       "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
+      "Cost": ""
+    },
+    {
+      "Name": "Biotech Mod",
+      "Target": "[^Biotech]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Dimensional Mod",
+      "Target": "[^Dimensional]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Legendary Mod",
+      "Target": "Goal",
+      "Text": "This [[BoldText mod]] is worth 1[^VictoryPoint] for every 2[^VictoryPoint] this invention is worth",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Masterpiece Mod",
+      "Target": "",
+      "Text": "This invention is worth 1 additional [^VictoryPoint] for each [^Mod] on it",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Green Mod",
+      "Target": "[^Green]",
+      "Text": "This invention is worth 2 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Chameleon Mod",
+      "Target": "Rainbow",
+      "Text": "This invention always counts as being all types and colors",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Dark Matter Mod",
+      "Target": "[^DarkMatter]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Robotic Mod",
+      "Target": "[^Robotic]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Hi-Tech Mod",
+      "Target": "",
+      "Text": "Each Breakthrough that affects this invention, has double the effect on this invention",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Sustainable Mod",
+      "Target": "Produce",
+      "Text": "Instead of paying payments, gain 3 [^VictoryPoint] instead",
+      "Stage": "3",
+      "Cost": ""
     },
     {
       "Name": "Dual Core Mod",
       "Target": "Overclock",
-      "Text": "Costs double the [^Money] to [^Overclock], But read the [^Overclock] text twice and gain 2[^VictoryPoint]",
+      "Text": "Costs double the [^Money] to [^Overclock], But read the [^Overclock] text twice and gain 4[^VictoryPoint]",
       "Stage": "3",
-      "Cost": "3[^Parts] 1[^Money]"
+      "Cost": ""
     },
     {
-      "Name": "Tesla Mod",
-      "Target": "Energy",
+      "Name": "Market Share Mod",
+      "Target": "Draft Activate",
+      "Text": "Double the gains of activating this invention",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Market Share Mod",
+      "Target": "Invent Activate",
+      "Text": "Double the gains of activating this invention",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Market Share Mod",
+      "Target": "Act Activate",
+      "Text": "Double the gains of activating this invention",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Temporal Mod",
+      "Target": "Chrono Activate",
+      "Text": "Whenever this is activated, gain 3[^ChronoMatter] and D&R 1[^Activity]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Profit Mod",
+      "Target": "Money",
+      "Text": "Gain 1[^Money] for every 2[^Money] this invention directly gains (use counters to track between counts of 2)",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Theoretical Mod",
+      "Target": "Science",
+      "Text": "When you gain this, you may pay up to 4 [^Science]\n\nThis invention is worth 3 additional [^VictoryPoint] for every [^Science] paid",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Activator Mod",
+      "Target": "Activate",
+      "Text": "[^Activate][[WingDings3 u]] Reactivate this invention",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Factory Mod",
+      "Target": "Parts",
+      "Text": "When you gain this, you may pay up to 4 [^Parts]\n\nThis invention is worth 3 additional [^VictoryPoint] for every [^Parts] paid",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Popular Mod",
+      "Target": "Good",
+      "Text": "Double the amount of [^Good] this invention gains",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Stealth Mod",
+      "Target": "Evil",
+      "Text": "When you attach this gain 9[^Evil]\n\nThis invention is worth 15 additional [^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Yellow Mod",
+      "Target": "[^Yellow]",
       "Text": "This invention is worth 4 additional [^VictoryPoint]",
       "Stage": "3",
-      "Cost": "4[^Parts] 2[^Money]"
+      "Cost": ""
+    },
+    {
+      "Name": "Efficiency Mod",
+      "Target": "Produce",
+      "Text": "This invention [^Produce] twice",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Chaos Mod",
+      "Target": "Chaos",
+      "Text": "Roll 1 dice to determine how many additional [^VictoryPoint] it's worth\n1[[WingDings3 u]] -1   2[[WingDings3 u]] 1   3[[WingDings3 u]] 2\n4[[WingDings3 u]] 3   5[[WingDings3 u]] 4   6[[WingDings3 u]] 5",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Water Cooling Mod",
+      "Target": "Overclock",
+      "Text": "This invention costs no [^Energy] to [^Overclock] and when you [^Overclock] this gain 4[^VictoryPoint]",
+      "Stage": "3",
+      "Cost": ""
+    },
+    {
+      "Name": "Super Charged Mod",
+      "Target": "Energy",
+      "Text": "When you gain this, you may pay up to 4 [^Energy]\n\nThis invention is worth 3 additional [^VictoryPoint] for every [^Energy] paid",
+      "Stage": "3",
+      "Cost": ""
     },
     {
       "Name": "Red Mod",
       "Target": "[^Red]",
-      "Text": "This invention is worth an additional 2[^VictoryPoint]",
+      "Text": "This invention is worth 3 additional [^VictoryPoint]",
       "Stage": "3",
-      "Cost": "2[^Parts] 1[^Money]"
+      "Cost": ""
     }
   ]
 }

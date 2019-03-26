@@ -44,8 +44,9 @@
             },
             {
                 "Prototype": "FlashyText",
+                "FontSize": "30",
                 "Content": "~VictoryPoints",
-                "X": "644",
+                "X": "646",
                 "Y": "330",
                 "Width": "100",
                 "Height": "100"

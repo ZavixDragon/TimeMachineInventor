@@ -2,83 +2,203 @@
   "Items": [
     {
       "Name": "Blake, Lead Researcher",
-      "Lab": "Dimensional Theory Lab",
-      "Invention": "Dimensional Study Guide",
-      "Priority": "8",
+      "Lab": "Knowledge Lab",
+      "Invention": "Library Implant",
+      "Priority": "31",
       "Alignment": "Good",
       "Reputation": "1",
-      "Resources": "3[^Money]",
-      "Flavor": "We will study the other dimensions for the answers"
+      "Resources": "7[^ChronoMatter] 3[^Money]",
+      "Flavor": "We will gather all the knowledge into one place"
+    },
+    {
+      "Name": "Blake, Algorythm Designer",
+      "Lab": "Knowledge Lab",
+      "Invention": "Quick Search Implant",
+      "Priority": "31",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "7[^ChronoMatter]",
+      "Flavor": "We can query the universe"
+    },
+    {
+      "Name": "Styles, Pulling the Strings",
+      "Lab": "Corporate Research Compound",
+      "Invention": "Dimensional Back Door",
+      "Priority": "72",
+      "Alignment": "Evil",
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] 4[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Flavor": "We will hit our deadlines no matter the cost"
     },
     {
       "Name": "Styles, Head of Operations",
       "Lab": "Corporate Research Compound",
-      "Invention": "Dimensional Back Door",
-      "Priority": "12",
+      "Invention": "Corporate Exploit Device",
+      "Priority": "62",
       "Alignment": "Evil",
-      "Reputation": "1",
-      "Resources": "7[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
-      "Flavor": "We will hit our deadlines no matter the cost"
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] 4[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Flavor": "Other corps don't stand a chance!"
     },
     {
       "Name": "Cassia, Future Scientist",
-      "Lab": "Time Works Lab",
+      "Lab": "Temporal Lab",
       "Invention": "Chrono Field",
-      "Priority": "20",
+      "Priority": "33",
+      "Alignment": "Good",
+      "Reputation": "2",
+      "Resources": "8[^ChronoMatter] -1[^Science] -1[^Parts] -1[^Energy]",
+      "Flavor": "Mistakes were made in my timeline, that I came back to prevent"
+    },
+    {
+      "Name": "Cassia, Future Entrepreneur",
+      "Lab": "Temporal Lab",
+      "Invention": "Chrono Stream",
+      "Priority": "74",
       "Alignment": "Good",
       "Reputation": "1",
-      "Resources": "-7[^Money] -1[^Science] -1[^Parts] -1[^Energy]",
-      "Flavor": "Mistakes were made in my timeline, that I came back to prevent"
+      "Resources": "7[^ChronoMatter] -1[^Science]",
+      "Flavor": "Oppertunities I bring from the future"
+    },
+    {
+      "Name": "Laura, Puzzle Master",
+      "Lab": "Expanse Lab",
+      "Invention": "Universe Lockbox",
+      "Priority": "32",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "7[^ChronoMatter] 1[^Money]",
+      "Flavor": "We are unlocking the secrets of the universe, pushing the boundaries of science"
     },
     {
       "Name": "Laura, CEO of Expanse Labs",
       "Lab": "Expanse Lab",
       "Invention": "Open Universe",
-      "Priority": "14",
+      "Priority": "73",
       "Alignment": "Good",
       "Reputation": "0",
-      "Resources": "1[^Money]",
-      "Flavor": "We are unlocking the secrets of the universe, pushing the boundaries of science"
+      "Resources": "7[^ChronoMatter] 1[^Money]",
+      "Flavor": "There is much to glean from the universe"
     },
     {
       "Name": "Dr. Adox, Mad Scientist ",
       "Lab": "Science First Lab",
-      "Invention": "Paradox Exploter",
-      "Priority": "22",
+      "Invention": "Paradox Exploiter",
+      "Priority": "1",
       "Alignment": "Evil",
-      "Reputation": "1",
-      "Resources": "1[^Money] 1[^Parts]",
+      "Reputation": "2",
+      "Resources": "4[^ChronoMatter] 1[^Science] 1[^Parts] 1[^Energy]",
       "Flavor": "They see risk, I see oppertunity"
+    },
+    {
+      "Name": "Dr. Adox, Genius Scientist",
+      "Lab": "Science First Lab",
+      "Invention": "Paradox Stabilizer",
+      "Priority": "22",
+      "Alignment": "Good",
+      "Reputation": "1",
+      "Resources": "5[^ChronoMatter] 1[^Money]",
+      "Flavor": "All the others were too scared to learn about paradoxes"
     },
     {
       "Name": "Chase, Obsessed Scientist",
       "Lab": "Future Tech Facility",
-      "Invention": "Critical Theory",
-      "Priority": "18",
+      "Invention": "Critical Theory Machine",
+      "Priority": "21",
+      "Alignment": "Evil",
+      "Reputation": "1",
+      "Resources": "7[^ChronoMatter] 2[^Science]",
+      "Flavor": "I just need to finish this, just a few more hours of work"
+    },
+    {
+      "Name": "Chase, Head of Applied Sciences",
+      "Lab": "Future Tech Facility",
+      "Invention": "Bleeding Edge Device",
+      "Priority": "2",
       "Alignment": "Good",
       "Reputation": "0",
-      "Resources": "4[^Money] 2[^Science]",
-      "Flavor": "I just need to finish this, just a few more hours of work"
+      "Resources": "7[^ChronoMatter] -1[^Parts] -1[^Energy] -1[^Money]",
+      "Flavor": "I have an eye for new technologies that will hit it big"
     },
     {
       "Name": "Jack, Head Chairman",
       "Lab": "Cutting Edge Factory",
       "Invention": "Mass Producer",
-      "Priority": "10",
+      "Priority": "11",
       "Alignment": "Good",
       "Reputation": "0",
-      "Resources": "-1[^Parts]",
+      "Resources": "7[^ChronoMatter] -1[^Science] -1[^Parts] -1[^Energy] 3[^Money]",
       "Flavor": "We are quite resourceful"
+    },
+    {
+      "Name": "Jack, Efficiency Expert",
+      "Lab": "Cutting Edge Factory",
+      "Invention": "Versatile Factory",
+      "Priority": "11",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "7[^ChronoMatter] -1[^Science] -1[^Parts] -1[^Energy] 3[^Money]",
+      "Flavor": "We produce all of our stuff in house"
     },
     {
       "Name": "Olivia, Head Archivist",
       "Lab": "Experimentation Archives Group",
       "Invention": "Experimention Chamber",
-      "Priority": "16",
+      "Priority": "71",
       "Alignment": "Good",
       "Reputation": "1",
-      "Resources": "2[^Money]",
+      "Resources": "7[^ChronoMatter]",
       "Flavor": "Interesting, very interesting, prepare the next experiment"
+    },
+    {
+      "Name": "Olivia, Head Biologist",
+      "Lab": "Experimentation Archives Group",
+      "Invention": "Incubation Chamber",
+      "Priority": "41",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "7[^ChronoMatter] -1[^Money]",
+      "Flavor": "We will get observing as this new specimen grows"
+    },
+    {
+      "Name": "Selena, Humanitarian Scientist",
+      "Lab": "Better World Research Group",
+      "Invention": "Helping Hand Program",
+      "Priority": "61",
+      "Alignment": "Good",
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] -1[^Science] 1[^Money]",
+      "Flavor": "Finding new ways to help people"
+    },
+    {
+      "Name": "Selena, Humanitarian Scientist",
+      "Lab": "Better World Research Group",
+      "Invention": "Helping Hand Program",
+      "Priority": "61",
+      "Alignment": "Good",
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] -1[^Science] 1[^Money]",
+      "Flavor": "Finding new ways to help people"
+    },
+    {
+      "Name": "Trevor, ",
+      "Lab": "Frontier Lab",
+      "Invention": "Multi Spectrum Pocket Universe",
+      "Priority": "91",
+      "Alignment": "Evil",
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] 3[^Science] 3[^Parts] 3[^Energy] -2[^Money]",
+      "Flavor": "I will have given myself all the resource that I need to suceed"
+    },
+    {
+      "Name": "Trevor, ",
+      "Lab": "Frontier Lab",
+      "Invention": "Unstable Blackhole",
+      "Priority": "51",
+      "Alignment": "Evil",
+      "Reputation": "1",
+      "Resources": "7[^ChronoMatter] 1[^Science] 1[^Parts] 1[^Energy] 5[^Money]",
+      "Flavor": "Blackholes are just another frontier"
     }
   ]
 }
