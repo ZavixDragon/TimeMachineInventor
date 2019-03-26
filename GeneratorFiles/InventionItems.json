@@ -2741,7 +2741,7 @@
     },
     {
       "Name": "Dimensional Back Door",
-      "Text": "[^Overclock] 1[^Energy] 4[^Money][[WingDings3 u]] Gain 2[^Evil] and choose one to gain: \n15[^Money], 3[^Science], 3[^Parts], or 3[^Energy]",
+      "Text": "[^Overclock] 1[^Energy] 1[^Money][[WingDings3 u]] Gain 3[^Evil] and choose one to gain: \n15[^Money], 3[^Science], 3[^Parts], or 3[^Energy]",
       "Tags": "Evil Mixed Overclock",
       "Flavor": "Sometime you just need the resources, and it doesn't matter how much backlash there is",
       "Stage": "Starter",
@@ -2774,7 +2774,7 @@
     },
     {
       "Name": "Paradox Exploiter",
-      "Text": "At the start of [[BoldText Act]] phase draw 2 less [^Activity]\nGain 3[^Money] for each [^ChronoMatter] you turn into other resources during [[BoldText Generate]] phase",
+      "Text": "On the first turn, after the [[BoldText Draft]] phase, Draw 3 inventions, you may [[BoldText invent]] them during [[BoldText invent]] phase, but they are not considered [[BoldText drafted]]\n\nAt the start of [[BoldText Act]] phase draw 2 less [^Activity]\n\nGain 3[^Money] for each [^ChronoMatter] you turn into other resources during [[BoldText Generate]] phase",
       "Tags": "Evil Money Generate",
       "Flavor": "We unlock the true potential of paradoxes",
       "Stage": "Starter",
@@ -2818,7 +2818,7 @@
     },
     {
       "Name": "Helping Hand Program",
-      "Text": "[^Produce][[WingDings3 u]] gain 1[^Good]\n\n[^Overclock] 1[^Energy] 3[^Money][[WingDings3 u]] gain 2[^Good]",
+      "Text": "[^Produce][[WingDings3 u]] gain 1[^Good]\n\n[^Overclock] 1[^Energy] 4[^Money][[WingDings3 u]] gain 3[^Good]",
       "Tags": "Produce Good",
       "Flavor": "We are here to provide a helping hand",
       "Stage": "Starter",
@@ -2851,7 +2851,7 @@
     },
     {
       "Name": "Corporate Exploit Device",
-      "Text": "[^Overclock] 1[^Energy] 2[^Money][[WingDings3 u]] Gain 2[^Evil], gain 15[^Money]",
+      "Text": "[^Overclock] 1[^Energy][[WingDings3 u]] Gain 3[^Evil], gain 15[^Money]",
       "Tags": "Evil Money Overclock",
       "Flavor": "Other corporations arn't using temporal tech, it feels so unfair",
       "Stage": "Starter",
@@ -2928,7 +2928,7 @@
     },
     {
       "Name": "Helping Hand Program",
-      "Text": "[^Produce][[WingDings3 u]] gain 1[^Good]\n\n[^Overclock] 1[^Energy] 3[^Money][[WingDings3 u]] gain 2[^Good]",
+      "Text": "[^Produce][[WingDings3 u]] gain 1[^Good]\n\n[^Overclock] 1[^Energy] 1[^Money][[WingDings3 u]] gain 2[^Good]",
       "Tags": "Produce Good",
       "Flavor": "We are here to provide a helping hand",
       "Stage": "Starter",

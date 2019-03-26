@@ -87,7 +87,7 @@
       "Priority": "1",
       "Alignment": "Evil",
       "Reputation": "2",
-      "Resources": "4[^ChronoMatter] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Resources": "4[^ChronoMatter] -3[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
       "Flavor": "They see risk, I see oppertunity"
     },
     {
