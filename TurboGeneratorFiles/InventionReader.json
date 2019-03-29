@@ -1,0 +1,165 @@
+{
+    "SpreadSheetID": "15shBaaqAq_6mHYiUzaA7cuyNxcRB752A1K4b0-xOFcM",
+    "Range": "Computed Inventions!A2:J999",
+    "Output": "InventionItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "Text",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "([0-9][0-9]?) \\| (.+?)," ],
+                    "Replacement": "[[ChargeText $1_[[WingDings3 u]]_$2]]"
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\b(Biotech)\\b",
+                        "\\b(Dimensional)\\b",
+                        "\\b(Robotic)\\b",
+                        "\\b(Green)\\b",
+                        "\\b(Purple)\\b",
+                        "\\b(Red)\\b",
+                        "\\b(Yellow)\\b",
+                        "(Money)\\b",
+                        "(Science)\\b",
+                        "(Parts)\\b",
+                        "(Energy)\\b",
+                        "(Activity)\\b",
+                        "\\b(Past)\\b",
+                        "\\b(Present)\\b",
+                        "\\b(Future)\\b",
+                        "(Good)\\b",
+                        "(Evil)\\b",
+                        "(Mod)s?\\b",
+                        "(Breakthrough)s\\b",
+                        "\\b(Produce)d?s?i?n?g?\\b",
+                        "(Progress)\\b",
+                        "\\b(Activate)\\b",
+                        "\\b(Grant)s\\b"
+                    ], 
+                    "Replacement": "[^$1]" 
+                },
+                {
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\bOverclock 0 ->"
+                    ], 
+                    "Replacement": "[^Overclock] 1[^Energy] ->" 
+                },
+                {
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\bOverclock ([0-9][0-9]?) ->"
+                    ], 
+                    "Replacement": "[^Overclock] 1[^Energy] $1[^Money] ->" 
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\b(Overclock)s?e?d?i?n?g?\\b"
+                    ], 
+                    "Replacement": "[^$1]" 
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\[\\^\\[\\^Overclock\\]\\]"
+                    ], 
+                    "Replacement": "[^Overclock]" 
+                },
+                {
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "Activities\\b"
+                    ], 
+                    "Replacement": "[^Activity]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b(Dark) (Matter)\\b", 
+                        "(Chrono) (Matter)\\b",
+                        "(Victory) (Point)s?\\b" 
+                    ],
+                    "Replacement": "[^$1$2]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b(Drafts?e?d?i?n?g?)\\b", 
+                        "\\b(Invent)\\b",
+                        "\\b(Act)\\b",
+                        "\\b(Generates?e?d?i?n?g?)\\b",
+                        "\\b(Chrono)\\b",
+                        "\\b(Goal)\\b",
+                        "\\b(Chaos)\\b",
+                        "\\b(Chances?)\\b",
+                        "\\b(Rainbow)\\b",
+                        "\\b(Mixed)\\b",
+                        "\\b(Trade)\\b",
+                        "\\b(Reputation)\\b",
+                        
+                        "(End of Game)",
+                        "(End of Draft phase)"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b([a-z,A-Z]*)z\\b"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ " ->" ],
+                    "Replacement": "[[WingDings3 u]]"
+                }
+            ]
+        },
+        { "ColumnIndex": 2, "Name": "Tags" },
+        { "ColumnIndex": 3, "Name": "Flavor" },
+        { "ColumnIndex": 4, "Name": "Stage" },
+        { "ColumnIndex": 5, "Name": "Symbol" },
+        { "ColumnIndex": 6, "Name": "Color" },
+        { 
+            "ColumnIndex": 7, 
+            "Name": "VictoryPoints",
+            "Modifiers":
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\*" ],
+                    "Replacement": "[[WingDings s]]"
+                }
+            ]  
+        },
+        { 
+            "ColumnIndex": 8, 
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money", "Science", "Parts", "Energy" ], 
+                    "Replacement": "[^$&]" 
+                }
+            ]
+        }
+    ]
+}

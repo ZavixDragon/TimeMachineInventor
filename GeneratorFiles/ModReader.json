@@ -121,7 +121,7 @@
         },
         { "ColumnIndex": 3, "Name": "Stage" },
         { 
-            "ColumnIndex": 10, 
+            "ColumnIndex": 9, 
             "Name": "Cost",
             "Modifiers": 
             [

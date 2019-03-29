@@ -1,0 +1,29 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Mods",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../TurboGeneratorFiles/Mods/Mod.png",
+            "Back": "../Images/CardBackMod2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 12 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../TurboGeneratorFiles/Mods/Mod.png",
+            "Back": "../Images/CardBackMod3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 13, "End": 36 } }
+        }
+    ]
+}

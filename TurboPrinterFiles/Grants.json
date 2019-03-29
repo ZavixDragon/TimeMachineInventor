@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Grants",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../TurboGeneratorFiles/Grants/Grant.png",
+            "Back": "../Images/CardBackGrant.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 17 } }
+        }
+    ]
+}

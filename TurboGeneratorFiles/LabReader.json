@@ -1,0 +1,59 @@
+{
+    "SpreadSheetID": "15shBaaqAq_6mHYiUzaA7cuyNxcRB752A1K4b0-xOFcM",
+    "Range": "Labs!A2:I999",
+    "Output": "LabItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { "ColumnIndex": 1, "Name": "Lab" },
+        { "ColumnIndex": 2, "Name": "Invention" },
+        { "ColumnIndex": 8, "Name": "Priority" },
+        { 
+            "ColumnIndex": 4, 
+            "Name": "Alignment",
+            "Modifiers":
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "-[0-9]" ],
+                    "Replacement": "Evil"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "[0-9]" ],
+                    "Replacement": "Good"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 4, 
+            "Name": "Reputation",
+            "Modifiers":
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "-" ],
+                    "Replacement": ""
+                }
+            ]
+        },
+        {
+            "ColumnIndex": 5, 
+            "Name": "Resources",
+            "Modifiers":
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "Money", "Science", "Parts", "Energy" ],
+                    "Replacement": "[^$&]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "Chrono Matter" ],
+                    "Replacement": "[^ChronoMatter]"
+                }
+            ]
+        },
+        { "ColumnIndex": 7, "Name": "Flavor" }
+    ]
+}

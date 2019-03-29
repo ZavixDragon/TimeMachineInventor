@@ -1,0 +1,151 @@
+{
+    "Constants": 
+    {
+        "Bold": "1",
+        "Italic": "2",
+
+        "CardWidth": "816",
+        "CardHeight": "1110",
+        "MiniCardWidth": "592",
+        "MiniCardHeight": "862",
+        "LargeCardWidth": "1122",
+        "LargeCardHeight": "1797",
+
+        "ArtPath": "../Images/",
+
+        "CardActivity": "../Images/CardActivity.png",
+        "CardBreakthrough0": "../Images/CardBreakthrough.png",
+        "CardBreakthrough1": "../Images/CardBreakthrough.png",
+        "CardBreakthrough2": "../Images/CardBreakthrough.png",
+        "CardGrant": "../Images/CardGrant.png",
+        "CardMod": "../Images/CardMod.png",
+        "CardInventionGreen": "../Images/CardInventionGreen.png",
+        "CardInventionPurple": "../Images/CardInventionPurple.png",
+        "CardInventionRed": "../Images/CardInventionRed.png",
+        "CardInventionYellow": "../Images/CardInventionYellow.png",
+        "CardLab": "../Images/Lab.png",
+        "Biotech": "../Images/IconTypeBiotech.png",
+        "DarkMatter": "../Images/IconTypeDarkMatter.png",
+        "Dimensional": "../Images/IconTypeDimensional.png",
+        "Robotic": "../Images/IconTypeRobotic.png",
+        "Green": "../Images/IconColorGreen.png",
+        "Purple": "../Images/IconColorPurple.png",
+        "Red": "../Images/IconColorRed.png",
+        "Yellow": "../Images/IconColorYellow.png",
+        "ChronoMatter": "../Images/IconResourceChronoMatter.png",
+        "Money": "../Images/IconResourceMoney.png",
+        "Science": "../Images/IconResourceScience.png",
+        "Parts": "../Images/IconResourceParts.png",
+        "Energy": "../Images/IconResourceEnergy.png",
+        "VictoryPoint": "../Images/IconResourceVictoryPoint.png",
+        "Activity": "../Images/IconActivity.png",
+        "Past": "../Images/IconActivityPast.png",
+        "Present": "../Images/IconActivityPresent.png",
+        "Future": "../Images/IconActivityFuture.png",
+        "Good": "../Images/IconGood.png",
+        "Evil": "../Images/IconEvil.png",
+        "Mod": "../Images/IconMod.png",
+        "Breakthrough": "../Images/IconBreakthrough.png",
+        "Overclock": "../Images/IconOverclock.png",
+        "Produce": "../Images/IconProduce.png",
+        "Progress": "../Images/IconProgress.png",
+        "Activate": "../Images/IconActivate.png",
+        "Grant": "../Images/IconGrant.png",
+    },
+    "Prototypes": 
+    {
+        "CardBlueprint": 
+        {
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardBlueprint": 
+        {
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "LargeCardBlueprint": 
+        {
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
+        },
+        "CardImage": 
+        {
+            "Type": "Image",
+            "X": "0",
+            "Y": "0",
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardImage": 
+        {
+            "Prototype": "CardImage",
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "LargeCardImage": 
+        {
+            "Prototype": "CardImage",
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
+        },
+        "CardName": 
+        {
+            "Type": "Text",
+            "Font": "Oswald",
+            "FontStyle": "^Bold",
+            "FontSize": "40",
+            "X": "72",
+            "Y": "72",
+            "Width": "672",
+            "Height": "0",
+            "Color": "FFFFFF",
+            "VerticalAlignment": "Top"
+        },
+        "MiniCardName": 
+        {
+            "Prototype": "CardName",
+            "Width": "448"
+        },
+        "LargeCardName": 
+        {
+            "Prototype": "CardName",
+            "FontSize": "60",
+            "Width": "978"
+        },
+        "FlashyText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "40"
+        },
+        "DescriptionText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "30"
+        },
+
+        "WingDings": 
+        {
+            "Font": "WingDings",
+            "FontStyle": "^Bold"
+        },
+        "WingDings3": 
+        {
+            "Font": "WingDings 3",
+            "FontStyle": "^Bold"
+        },
+        "BoldText": 
+        {
+            "FontStyle": "^Bold"
+        },
+        "ChargeText": 
+        {
+            "BackgroundColor": "424242",
+            "BackgroundBorderColor": "1b1b1b",
+            "BackgroundBorderThickness": "2",
+            "Color": "FFFFFF"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "SavePath": "Grants",
+    "SaveName": "Grant",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "GrantItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "MiniCardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "MiniCardImage",
+                "Source": "^CardGrant"
+            },
+            {
+                "Prototype": "MiniCardName",
+                "Content": "~Type"
+            },
+            {
+                "Type": "Image",
+                "Source": "^~Target",
+                "X": "246",
+                "Y": "195",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Prototype": "DescriptionText",
+                "Content": "~Effect",
+                "X": "72",
+                "Y": "550",
+                "Width": "448",
+                "Height": "200"
+            }
+        ]
+    }
+}

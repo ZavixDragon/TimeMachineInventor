@@ -1,0 +1,94 @@
+{
+  "Items": [
+    {
+      "Type": "Generous",
+      "Target": "Purple",
+      "Effect": "For every [^Purple] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Generous",
+      "Target": "Green",
+      "Effect": "For every [^Green] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Generous",
+      "Target": "Yellow",
+      "Effect": "For every [^Yellow] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Generous",
+      "Target": "Dimensional",
+      "Effect": "For every [^Dimensional] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Generous",
+      "Target": "Robotic",
+      "Effect": "For every [^Robotic] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Generous",
+      "Target": "Biotech",
+      "Effect": "For every [^Biotech] invention you draft, gain 1[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Purple",
+      "Effect": "Each player that drafted the most [^Purple] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Green",
+      "Effect": "Each player that drafted the most [^Green] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Yellow",
+      "Effect": "Each player that drafted the most [^Yellow] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Dimensional",
+      "Effect": "Each player that drafted the most [^Dimensional] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Robotic",
+      "Effect": "Each player that drafted the most [^Robotic] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Contested",
+      "Target": "Biotech",
+      "Effect": "Each player that drafted the most [^Biotech] inventions gains 4[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Purple",
+      "Effect": "For every [^Purple] invention you invent, gain 2[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Green",
+      "Effect": "For every [^Green] invention you invent, gain 2[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Yellow",
+      "Effect": "For every [^Yellow] invention you invent, gain 2[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Dimensional",
+      "Effect": "For every [^Dimensional] invention you invent, gain 2[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Robotic",
+      "Effect": "For every [^Robotic] invention you invent, gain 2[^Money]"
+    },
+    {
+      "Type": "Subsidy",
+      "Target": "Biotech",
+      "Effect": "For every [^Biotech] invention you invent, gain 2[^Money]"
+    }
+  ]
+}

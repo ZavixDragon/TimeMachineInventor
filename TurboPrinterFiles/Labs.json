@@ -1,0 +1,29 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Labs",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "../TurboGeneratorFiles/Labs/Lab.png",
+            "Back": "../TurboGeneratorFiles/Labs/Lab.png",
+            "Range": { "Type": "List", "List": [ 
+                { "Front": "0", "Back": "0" },
+                { "Front": "1", "Back": "1" },
+                { "Front": "2", "Back": "2" },
+                { "Front": "3", "Back": "3" },
+                { "Front": "4", "Back": "4" }
+            ] }
+        }
+    ]
+}

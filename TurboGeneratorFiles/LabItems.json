@@ -1,0 +1,54 @@
+{
+  "Items": [
+    {
+      "Name": "Blake, Lead Researcher",
+      "Lab": "Dimensional Theory Lab",
+      "Invention": "",
+      "Priority": "10",
+      "Alignment": "Good",
+      "Reputation": "1",
+      "Resources": "6[^ChronoMatter] 1[^Science] 2[^Parts] 1[^Energy]",
+      "Flavor": "We will study the other dimensions for the answers"
+    },
+    {
+      "Name": "Styles, Head of Operations",
+      "Lab": "Corporate Research Compound",
+      "Invention": "",
+      "Priority": "12",
+      "Alignment": "Evil",
+      "Reputation": "1",
+      "Resources": "7[^ChronoMatter] 3[^Money] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Flavor": "We will hit our deadlines no matter the cost"
+    },
+    {
+      "Name": "Cassia, Future Scientist",
+      "Lab": "Time Works Lab",
+      "Invention": "",
+      "Priority": "18",
+      "Alignment": "Good",
+      "Reputation": "2",
+      "Resources": "8[^ChronoMatter] 2[^Money]",
+      "Flavor": "Mistakes were made in my timeline, that I came back to prevent"
+    },
+    {
+      "Name": "Laura, CEO of Expanse Labs",
+      "Lab": "Expanse Lab",
+      "Invention": "",
+      "Priority": "14",
+      "Alignment": "Good",
+      "Reputation": "0",
+      "Resources": "7[^ChronoMatter] 1[^Science] 1[^Parts] 1[^Energy]",
+      "Flavor": "We are unlocking the secrets of the universe, pushing the boundaries of science"
+    },
+    {
+      "Name": "Dr. Adox, Mad Scientist ",
+      "Lab": "Science First Lab",
+      "Invention": "",
+      "Priority": "16",
+      "Alignment": "Evil",
+      "Reputation": "2",
+      "Resources": "7[^ChronoMatter] 1[^Money] 1[^Science] 1[^Parts] 2[^Energy]",
+      "Flavor": "They see risk, I see oppertunity"
+    }
+  ]
+}

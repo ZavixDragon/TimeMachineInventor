@@ -1,0 +1,136 @@
+{
+    "SpreadSheetID": "15shBaaqAq_6mHYiUzaA7cuyNxcRB752A1K4b0-xOFcM",
+    "Range": "Mods!A2:K67",
+    "Output": "ModItems.json",
+    "Sort": "Stage",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "Target",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\bRobotic\\b", "\\bBiotech\\b", "\\bDimensional\\b", "\\bPurple\\b", "\\bGreen\\b", "\\bRed\\b", "\\bYellow\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "\\bDark Matter\\b" ], 
+                    "Replacement": "[^DarkMatter]" 
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Text",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "\\b(Biotech)\\b",
+                        "\\b(Dimensional)\\b",
+                        "\\b(Robotic)\\b",
+                        "\\b(Green)\\b",
+                        "\\b(Purple)\\b",
+                        "\\b(Red)\\b",
+                        "\\b(Yellow)\\b",
+                        "(Money)\\b",
+                        "(Science)\\b",
+                        "(Parts)\\b",
+                        "(Energy)\\b",
+                        "(Activity)\\b",
+                        "\\b(Past)\\b",
+                        "\\b(Present)\\b",
+                        "\\b(Future)\\b",
+                        "(Good)\\b",
+                        "(Evil)\\b",
+                        "\\b(Mod)s?\\b",
+                        "\\b(Breakthrough)s\\b",
+                        "\\b(Overclock)s?e?d?i?n?g?\\b",
+                        "\\b(Produce)d?s?i?n?g?\\b",
+                        "(Progress)\\b",
+                        "\\b(Activate)\\b",
+                        "\\b(Grant)s\\b"
+                    ], 
+                    "Replacement": "[^$1]" 
+                },
+                {
+                    "Type": "Replace", 
+                    "Patterns": 
+                    [ 
+                        "Activities\\b"
+                    ], 
+                    "Replacement": "[^Activity]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b(Dark) (Matter)\\b", 
+                        "(Chrono) (Matter)\\b",
+                        "(Victory) (Point)s?\\b" 
+                    ],
+                    "Replacement": "[^$1$2]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b(Drafts?e?d?i?n?g?)\\b", 
+                        "\\b(Invent)\\b",
+                        "\\b(Act)\\b",
+                        "\\b(Generates?e?d?i?n?g?)\\b",
+                        "\\b(Chrono)\\b",
+                        "\\b(Goal)\\b",
+                        "\\b(Chaos)\\b",
+                        "\\b(Chances?)\\b",
+                        "\\b(Rainbow)\\b",
+                        "\\b(Mixed)\\b",
+                        "\\b(Trade)\\b",
+                        "\\b(Reputation)\\b",
+                        
+                        "(End of Game)",
+                        "(End of Draft phase)"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": 
+                    [ 
+                        "\\b([a-z,A-Z]*)z\\b"
+                    ],
+                    "Replacement": "[[BoldText $1]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ":" ],
+                    "Replacement": " ->"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ " ->" ],
+                    "Replacement": "[[WingDings3 u]]"
+                }
+            ]
+        },
+        { "ColumnIndex": 3, "Name": "Stage" },
+        { 
+            "ColumnIndex": 9, 
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money", "Science", "Parts", "Energy" ], 
+                    "Replacement": "[^$&]" 
+                }
+            ]
+        }
+    ]
+}

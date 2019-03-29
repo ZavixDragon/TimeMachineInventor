@@ -44,10 +44,10 @@
       "Name": "Cassia, Future Scientist",
       "Lab": "Temporal Lab",
       "Invention": "Chrono Field",
-      "Priority": "33",
+      "Priority": "13",
       "Alignment": "Good",
       "Reputation": "2",
-      "Resources": "8[^ChronoMatter] -1[^Science] -1[^Parts] -1[^Energy]",
+      "Resources": "8[^ChronoMatter] -6[^Money] -1[^Science] -1[^Parts] -1[^Energy]",
       "Flavor": "Mistakes were made in my timeline, that I came back to prevent"
     },
     {
