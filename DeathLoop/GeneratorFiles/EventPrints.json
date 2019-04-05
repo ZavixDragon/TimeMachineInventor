@@ -1,0 +1,41 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Events",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Events/Event.png",
+            "Back": "../Images/EventBack.png",
+            "Range": { "Type": "ListFront", "List": [ "0", "14" ] }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Events/Event.png",
+            "Back": "../Images/LockdownBack.png",
+            "Range": { "Type": "ListFront", "List": [ "2", "3", "4", "5" ] }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Events/Event.png",
+            "Back": "../Images/TrackBack.png",
+            "Range": { "Type": "ListFront", "List": [ "1", "6", "7", "8", "9" ] }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Events/Event.png",
+            "Back": "../Images/HuntBack.png",
+            "Range": { "Type": "ListFront", "List": [ "10", "11", "12", "13" ] }
+        },
+    ]
+}

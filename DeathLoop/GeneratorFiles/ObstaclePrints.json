@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Obstacles",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Obstacles/Obstacle.png",
+            "Back": "../Images/ObstacleBack.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 13 } }
+        }
+    ]
+}

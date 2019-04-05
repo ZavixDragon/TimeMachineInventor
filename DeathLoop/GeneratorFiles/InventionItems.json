@@ -1,0 +1,112 @@
+{
+  "Items": [
+    {
+      "Name": "Emergency Teleportation Device",
+      "Cost": "1[^Time] 1[^Parts] 1[^Chemicals] 1[^Energy]",
+      "Effect": "Avoid all damage or being captured and teleport to your home",
+      "Flavor": ""
+    },
+    {
+      "Name": "Blink Device",
+      "Cost": "3[^Energy]",
+      "Effect": "Bypass any non Moving obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Invisibilty Suit",
+      "Cost": "3[^Energy]",
+      "Effect": "Bypass any Sight obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Holo Disguise",
+      "Cost": "1[^Time] 1[^Energy] 1[^Chemicals]",
+      "Effect": "Bypass any non Room obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Explosives",
+      "Cost": "1[^Chemicals] 1[^Parts]",
+      "Effect": "Destroy any Wall Obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Hacking Tool",
+      "Cost": "1[^Time] 1[^Parts] 1[^Energy]",
+      "Effect": "Bypass any Computer obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Emp Device",
+      "Cost": "1[^Parts] 1[^Energy]",
+      "Effect": "Destroy any non Wall, Power obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Ghost Program",
+      "Cost": "2[^Energy]",
+      "Effect": "Ignore all but 1 Tag gained on any action or obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Personal Shield",
+      "Cost": "2[^Parts] 2[^Energy]",
+      "Effect": "Can't be improvised. \n\nGain 9 Max Health",
+      "Flavor": ""
+    },
+    {
+      "Name": "Invicibility Device",
+      "Cost": "1[^Parts] 1[^Chemicals] 1[^Energy]",
+      "Effect": "Avoid all damage",
+      "Flavor": ""
+    },
+    {
+      "Name": "Immortality Device",
+      "Cost": "1[^Parts] 1[^Chemicals]",
+      "Effect": "You cannot be lowered below 1 Health",
+      "Flavor": ""
+    },
+    {
+      "Name": "Automated Turrets",
+      "Cost": "1[^Parts] 1[^Energy]",
+      "Effect": "Destroy any Human or Drone obstacle that's also Moving",
+      "Flavor": ""
+    },
+    {
+      "Name": "Phasing Device",
+      "Cost": "2[^Energy] 1[^Chemicals]",
+      "Effect": "Ignore the Stop and Damage effects of an Obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Death Laser",
+      "Cost": "1[^Parts]",
+      "Effect": "Destroy any Human or Drone obstacle after taking its effects, but you only take Half damage rounded down",
+      "Flavor": ""
+    },
+    {
+      "Name": "Blackmail Fabricator",
+      "Cost": "1[^Time] 1[^Energy] 1[^Parts]",
+      "Effect": "Bypass any Human Obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Levitation Device",
+      "Cost": "1[^Chemicals] 2[^Energy]",
+      "Effect": "Bypass any Weight obstacle",
+      "Flavor": ""
+    },
+    {
+      "Name": "Teleport Beacon",
+      "Cost": "",
+      "Effect": "Can't be improvised. \n\nYou may freely pick up or drop your beacon, you may pay 1 [^Energy] to teleport to your beacon ignoring all negative travel effects",
+      "Flavor": ""
+    },
+    {
+      "Name": "Communication Device",
+      "Cost": "3 [^Parts]",
+      "Effect": "You may Bypass a Human and move that Human obstacle to any other place in the facility",
+      "Flavor": ""
+    }
+  ]
+}

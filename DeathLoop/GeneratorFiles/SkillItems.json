@@ -1,0 +1,96 @@
+{
+  "Items": [
+    {
+      "Name": "Speedrunner",
+      "Effect": "You pay 1 less [^Time] to travel"
+    },
+    {
+      "Name": "Tough",
+      "Effect": "Gain 3 Max Health"
+    },
+    {
+      "Name": "Resourceful",
+      "Effect": "You pay 1 Less [^Time] to take resources"
+    },
+    {
+      "Name": "Street Smarts",
+      "Effect": "You always get to look at another resource when taking resources"
+    },
+    {
+      "Name": "Lockdown Master",
+      "Effect": "Don't take damage from Lockdowns"
+    },
+    {
+      "Name": "Ghost",
+      "Effect": "You don't start with a Tag"
+    },
+    {
+      "Name": "Master of Disguise",
+      "Effect": "You may stay in the same district indefinitely without taking Tags"
+    },
+    {
+      "Name": "Multitasking",
+      "Effect": "The second consequitive action taken at the same location takes 1 less [^Time]"
+    },
+    {
+      "Name": "Right Under Their Nose",
+      "Effect": "The second consequitive action taken at the same location doesn't give a Tag"
+    },
+    {
+      "Name": "Improved Conciousness",
+      "Effect": "While unconcious, you instead can draw and keep 1 invention"
+    },
+    {
+      "Name": "Medic",
+      "Effect": "You heal 4 Health with your personal action"
+    },
+    {
+      "Name": "Research Expert",
+      "Effect": "Whenever you design an invention you get to draw 1 more invention"
+    },
+    {
+      "Name": "Master Tinker",
+      "Effect": "You may once a round tinker an invention for free"
+    },
+    {
+      "Name": "Trade Expert",
+      "Effect": "You may buy and sell resources for 3 [^Money] at the Market"
+    },
+    {
+      "Name": "Market Hookup",
+      "Effect": "You may once per round perform a free Trade resources action"
+    },
+    {
+      "Name": "Camera Feed Password",
+      "Effect": "You may once per round look at one facedown event, resource, or obstacle"
+    },
+    {
+      "Name": "Camera Net",
+      "Effect": "While unconcious, you can hack for 3 less [^Time]"
+    },
+    {
+      "Name": "Hacking Specialist",
+      "Effect": "You no longer take Tags from resource tokens nor do you have to reveal them immidiately"
+    },
+    {
+      "Name": "Trap Disarming",
+      "Effect": "You no longer take Damage from resource tokens"
+    },
+    {
+      "Name": "Energy Drain",
+      "Effect": "You no longer pay [^Energy] for resource tokens"
+    },
+    {
+      "Name": "Chemist",
+      "Effect": "You no longer pay [^Chemicals] for resource tokens"
+    },
+    {
+      "Name": "Reusable Designs",
+      "Effect": "You no longer pay [^Parts] for resource tokens"
+    },
+    {
+      "Name": "Credit Trick",
+      "Effect": "You no longer pay [^Money] for resource tokens"
+    }
+  ]
+}

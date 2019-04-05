@@ -1,0 +1,74 @@
+{
+  "Items": [
+    {
+      "Name": "Biometric Door",
+      "Types": "Wall Computer Power",
+      "Options": "Stop and gain 3Tags\nOR\nStop and you lose 2[^Time]"
+    },
+    {
+      "Name": "Smart Cameras",
+      "Types": "Sight Computer Power",
+      "Options": "Gain 9Tags\nOR\nGain 1Tags, lose 3[^Time]"
+    },
+    {
+      "Name": "Kill Drones",
+      "Types": "Sight Moving Computer Power Drone",
+      "Options": "Take Damage equal to your Tags\nOR\nStop and take 2Damage"
+    },
+    {
+      "Name": "Elite Corp Security",
+      "Types": "Sight Moving Human",
+      "Options": "Stop and take 3Damage\nOR\nTake 6Damage"
+    },
+    {
+      "Name": "Laser Grid",
+      "Types": "Wall Computer Power",
+      "Options": "Stop \nOR\nTake 9Damage"
+    },
+    {
+      "Name": "Invasive AI",
+      "Types": "Moving Computer Power",
+      "Options": "Gain 2Tags and all your Tinker devices are disabled\nOR\nGain 2Tags and Lose 3[^Time]"
+    },
+    {
+      "Name": "Explosive Room",
+      "Types": "Weight",
+      "Options": "Take 7Damage and destroy this obstacle\nOR\nLose 2[^Time] and gain 2Tag and destroy this obstacle"
+    },
+    {
+      "Name": "Corrupt Door Guard",
+      "Types": "Moving Sight Human",
+      "Options": "Pay 6[^Money]\nOR\nStop, take 1Damage and gain 1Tag"
+    },
+    {
+      "Name": "Time Locked Door",
+      "Types": "Wall Computer Power",
+      "Options": "If you arrived at an hour divisble by 6 no effect\nOR\nLose [^Time] until it's an hour divisible by 6 and take damage equal to your Tags"
+    },
+    {
+      "Name": "Routine Patrol",
+      "Types": "Moving Sight Human",
+      "Options": "Stop and Take 3Damage\nOr\nLose 6[^Time] minus the number of times you have snuck by them before"
+    },
+    {
+      "Name": "Toxin Room",
+      "Types": "Weight",
+      "Options": "Take 1Damage now and each time 1[^Time] passes\nOR\nStop"
+    },
+    {
+      "Name": "Laser Room",
+      "Types": "Computer Power Weight",
+      "Options": "Lose 1[^Time] and take 9Damage minus the number of times you have dodged these lasers before\nOR\nTake 9Damage"
+    },
+    {
+      "Name": "Secret Door",
+      "Types": "Wall",
+      "Options": "Stop\nOR\nIf you have ever bypassed this obstacle before, bypass this obstacle"
+    },
+    {
+      "Name": "Sharpshooter",
+      "Types": "Sight Human",
+      "Options": "If you have 0Tags, No Effect\nOR\nTake 9Damage"
+    }
+  ]
+}

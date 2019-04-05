@@ -1,0 +1,45 @@
+{
+    "SavePath": "Obstacles",
+    "SaveName": "Obstacle",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "ObstacleItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "CardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "CardImage",
+                "Source": "^ObstacleCard"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "50",
+                "Content": "~Name",
+                "X": "32",
+                "Y": "32",
+                "Width": "686",
+                "Height": "168",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~Types",
+                "X": "32",
+                "Y": "200",
+                "Width": "686",
+                "Height": "120"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "~Options",
+                "X": "32",
+                "Y": "320",
+                "Width": "686",
+                "Height": "730"
+            }
+        ]
+    }
+}

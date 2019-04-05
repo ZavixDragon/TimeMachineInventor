@@ -1,0 +1,27 @@
+{
+    "SpreadSheetID": "1nfmymL8LbXSaFyWv1r7tKjJaTzQS8cXGTEaTfJZj15Y",
+    "Range": "Corp Events!A2:D999",
+    "Output": "EventItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Effect",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money\\b", "Chemicals\\b", "Parts\\b", "Energy\\b", "Time\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        },
+        { "ColumnIndex": 3, "Name": "Flavor" }
+    ]
+}

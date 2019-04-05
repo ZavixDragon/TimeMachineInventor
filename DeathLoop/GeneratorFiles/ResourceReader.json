@@ -1,0 +1,42 @@
+{
+    "SpreadSheetID": "1nfmymL8LbXSaFyWv1r7tKjJaTzQS8cXGTEaTfJZj15Y",
+    "Range": "Resources!A2:D999",
+    "Output": "ResourceItems.json",
+    "Properties": 
+    [
+        { 
+            "ColumnIndex": 0, 
+            "Name": "Gain",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money\\b", "Chemicals\\b", "Parts\\b", "Energy\\b", "Time\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money\\b", "Chemicals\\b", "Parts\\b", "Energy\\b", "Time\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        }
+    ]
+}

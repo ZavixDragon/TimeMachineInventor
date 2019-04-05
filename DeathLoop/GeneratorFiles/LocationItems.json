@@ -1,0 +1,74 @@
+{
+  "Items": [
+    {
+      "Location": "University Labs",
+      "Action": "Design an invention",
+      "Time": "9",
+      "Effect": "Draw 2 blueprints and choose to keep 1",
+      "Flavor": ""
+    },
+    {
+      "Location": "Hacker's Den",
+      "Action": "Hack into Zanto Corp",
+      "Time": "5",
+      "Effect": "Look at one facedown event, resource, or obstacle",
+      "Flavor": ""
+    },
+    {
+      "Location": "Underground Travel Agency",
+      "Action": "Pay for a ride",
+      "Time": "2",
+      "Effect": "Pay 1[^Money] move to any location and ignore all negative effects",
+      "Flavor": ""
+    },
+    {
+      "Location": "Industrial Zone",
+      "Action": "Timed Theft",
+      "Time": "1",
+      "Effect": "If this isn't the first time using this action gain 1 of any resource",
+      "Flavor": "When you know what the pickup schedule is, it's easy to show up"
+    },
+    {
+      "Location": "Modder's Space",
+      "Action": "Build an invention",
+      "Time": "3",
+      "Effect": "One invention can now be resused for the whole day",
+      "Flavor": ""
+    },
+    {
+      "Location": "Seedy Hideout",
+      "Action": "Lay low",
+      "Time": "6",
+      "Effect": "Lose 2Tags, ignore Lockdown damage, and ignore all hunt events",
+      "Flavor": ""
+    },
+    {
+      "Location": "Hospital",
+      "Action": "Get meds",
+      "Time": "7",
+      "Effect": "Gain 1Tag and heal all damage",
+      "Flavor": ""
+    },
+    {
+      "Location": "Gambling Den",
+      "Action": "Place a bet",
+      "Time": "1",
+      "Effect": "If this isn't the first time using this action gain 4[^Money]",
+      "Flavor": "It's not gambling when you already know who is gonna win"
+    },
+    {
+      "Location": "Market",
+      "Action": "Trade resources",
+      "Time": "2",
+      "Effect": "Buy resources for 4[^Money] and sell resources for 2[^Money]",
+      "Flavor": ""
+    },
+    {
+      "Location": "Blank",
+      "Action": "",
+      "Time": "",
+      "Effect": "",
+      "Flavor": ""
+    }
+  ]
+}

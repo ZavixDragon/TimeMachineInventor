@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Skills",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Skills/Skill.png",
+            "Back": "../Images/SkillBack.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 22 } }
+        }
+    ]
+}

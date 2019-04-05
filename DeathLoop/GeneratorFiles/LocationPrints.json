@@ -1,0 +1,30 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Locations",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Locations/Location.png",
+            "Back": "../Images/LocationBack.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 8 } }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Locations/Location9.png",
+            "Back": "../Images/LocationBack.png",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}

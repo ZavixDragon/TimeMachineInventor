@@ -1,0 +1,100 @@
+{
+  "Items": [
+    {
+      "Gain": "1[^Energy] 1[^Money] ",
+      "Cost": ""
+    },
+    {
+      "Gain": "1[^Chemicals] 1[^Money]",
+      "Cost": ""
+    },
+    {
+      "Gain": "1[^Parts] 1[^Money]",
+      "Cost": ""
+    },
+    {
+      "Gain": "4[^Money]",
+      "Cost": ""
+    },
+    {
+      "Gain": "3[^Chemicals]",
+      "Cost": "1[^Energy]"
+    },
+    {
+      "Gain": "3[^Parts]",
+      "Cost": "1[^Energy]"
+    },
+    {
+      "Gain": "9[^Money]",
+      "Cost": "1[^Energy]"
+    },
+    {
+      "Gain": "3[^Energy]",
+      "Cost": "1[^Chemicals]"
+    },
+    {
+      "Gain": "3[^Parts]",
+      "Cost": "1[^Chemicals]"
+    },
+    {
+      "Gain": "9[^Money]",
+      "Cost": "1[^Chemicals]"
+    },
+    {
+      "Gain": "3[^Chemicals]",
+      "Cost": "1[^Parts]"
+    },
+    {
+      "Gain": "3[^Energy]",
+      "Cost": "1[^Parts]"
+    },
+    {
+      "Gain": "9[^Money]",
+      "Cost": "1[^Parts]"
+    },
+    {
+      "Gain": "3[^Energy]",
+      "Cost": "3[^Money]"
+    },
+    {
+      "Gain": "3[^Chemicals]",
+      "Cost": "3[^Money]"
+    },
+    {
+      "Gain": "3[^Parts]",
+      "Cost": "3[^Money]"
+    },
+    {
+      "Gain": "2[^Energy]",
+      "Cost": "1Damage"
+    },
+    {
+      "Gain": "2[^Chemicals]",
+      "Cost": "1Damage"
+    },
+    {
+      "Gain": "2[^Parts]",
+      "Cost": "1Damage"
+    },
+    {
+      "Gain": "6[^Money]",
+      "Cost": "1Damage"
+    },
+    {
+      "Gain": "3[^Energy]",
+      "Cost": "1Tag"
+    },
+    {
+      "Gain": "3[^Chemicals]",
+      "Cost": "1Tag"
+    },
+    {
+      "Gain": "3[^Parts]",
+      "Cost": "1Tag"
+    },
+    {
+      "Gain": "9[^Money]",
+      "Cost": "1Tag"
+    }
+  ]
+}

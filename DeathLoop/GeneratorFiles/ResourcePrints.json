@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Resources",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "2"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Resources/Resource.png",
+            "Back": "../Images/ResourceBack.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 23 } }
+        }
+    ]
+}

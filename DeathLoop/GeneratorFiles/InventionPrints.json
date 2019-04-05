@@ -1,0 +1,23 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Inventions",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "0"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Inventions/Invention.png",
+            "Back": "../Images/InventionBack.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 17 } }
+        }
+    ]
+}

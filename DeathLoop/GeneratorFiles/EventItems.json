@@ -1,0 +1,79 @@
+{
+  "Items": [
+    {
+      "Name": "Zanto Corp Raid",
+      "Effect": "Zanto Corp's elite forces sieze the time machine, and capture all players present at the Time Lab",
+      "Flavor": ""
+    },
+    {
+      "Name": "Zanto Terrorist Announcement",
+      "Effect": "Taking an action in the same location as you took an action last turn gives you 1Tag\n\nTaking an action in a district after 5 consequetive actions in the same district gives you 1Tag",
+      "Flavor": ""
+    },
+    {
+      "Name": "Red District Lockdown",
+      "Effect": "Player's in district take damage\nPlayer's must move out\nPlayer's may not enter the district",
+      "Flavor": ""
+    },
+    {
+      "Name": "Blue District Lockdown",
+      "Effect": "Player's in district take damage\nPlayer's must move out\nPlayer's may not enter the district",
+      "Flavor": ""
+    },
+    {
+      "Name": "Yellow District Lockdown",
+      "Effect": "Player's in district take damage\nPlayer's must move out\nPlayer's may not enter the district",
+      "Flavor": ""
+    },
+    {
+      "Name": "Green District Lockdown",
+      "Effect": "Player's in district take damage\nPlayer's must move out\nPlayer's may not enter the district",
+      "Flavor": ""
+    },
+    {
+      "Name": "Constant Broadcasts",
+      "Effect": "You gain Tags for staying in a district one action sooner",
+      "Flavor": "They are armed and dangerious report these terrorist's immidiately to Zanto Corp"
+    },
+    {
+      "Name": "Checkpoints",
+      "Effect": "You gain 1Tag anytime you change districts",
+      "Flavor": ""
+    },
+    {
+      "Name": "Camera Update",
+      "Effect": "You gain 1Tag anytime you spend at least 3 [^Time] at a location",
+      "Flavor": ""
+    },
+    {
+      "Name": "Public Bounty",
+      "Effect": "Each time you take an action at a Location you must either Pay 1[^Money], take 1Tag, or spend 1 more [^Time]",
+      "Flavor": ""
+    },
+    {
+      "Name": "Scorched Earth",
+      "Effect": "In the District with the most combined Tags all players take 4Damage",
+      "Flavor": ""
+    },
+    {
+      "Name": "Bounty Hunter",
+      "Effect": "Most tagged players pays 5[^Money] or takes 5Damage\n\nSecond Most tagged players pay 3[^Money] or take 3Damage",
+      "Flavor": ""
+    },
+    {
+      "Name": "Hunter Drones",
+      "Effect": "All players take damage equal to the number of tags they have",
+      "Flavor": ""
+    },
+    {
+      "Name": "Corporate Gunship",
+      "Effect": "The player with the most Tags takes 2Damage and takes 2Damage each action they spend in this district until they leave the district",
+      "Flavor": ""
+    },
+    {
+      "Name": "Time Machine Activates",
+      "Effect": "The time machine's timer runs out and time is rewound to right before Zanto Corp raided the Time Lab",
+      "Flavor": ""
+    }
+  ]
+}
