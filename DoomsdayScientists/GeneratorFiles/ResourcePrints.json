@@ -1,0 +1,33 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Resources",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Resources/Resource.png",
+            "Back": "../Images/CardBackResource.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 5 } }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Resources/Resource.png",
+            "Back": "../Images/CardBackResource.png",
+            "Range": { "Type": "Range", "Range": { "Start": 7, "End": 18 } }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Resources/Resource6.png",
+            "Back": "../Images/CardBackResource.png",
+            "Range": { "Type": "Single" }
+        },
+    ]
+}

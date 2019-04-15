@@ -1,0 +1,86 @@
+{
+    "Constants": 
+    {
+        "Bold": "1",
+        "Italic": "2",
+
+        "CardWidth": "816",
+        "CardHeight": "1110",
+        "MiniCardWidth": "592",
+        "MiniCardHeight": "862",
+
+        "ArtPath": "../Images/",
+
+        "Magic": "../Images/IconMagic.png",
+        "Robotics": "../Images/IconRobotics.png",
+        "Genetics": "../Images/IconGenetics.png",
+        "Money": "../Images/IconMoney.png",
+        "Draw": "../Images/IconDraw.png",
+        "Pick": "../Images/IconPick.png",
+        "CardThreatRobotic": "../Images/CardThreatRobotic.png",
+        "CardThreatBiological": "../Images/CardThreatBiological.png",
+        "CardThreatMagical": "../Images/CardThreatMagical.png",
+        "CardInvention0": "../Images/CardInvention0.png",
+        "CardInvention1": "../Images/CardInvention1.png",
+        "CardResource": "../Images/CardResource.png",
+    },
+    "Prototypes": 
+    {
+        "CardBlueprint": 
+        {
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardBlueprint": 
+        {
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "LargeCardBlueprint": 
+        {
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
+        },
+        "CardImage": 
+        {
+            "Type": "Image",
+            "X": "0",
+            "Y": "0",
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardImage": 
+        {
+            "Prototype": "CardImage",
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "FlashyText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "40"
+        },
+        "DescriptionText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "30"
+        },
+
+        "WingDings": 
+        {
+            "Font": "WingDings",
+            "FontStyle": "^Bold"
+        },
+        "WingDings3": 
+        {
+            "Font": "WingDings 3",
+            "FontStyle": "^Bold"
+        },
+        "BoldText": 
+        {
+            "FontStyle": "^Bold"
+        }
+    }
+}

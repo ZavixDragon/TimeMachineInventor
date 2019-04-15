@@ -1,0 +1,30 @@
+{
+    "SpreadSheetID": "1wAVQZ15kvzPnTLyGyeFIHCFrdBDsdRW8PcgdYd3sEko",
+    "Range": "Resources!A1:A999",
+    "Output": "ResourceItems.json",
+    "Properties": 
+    [
+        { 
+            "ColumnIndex": 0, 
+            "Name": "Effect",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Money\\b", "Genetics\\b", "Robotics\\b", "Magic\\b", "Draw\\b", "Pick\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "Arrow" ],
+                    "Replacement": "[[WingDings3 u]]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        }
+    ]
+}

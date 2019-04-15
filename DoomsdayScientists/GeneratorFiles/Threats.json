@@ -1,0 +1,92 @@
+{
+    "SavePath": "Threats",
+    "SaveName": "Threat",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "ThreatItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "CardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "CardImage",
+                "Source": "^CardThreat{~Type}"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "~Name",
+                "X": "72",
+                "Y": "72",
+                "Width": "672",
+                "Height": "0",
+                "Color": "FFFFFF",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "{~Type}\n{~ThreatType}",
+                "X": "72",
+                "Y": "180",
+                "Width": "672",
+                "Height": "160"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "~Penalty",
+                "X": "72",
+                "Y": "330",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~Health",
+                "X": "358",
+                "Y": "330",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "~Reward",
+                "X": "646",
+                "Y": "330",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontStyle": "^Italic",
+                "Content": "~Subtypes",
+                "X": "72",
+                "Y": "420",
+                "Width": "672",
+                "Height": "100"
+            },
+            {
+                "Prototype": "DescriptionText",
+                "Content": "~Text",
+                "X": "72",
+                "Y": "520",
+                "Width": "672",
+                "Height": "430",
+                "HorizontalAlignment": "Left",
+                "LineAlignment": "Left"
+            },
+            {
+                "Prototype": "DescriptionText",
+                "FontStyle": "^Italic",
+                "FontSize": "24",
+                "Content": "~Flavor",
+                "Color": "FFFFFF",
+                "X": "72",
+                "Y": "1038",
+                "Width": "672",
+                "Height": "0",
+                "VerticalAlignment": "Bottom"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "SavePath": "Inventions",
+    "SaveName": "Invention",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "InventionItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "MiniCardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "MiniCardImage",
+                "Source": "^CardInvention{~ScientistRequirement}"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "30",
+                "Content": "~Name",
+                "X": "72",
+                "Y": "72",
+                "Width": "448",
+                "Height": "0",
+                "Color": "FFFFFF",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "30",
+                "Content": "~Cost",
+                "X": "72",
+                "Y": "180",
+                "Width": "448",
+                "Height": "80"  
+            },
+            {
+                "Prototype": "DescriptionText",
+                "Content": "~Effect",
+                "X": "72",
+                "Y": "420",
+                "Width": "448",
+                "Height": "325"
+            }
+        ]
+    }
+}

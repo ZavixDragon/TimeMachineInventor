@@ -1,0 +1,45 @@
+{
+    "SpreadSheetID": "1wAVQZ15kvzPnTLyGyeFIHCFrdBDsdRW8PcgdYd3sEko",
+    "Range": "Threats!A3:J50",
+    "Output": "ThreatItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { "ColumnIndex": 1, "Name": "Wave" },
+        { "ColumnIndex": 2, "Name": "ThreatType" },
+        { "ColumnIndex": 3, "Name": "Type" },
+        { "ColumnIndex": 4, "Name": "Health" },
+        { "ColumnIndex": 5, "Name": "Reward" },
+        { "ColumnIndex": 6, "Name": "Penalty" },
+        { 
+            "ColumnIndex": 7, 
+            "Name": "Subtypes",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "[.]" ],
+                    "Replacement": "[[WingDings l]]"
+                }
+            ] 
+        },
+        { 
+            "ColumnIndex": 8, 
+            "Name": "Text",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Genetics\\b", "Robotics\\b", "Magic\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        },
+        { "ColumnIndex": 9, "Name": "Flavor" }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "SpreadSheetID": "1wAVQZ15kvzPnTLyGyeFIHCFrdBDsdRW8PcgdYd3sEko",
+    "Range": "Inventions!A2:F999",
+    "Output": "InventionItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { "ColumnIndex": 1, "Name": "Wave" },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Cost",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Genetics\\b", "Robotics\\b", "Magic\\b" ], 
+                    "Replacement": "[^$&]" 
+                }
+            ] 
+        },
+        { "ColumnIndex": 3, "Name": "ScientistRequirement" },
+        { 
+            "ColumnIndex": 4, 
+            "Name": "Effect",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Genetics\\b", "Robotics\\b", "Magic\\b" ], 
+                    "Replacement": "[^$&]" 
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
+                    "Replacement": "$1"
+                },
+            ] 
+        },
+        { "ColumnIndex": 5, "Name": "Flavor" }
+    ]
+}

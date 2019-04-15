@@ -1,0 +1,35 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Threats",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Threats/Threat.png",
+            "Back": "../Images/CardBackThreat1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 15 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Threats/Threat.png",
+            "Back": "../Images/CardBackThreat2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 16, "End": 31 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Threats/Threat.png",
+            "Back": "../Images/CardBackThreat3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 32, "End": 47 } }
+        }
+    ]
+}
