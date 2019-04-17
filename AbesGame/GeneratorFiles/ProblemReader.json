@@ -1,0 +1,74 @@
+{
+    "SpreadSheetID": "1tJ5pjcVv9nBDeH9MZVne5_Y4BbJAkFWJtl9JqvfPImI",
+    "Range": "Problems!A2:G999",
+    "Output": "ProblemItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { "ColumnIndex": 1, "Name": "VictoryPoints" },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Requirement1",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "R", "Y", "P", "G" ],
+                    "Replacement": "[^$&]"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 3, 
+            "Name": "Requirement2",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "R", "Y", "P", "G" ],
+                    "Replacement": "[^$&]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ".+" ],
+                    "Replacement": "\nOR\n$&"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 4, 
+            "Name": "Requirement3",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "R", "Y", "P", "G" ],
+                    "Replacement": "[^$&]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ".+" ],
+                    "Replacement": "\nOR\n$&"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 5, 
+            "Name": "Requirement4",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "R", "Y", "P", "G" ],
+                    "Replacement": "[^$&]"
+                },
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ".+" ],
+                    "Replacement": "\nOR\n$&"
+                }
+            ]
+        },
+        { "ColumnIndex": 6, "Name": "Stage" }
+    ]
+}

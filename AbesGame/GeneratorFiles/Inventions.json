@@ -1,0 +1,65 @@
+{
+    "SavePath": "Inventions",
+    "SaveName": "Invention",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "InventionItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "CardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "CardImage",
+                "Source": "^CardInvention{~Color}"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~Name",
+                "X": "72",
+                "Y": "72",
+                "Width": "672",
+                "Height": "100",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Type": "Image",
+                "Source": "^~Requirement",
+                "X": "328",
+                "Y": "180",
+                "Width": "160",
+                "Height": "160"
+            },
+            {
+                "Prototype": "FlashyText",
+                "FontSize": "30",
+                "Color": "FFFFFF",
+                "Content": "~ScienceCost",
+                "X": "72",
+                "Y": "330",
+                "Width": "100",
+                "Height": "100"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~ScienceCostReduction",
+                "X": "72",
+                "Y": "340",
+                "Width": "672",
+                "Height": "80"
+            },
+            {
+                "Prototype": "DescriptionText",
+                "Content": "~Stats",
+                "X": "72",
+                "Y": "420",
+                "Width": "672",
+                "Height": "530",
+                "HorizontalAlignment": "Left",
+                "LineAlignment": "Left"
+            }
+        ]
+    }
+}

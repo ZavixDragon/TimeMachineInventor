@@ -1,0 +1,976 @@
+{
+  "Items": [
+    {
+      "Name": "S1 Red HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1RTC",
+      "Stats": "5[^R]X,3[^R]X,3[^R]X",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1RTC",
+      "Stats": "4[^R]X,4[^R]X,4[^R]X",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^R]X,3[^R]X,3[^R]X",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^R]X,3[^R]X,1[^R]TC",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^R]X,2[^R]X,1[^R]X,1[^R]TC",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^R]X,1[^R]TC",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^R]TC",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^R]X,2[^R]X,2[^R]X,",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Red Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^R]X,1[^R]X,1[^R]X",
+      "Stage": "1",
+      "Color": "Red"
+    },
+    {
+      "Name": "S1 Yellow HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1YTC",
+      "Stats": "5[^Y]X,3[^Y]X,3[^Y]X",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1YTC",
+      "Stats": "4[^Y]X,4[^Y]X,4[^Y]X",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,3[^Y]X,3[^Y]X",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,3[^Y]X,1[^Y]TC",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^Y]X,2[^Y]X,1[^Y]X,1[^Y]TC",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,1[^Y]TC",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^Y]TC",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^Y]X,2[^Y]X,2[^Y]X,",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Yellow Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^Y]X,1[^Y]X,1[^Y]X",
+      "Stage": "1",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S1 Purple HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1PTC",
+      "Stats": "5[^P]X,3[^P]X,3[^P]X",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1PTC",
+      "Stats": "4[^P]X,4[^P]X,4[^P]X",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^P]X,3[^P]X,3[^P]X",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^P]X,3[^P]X,1[^P]TC",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^P]X,2[^P]X,1[^P]X,1[^P]TC",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^P]X,1[^P]TC",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^P]TC",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^P]X,2[^P]X,2[^P]X,",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Purple Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^P]X,1[^P]X,1[^P]X",
+      "Stage": "1",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S1 Green HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1GTC",
+      "Stats": "5[^G]X,3[^G]X,3[^G]X",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1GTC",
+      "Stats": "4[^G]X,4[^G]X,4[^G]X",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^G]X,3[^G]X,3[^G]X",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "0",
+      "Stats": "4[^G]X,3[^G]X,1[^G]TC",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green TC Mixed",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^G]X,2[^G]X,1[^G]X,1[^G]TC",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green TC Focus",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^G]X,1[^G]TC",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^G]TC",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^G]X,2[^G]X,2[^G]X,",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S1 Green Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^G]X,1[^G]X,1[^G]X",
+      "Stage": "1",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Red HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3RTC",
+      "Stats": "7[^R]X,5[^R]X,5[^R]X",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3RTC",
+      "Stats": "6[^R]X,6[^R]X,6[^R]X",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1RTC",
+      "Stats": "6[^R]X,4[^R]X,4[^R]X",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2RTC",
+      "Stats": "6[^R]X,4[^R]X,1[^R]TC",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^R]X,3[^R]X,2[^R]X,1[^R]TC",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^R]X,1[^R]X,1[^R]TC",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^R]TC",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^R]X,3[^R]X,3[^R]X,",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Red Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^R]X,2[^R]X,2[^R]X",
+      "Stage": "2",
+      "Color": "Red"
+    },
+    {
+      "Name": "S2 Yellow HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3YTC",
+      "Stats": "7[^Y]X,5[^Y]X,5[^Y]X",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3YTC",
+      "Stats": "6[^Y]X,6[^Y]X,6[^Y]X",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1YTC",
+      "Stats": "6[^Y]X,4[^Y]X,4[^Y]X",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2YTC",
+      "Stats": "6[^Y]X,4[^Y]X,1[^Y]TC",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,3[^Y]X,2[^Y]X,1[^Y]TC",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^Y]X,1[^Y]X,1[^Y]TC",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^Y]TC",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,3[^Y]X,3[^Y]X,",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Yellow Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^Y]X,2[^Y]X,2[^Y]X",
+      "Stage": "2",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S2 Purple HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3PTC",
+      "Stats": "7[^P]X,5[^P]X,5[^P]X",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3PTC",
+      "Stats": "6[^P]X,6[^P]X,6[^P]X",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1PTC",
+      "Stats": "6[^P]X,4[^P]X,4[^P]X",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2PTC",
+      "Stats": "6[^P]X,4[^P]X,1[^P]TC",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^P]X,3[^P]X,2[^P]X,1[^P]TC",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^P]X,1[^P]X,1[^P]TC",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^P]TC",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^P]X,3[^P]X,3[^P]X,",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Purple Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^P]X,2[^P]X,2[^P]X",
+      "Stage": "2",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S2 Green HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3GTC",
+      "Stats": "7[^G]X,5[^G]X,5[^G]X",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3GTC",
+      "Stats": "6[^G]X,6[^G]X,6[^G]X",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "1GTC",
+      "Stats": "6[^G]X,4[^G]X,4[^G]X",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2GTC",
+      "Stats": "6[^G]X,4[^G]X,1[^G]TC",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^G]X,3[^G]X,2[^G]X,1[^G]TC",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^G]X,1[^G]X,1[^G]TC",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^G]TC",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^G]X,3[^G]X,3[^G]X,",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S2 Green Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^G]X,2[^G]X,2[^G]X",
+      "Stage": "2",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Red HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5RTC",
+      "Stats": "9[^R]X,7[^R]X,7[^R]X",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5RTC",
+      "Stats": "8[^R]X,8[^R]X,8[^R]X",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2RTC",
+      "Stats": "7[^R]X,6[^R]X,6[^R]X",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3RTC",
+      "Stats": "7[^R]X,7[^R]X,1[^R]TC",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^R]X,4[^R]X,3[^R]X,1[^R]TC",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "6[^R]X,1[^R]X,1[^R]X,1[^R]TC",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^R]TC",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^R]X,4[^R]X,4[^R]X",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Red Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^R]X,3[^R]X,3[^R]X",
+      "Stage": "3",
+      "Color": "Red"
+    },
+    {
+      "Name": "S3 Yellow HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5YTC",
+      "Stats": "9[^Y]X,7[^Y]X,7[^Y]X",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5YTC",
+      "Stats": "8[^Y]X,8[^Y]X,8[^Y]X",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2YTC",
+      "Stats": "7[^Y]X,6[^Y]X,6[^Y]X",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3YTC",
+      "Stats": "7[^Y]X,7[^Y]X,1[^Y]TC",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^Y]X,4[^Y]X,3[^Y]X,1[^Y]TC",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "6[^Y]X,1[^Y]X,1[^Y]X,1[^Y]TC",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^Y]TC",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^Y]X,4[^Y]X,4[^Y]X,",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Yellow Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^Y]X,3[^Y]X,3[^Y]X",
+      "Stage": "3",
+      "Color": "Yellow"
+    },
+    {
+      "Name": "S3 Purple HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5PTC",
+      "Stats": "9[^P]X,7[^P]X,7[^P]X",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5PTC",
+      "Stats": "8[^P]X,8[^P]X,8[^P]X",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2PTC",
+      "Stats": "7[^P]X,6[^P]X,6[^P]X",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3PTC",
+      "Stats": "7[^P]X,7[^P]X,1[^P]TC",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^P]X,4[^P]X,3[^P]X,1[^P]TC",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "6[^P]X,1[^P]X,1[^P]X,1[^P]TC",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^P]TC",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^P]X,4[^P]X,4[^P]X,",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Purple Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^P]X,3[^P]X,3[^P]X",
+      "Stage": "3",
+      "Color": "Purple"
+    },
+    {
+      "Name": "S3 Green HT Focus",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5GTC",
+      "Stats": "9[^G]X,7[^G]X,7[^G]X",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green HT Balanced",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "5GTC",
+      "Stats": "8[^G]X,8[^G]X,8[^G]X",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green MT Mixed",
+      "ScienceCost": "16",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "2GTC",
+      "Stats": "7[^G]X,6[^G]X,6[^G]X",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green MT TC",
+      "ScienceCost": "17",
+      "ScienceCostReduction": "-5'-6'-8",
+      "Requirement": "3GTC",
+      "Stats": "7[^G]X,7[^G]X,1[^G]TC",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green TC Mixed",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "3[^G]X,2[^G]X,1[^G]X,1[^G]TC",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green TC Focus",
+      "ScienceCost": "12",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^G]X,1[^G]TC",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green TC Super",
+      "ScienceCost": "13",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "2[^G]TC",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green Standard",
+      "ScienceCost": "11",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "5[^G]X,4[^G]X,4[^G]X,",
+      "Stage": "3",
+      "Color": "Green"
+    },
+    {
+      "Name": "S3 Green Basic",
+      "ScienceCost": "6",
+      "ScienceCostReduction": "-1'-3'-5",
+      "Requirement": "0",
+      "Stats": "4[^G]X,3[^G]X,3[^G]X",
+      "Stage": "3",
+      "Color": "Green"
+    }
+  ]
+}

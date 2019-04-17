@@ -1,0 +1,37 @@
+{
+    "SpreadSheetID": "1tJ5pjcVv9nBDeH9MZVne5_Y4BbJAkFWJtl9JqvfPImI",
+    "Range": "Inventions!A2:G999",
+    "Output": "InventionItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { "ColumnIndex": 1, "Name": "ScienceCost" },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "ScienceCostReduction",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "[0-9]" ],
+                    "Replacement": "-$&"
+                }
+            ]
+        },
+        { "ColumnIndex": 3, "Name": "Requirement" },
+        { 
+            "ColumnIndex": 4, 
+            "Name": "Stats",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "R", "Y", "P", "G" ],
+                    "Replacement": "[^$&]"
+                }
+            ]
+        },
+        { "ColumnIndex": 5, "Name": "Stage" },
+        { "ColumnIndex": 6, "Name": "Color" }
+    ]
+}

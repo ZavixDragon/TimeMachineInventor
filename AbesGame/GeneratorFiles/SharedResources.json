@@ -1,0 +1,108 @@
+{
+    "Constants": 
+    {
+        "Bold": "1",
+        "Italic": "2",
+
+        "CardWidth": "816",
+        "CardHeight": "1110",
+        "MiniCardWidth": "592",
+        "MiniCardHeight": "862",
+
+        "ArtPath": "../Images/",
+
+        "R": "../Images/IconRed.png",
+        "Y": "../Images/IconYellow.png",
+        "P": "../Images/IconPurple.png",
+        "G": "../Images/IconGreen.png",
+        "0": "../Images/0.png",
+        "1RTC": "../Images/1RTC.png",
+        "2RTC": "../Images/2RTC.png",
+        "3RTC": "../Images/3RTC.png",
+        "4RTC": "../Images/4RTC.png",
+        "5RTC": "../Images/5RTC.png",
+        "1YTC": "../Images/1YTC.png",
+        "2YTC": "../Images/2YTC.png",
+        "3YTC": "../Images/3YTC.png",
+        "4YTC": "../Images/4YTC.png",
+        "5YTC": "../Images/5YTC.png",
+        "1PTC": "../Images/1PTC.png",
+        "2PTC": "../Images/2PTC.png",
+        "3PTC": "../Images/3PTC.png",
+        "4PTC": "../Images/4PTC.png",
+        "5PTC": "../Images/5PTC.png",
+        "1GTC": "../Images/1GTC.png",
+        "2GTC": "../Images/2GTC.png",
+        "3GTC": "../Images/3GTC.png",
+        "4GTC": "../Images/4GTC.png",
+        "5GTC": "../Images/5GTC.png",
+        "Time": "../Images/IconTime.png",
+        "Science": "../Images/IconScience.png",
+        "VictoryPoint": "../Images/IconVictoryPoint.png",
+        "CardInventionRed": "../Images/CardInventionRed.png",
+        "CardInventionYellow": "../Images/CardInventionYellow.png",
+        "CardInventionPurple": "../Images/CardInventionPurple.png",
+        "CardInventionGreen": "../Images/CardInventionGreen.png",
+        "CardProblem": "../Images/CardProblem.png",
+        "CardActivity": "../Images/CardActivity.png"
+    },
+    "Prototypes": 
+    {
+        "CardBlueprint": 
+        {
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardBlueprint": 
+        {
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "LargeCardBlueprint": 
+        {
+            "Width": "^LargeCardWidth",
+            "Height": "^LargeCardHeight"
+        },
+        "CardImage": 
+        {
+            "Type": "Image",
+            "X": "0",
+            "Y": "0",
+            "Width": "^CardWidth",
+            "Height": "^CardHeight"
+        },
+        "MiniCardImage": 
+        {
+            "Prototype": "CardImage",
+            "Width": "^MiniCardWidth",
+            "Height": "^MiniCardHeight"
+        },
+        "FlashyText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "40"
+        },
+        "DescriptionText": 
+        {
+            "Type": "Text",
+            "Font": "Roboto",
+            "FontSize": "30"
+        },
+
+        "WingDings": 
+        {
+            "Font": "WingDings",
+            "FontStyle": "^Bold"
+        },
+        "WingDings3": 
+        {
+            "Font": "WingDings 3",
+            "FontStyle": "^Bold"
+        },
+        "BoldText": 
+        {
+            "FontStyle": "^Bold"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Problems",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Problems/Problem.png",
+            "Back": "../Images/CardBack1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 19 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Problems/Problem.png",
+            "Back": "../Images/CardBack2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 20, "End": 39 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Problems/Problem.png",
+            "Back": "../Images/CardBack3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 40, "End": 59 } }
+        }
+    ]
+}

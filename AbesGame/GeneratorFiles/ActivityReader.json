@@ -1,0 +1,46 @@
+{
+    "SpreadSheetID": "1tJ5pjcVv9nBDeH9MZVne5_Y4BbJAkFWJtl9JqvfPImI",
+    "Range": "Activities!A2:E999",
+    "Output": "ActivityItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "TimeCost" },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "ScienceProduce",
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ ".+" ],
+                    "Replacement": "$&[^Science]"
+                }
+            ] 
+        },
+        { 
+            "ColumnIndex": 2, 
+            "Name": "Effects", 
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "TC" ],
+                    "Replacement": "theory crafting"
+                }
+            ]
+        },
+        { 
+            "ColumnIndex": 3, 
+            "Name": "Type", 
+            "Modifiers": 
+            [
+                {
+                    "Type": "Replace",
+                    "Patterns": [ "c" ],
+                    "Replacement": "Consumable"
+                }
+            ]
+        },
+        { "ColumnIndex": 4, "Name": "Name" }
+    ]
+}

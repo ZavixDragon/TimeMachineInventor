@@ -1,0 +1,34 @@
+{
+    "SavePath": "Problems",
+    "SaveName": "Problem",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "ProblemItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "CardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "CardImage",
+                "Source": "^CardProblem"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "{~VictoryPoints}[^VictoryPoint]",
+                "X": "72",
+                "Y": "215",
+                "Width": "672",
+                "Height": "100"  
+            }, 
+            {
+                "Prototype": "DescriptionText",
+                "Content": "{~Requirement1}{~Requirement2}{~Requirement3}{~Requirement4}",
+                "X": "72",
+                "Y": "440",
+                "Width": "672",
+                "Height": "530"
+            }
+        ]
+    }
+}

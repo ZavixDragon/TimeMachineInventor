@@ -1,0 +1,340 @@
+{
+  "Items": [
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "8[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "8[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "8[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "8[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "4",
+      "ScienceProduce": "10[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "4",
+      "ScienceProduce": "10[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "4",
+      "ScienceProduce": "11[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "4",
+      "ScienceProduce": "11[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "5",
+      "ScienceProduce": "13[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "5",
+      "ScienceProduce": "13[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "5",
+      "ScienceProduce": "14[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "5",
+      "ScienceProduce": "14[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "6",
+      "ScienceProduce": "15[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "6",
+      "ScienceProduce": "15[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "6",
+      "ScienceProduce": "16[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "6",
+      "ScienceProduce": "16[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "7",
+      "ScienceProduce": "18[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "7",
+      "ScienceProduce": "18[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "7",
+      "ScienceProduce": "19[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "7",
+      "ScienceProduce": "19[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "8",
+      "ScienceProduce": "21[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "8",
+      "ScienceProduce": "21[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "8",
+      "ScienceProduce": "22[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "8",
+      "ScienceProduce": "22[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "9",
+      "ScienceProduce": "24[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "9",
+      "ScienceProduce": "24[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "9",
+      "ScienceProduce": "25[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "9",
+      "ScienceProduce": "25[^Science]",
+      "Effects": "",
+      "Type": "",
+      "Name": "Research"
+    },
+    {
+      "TimeCost": "1",
+      "ScienceProduce": "",
+      "Effects": "(once) you can take another action",
+      "Type": "Consumable",
+      "Name": "Speed Boost"
+    },
+    {
+      "TimeCost": "1",
+      "ScienceProduce": "",
+      "Effects": "(once) you can take another action",
+      "Type": "Consumable",
+      "Name": "Speed Boost"
+    },
+    {
+      "TimeCost": "1",
+      "ScienceProduce": "",
+      "Effects": "(once) you can take another action",
+      "Type": "Consumable",
+      "Name": "Speed Boost"
+    },
+    {
+      "TimeCost": "1",
+      "ScienceProduce": "",
+      "Effects": "(once) you can take another action",
+      "Type": "Consumable",
+      "Name": "Speed Boost"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(once) until you invent your next invention +1 the color you select theory crafting",
+      "Type": "Consumable",
+      "Name": "Hire Consultant"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(once) until you invent your next invention +1 the color you select theory crafting",
+      "Type": "Consumable",
+      "Name": "Hire Consultant"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(once) until you invent your next invention +1 the color you select theory crafting",
+      "Type": "Consumable",
+      "Name": "Hire Consultant"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(once) until you invent your next invention +1 the color you select theory crafting",
+      "Type": "Consumable",
+      "Name": "Hire Consultant"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(twice) Until you solve problem get +1X to the color you select",
+      "Type": "Consumable",
+      "Name": "Hire Specialist"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(twice) Until you solve problem get +1X to the color you select",
+      "Type": "Consumable",
+      "Name": "Hire Specialist"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(twice) Until you solve problem get +1X to the color you select",
+      "Type": "Consumable",
+      "Name": "Hire Specialist"
+    },
+    {
+      "TimeCost": "2",
+      "ScienceProduce": "",
+      "Effects": "(twice) Until you solve problem get +1X to the color you select",
+      "Type": "Consumable",
+      "Name": "Hire Specialist"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1 theory crafting to the color you select",
+      "Type": "",
+      "Name": "TC Upgrade "
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1 theory crafting to the color you select",
+      "Type": "",
+      "Name": "TC Upgrade "
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1 theory crafting to the color you select",
+      "Type": "",
+      "Name": "TC Upgrade "
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1 theory crafting to the color you select",
+      "Type": "",
+      "Name": "TC Upgrade "
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1X to the color you select",
+      "Type": "",
+      "Name": "X Upgrade"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1X to the color you select",
+      "Type": "",
+      "Name": "X Upgrade"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1X to the color you select",
+      "Type": "",
+      "Name": "X Upgrade"
+    },
+    {
+      "TimeCost": "3",
+      "ScienceProduce": "",
+      "Effects": "(once) permently get +1X to the color you select",
+      "Type": "",
+      "Name": "X Upgrade"
+    }
+  ]
+}

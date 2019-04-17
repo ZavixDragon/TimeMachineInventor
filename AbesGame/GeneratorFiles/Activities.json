@@ -1,0 +1,54 @@
+{
+    "SavePath": "Activities",
+    "SaveName": "Activity",
+    "ImportedConstants": [ "SharedResources.json" ],
+    "ImportedPrototypes": [ "SharedResources.json" ],
+    "ImportedItems": [ "ActivityItems.json" ],
+    "Blueprint": 
+    {
+        "Prototype": "MiniCardBlueprint",
+        "Elements": 
+        [
+            {
+                "Prototype": "MiniCardImage",
+                "Source": "^CardActivity"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~Name",
+                "X": "72",
+                "Y": "72",
+                "Width": "448",
+                "Height": "100",
+                "VerticalAlignment": "Top"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Content": "{~TimeCost}[^Time]",
+                "X": "72",
+                "Y": "180",
+                "Width": "448",
+                "Height": "80"
+            },
+            {
+                "Prototype": "DescriptionText",
+                "Content": "{~ScienceProduce}{~Effects}",
+                "X": "72",
+                "Y": "420",
+                "Width": "448",
+                "Height": "325"
+            },
+            {
+                "Prototype": "FlashyText",
+                "Color": "FFFFFF",
+                "Content": "~Type",
+                "X": "72",
+                "Y": "750",
+                "Width": "448",
+                "Height": "100",
+                "VerticalAlignment": "Top"
+            },
+        ]
+    }
+}

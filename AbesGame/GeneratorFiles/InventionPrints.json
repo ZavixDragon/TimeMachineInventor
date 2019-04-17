@@ -1,0 +1,35 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Inventions",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Inventions/Invention.png",
+            "Back": "../Images/CardBack1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 35 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Inventions/Invention.png",
+            "Back": "../Images/CardBack2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 36, "End": 71 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Inventions/Invention.png",
+            "Back": "../Images/CardBack3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 72, "End": 107 } }
+        }
+    ]
+}
