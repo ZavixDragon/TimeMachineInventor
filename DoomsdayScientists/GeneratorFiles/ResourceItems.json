@@ -4,58 +4,28 @@
       "Effect": "[^Robotics] [^Robotics]"
     },
     {
-      "Effect": "[^Robotics] [^Genetics]"
-    },
-    {
-      "Effect": "[^Magic] [^Robotics]"
-    },
-    {
       "Effect": "[^Genetics] [^Genetics]"
     },
     {
       "Effect": "[^Magic] [^Magic]"
     },
     {
-      "Effect": "[^Genetics] [^Magic]"
+      "Effect": "[^Genetics] [^Genetics] [^Genetics]"
     },
     {
-      "Effect": "[^Draw] [^Draw] [^Draw] [^Pick]"
+      "Effect": "[^Magic] [^Magic] [^Magic]"
     },
     {
-      "Effect": "[^Robotics] [[WingDings3 u]] [^Genetics] [^Genetics] [^Genetics]"
+      "Effect": "[^Robotics] [^Robotics] [^Robotics]"
     },
     {
-      "Effect": "[^Robotics] [[WingDings3 u]] [^Magic] [^Magic] [^Magic]"
+      "Effect": "[^Robotics]"
     },
     {
-      "Effect": "[^Robotics] [[WingDings3 u]] [^Money] [^Money]"
+      "Effect": "[^Magic]"
     },
     {
-      "Effect": "[^Genetics] [[WingDings3 u]] [^Robotics] [^Robotics] [^Robotics]"
-    },
-    {
-      "Effect": "[^Genetics] [[WingDings3 u]] [^Magic] [^Magic] [^Magic]"
-    },
-    {
-      "Effect": "[^Genetics] [[WingDings3 u]] [^Money] [^Money]"
-    },
-    {
-      "Effect": "[^Magic] [[WingDings3 u]] [^Robotics] [^Robotics] [^Robotics]"
-    },
-    {
-      "Effect": "[^Magic] [[WingDings3 u]] [^Genetics] [^Genetics] [^Genetics]"
-    },
-    {
-      "Effect": "[^Magic] [[WingDings3 u]] [^Money] [^Money]"
-    },
-    {
-      "Effect": "[^Money] [[WingDings3 u]] [^Robotics] [^Robotics] [^Robotics]"
-    },
-    {
-      "Effect": "[^Money] [[WingDings3 u]] [^Genetics] [^Genetics] [^Genetics]"
-    },
-    {
-      "Effect": "[^Money] [[WingDings3 u]] [^Magic] [^Magic] [^Magic]"
+      "Effect": "[^Genetics]"
     }
   ]
 }

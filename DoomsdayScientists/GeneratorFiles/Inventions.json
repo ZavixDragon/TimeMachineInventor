@@ -11,7 +11,7 @@
         [
             {
                 "Prototype": "MiniCardImage",
-                "Source": "^CardInvention{~ScientistRequirement}"
+                "Source": "^CardInvention"
             },
             {
                 "Prototype": "FlashyText",
@@ -27,7 +27,7 @@
             {
                 "Prototype": "FlashyText",
                 "FontSize": "30",
-                "Content": "~Cost",
+                "Content": "~CostType",
                 "X": "72",
                 "Y": "180",
                 "Width": "448",

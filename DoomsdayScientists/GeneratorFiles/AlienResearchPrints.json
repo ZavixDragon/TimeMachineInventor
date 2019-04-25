@@ -1,0 +1,36 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "AlienResearch",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "3"
+        },
+        {
+            "Type": "Set",
+            "Key": "Trim",
+            "Value": "36"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "AlienResearch/AlienResearch.png",
+            "Back": "../Images/CardBackMini1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 4 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "AlienResearch/AlienResearch.png",
+            "Back": "../Images/CardBackMini2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 6, "End": 10 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "AlienResearch/AlienResearch12.png",
+            "Back": "../Images/CardBackMini3.png",
+            "Count": "18",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}

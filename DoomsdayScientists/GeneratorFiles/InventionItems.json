@@ -1,387 +1,321 @@
 {
   "Items": [
     {
-      "Name": "Invisibility Implant",
-      "Wave": "1",
-      "Cost": "[^Genetics] [^Genetics] [^Genetics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "One invention deals double damage to one non Large enemy",
+      "Name": "Lightning Rod",
+      "CostType": "[^Magic]",
+      "Effect": "Target up to 3 Overt Threats: Deal 3 damage to the first, 2 to the second, and 1 to the third",
       "Flavor": ""
     },
     {
-      "Name": "Chaos Orb",
-      "Wave": "1",
-      "Cost": "[^Magic] [^Magic] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Draw an assult invention on this, it counts as you have this invention this turn",
-      "Flavor": ""
-    },
-    {
-      "Name": "Stun Gun",
-      "Wave": "1",
-      "Cost": "[^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Ignore one failure effect, but face that enemy next round",
-      "Flavor": ""
-    },
-    {
-      "Name": "Automated Turret",
-      "Wave": "1",
-      "Cost": "",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 1 damage to an enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "Rock-It Launcher",
-      "Wave": "1",
-      "Cost": "[^Robotics]",
-      "ScientistRequirement": "0",
-      "Effect": "Any Resource Arrow Deal 3 damage to an Enemy, it,s doubled against Large enemies",
-      "Flavor": ""
-    },
-    {
-      "Name": "Cyber Virus",
-      "Wave": "1",
-      "Cost": "[^Robotics] [^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage to a Computer threat",
-      "Flavor": ""
-    },
-    {
-      "Name": "Sacrificial Plume",
-      "Wave": "1",
-      "Cost": "[^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Lose one scientist but destroy one threat",
-      "Flavor": ""
-    },
-    {
-      "Name": "Sticky Grenades",
-      "Wave": "1",
-      "Cost": "[^Robotics] [^Robotics] [^Genetics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to an enemy and 1 damage to every other enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "Smart Hacking Tool",
-      "Wave": "1",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics] [^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "One Computer threat deals damage equal to it's health to another Threat",
-      "Flavor": ""
-    },
-    {
-      "Name": "Sabotage Multitool",
-      "Wave": "1",
-      "Cost": "[^Robotics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to a Scheme",
-      "Flavor": ""
-    },
-    {
-      "Name": "Augmented Soldiers",
-      "Wave": "1",
-      "Cost": "[^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 1 damage to an enemy, plus 1 if it's Robotic",
-      "Flavor": ""
-    },
-    {
-      "Name": "Robotic Soldiers",
-      "Wave": "1",
-      "Cost": "[^Robotics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 1 damage to an enemy, plus 1 if it's Magical",
-      "Flavor": ""
-    },
-    {
-      "Name": "Mutants",
-      "Wave": "1",
-      "Cost": "[^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 1 damage to an enemy, plus 1 if it's Biological",
-      "Flavor": ""
-    },
-    {
-      "Name": "Poison Armaments",
-      "Wave": "1",
-      "Cost": "[^Genetics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Take the failure effects of an enemy then double the damage on that enemy",
+      "Name": "Choas Orb",
+      "CostType": "[^Magic]",
+      "Effect": "Draw an invention from any stack it counts as you have this invention this turn",
       "Flavor": ""
     },
     {
       "Name": "Magic Missle Launcher",
-      "Wave": "1",
-      "Cost": "[^Magic] [^Magic] [^Magic] [^Robotics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage divided as you choose to enemies, it's doubled against Large enemies",
-      "Flavor": ""
-    },
-    {
-      "Name": "Surveillance Network",
-      "Wave": "1",
-      "Cost": "[^Robotics]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 1 damage to all Schemes",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 4 damage divided as you choose to Overt Threats",
       "Flavor": ""
     },
     {
       "Name": "Death Ray",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to an enemy, plus 2 if it's biological",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 6 damage to a Biological Threat",
       "Flavor": ""
     },
     {
-      "Name": "Lightning Gun",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Magic] [^Magic] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Choose up to 3 enemies: Deal 3 damage to the first, 2 to the second, 1 to the third",
-      "Flavor": ""
-    },
-    {
-      "Name": "Energy Railgun",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 5 Damage to an enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "Invisible Lab",
-      "Wave": "2",
-      "Cost": "[^Genetics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Ignore the failure effect of one enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "Explosive Bees",
-      "Wave": "2",
-      "Cost": "[^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to all enemies",
-      "Flavor": "Bees?"
-    },
-    {
-      "Name": "Giant Potion",
-      "Wave": "2",
-      "Cost": "[^Genetics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Another invention deals double damage to Large threats this turn",
-      "Flavor": ""
-    },
-    {
-      "Name": "Psycho Android",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics] [^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to an enemy, if it kills repeat this process",
-      "Flavor": "Killing you was fun! It's too bad you can't play again."
-    },
-    {
-      "Name": "Giant Mech",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 3 damage to an enemy, doubled if it's a Large enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "A.T.T.A.C.",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Robotics]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 2 damage to an enemy, plus 2 if it's robotic",
-      "Flavor": "All Terrain Tactical Assult Copter"
-    },
-    {
-      "Name": "Laser Fighter",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to 2 enemies",
-      "Flavor": ""
-    },
-    {
-      "Name": "Holo Disguise",
-      "Wave": "2",
-      "Cost": "[^Genetics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage to a scheme",
-      "Flavor": ""
-    },
-    {
-      "Name": "Holy Light Beam",
-      "Wave": "2",
-      "Cost": "[^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to an threat, plus 2 if it's Magical",
+      "Name": "Magic Draining Beam",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 5 damage to a Magical Threat and an additional 2 if it is Overt",
       "Flavor": ""
     },
     {
       "Name": "Magic Harvester",
-      "Wave": "2",
-      "Cost": "[^Magic] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to an enemy, if it's magical gain 2 [^Magic]",
-      "Flavor": ""
-    },
-    {
-      "Name": "Portal Gun",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "One invention can hit one more threat this turn",
-      "Flavor": ""
-    },
-    {
-      "Name": "Gravity Gun",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Genetics] [^Genetics] [^Genetics] [^Magic] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Target two enemies they deal damage to each other equal to their health",
-      "Flavor": ""
-    },
-    {
-      "Name": "EMP Bomb",
-      "Wave": "2",
-      "Cost": "[^Robotics] [^Robotics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to all Computer threats, doubled against Large threats",
-      "Flavor": ""
-    },
-    {
-      "Name": "Invasive AI",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage to a scheme, anytime you defeat a scheme deal 1 damage to a different Threat",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 4 damage to a Magical Threat and if it was killed this way, gain 1 [^Magic]",
       "Flavor": ""
     },
     {
       "Name": "Anti Magic Field",
-      "Wave": "3",
-      "Cost": "[^Magic] [^Magic] [^Magic] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage to all [^Magic] Threats",
-      "Flavor": ""
-    },
-    {
-      "Name": "Engineered Pathogen",
-      "Wave": "3",
-      "Cost": "[^Genetics] [^Genetics] [^Genetics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 3 damage to an enemy and any enemy that shares a subtype with that enemy",
-      "Flavor": ""
-    },
-    {
-      "Name": "Ghost Army",
-      "Wave": "3",
-      "Cost": "[^Magic] [^Magic] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 6 damage to an enemy, if it kills an enemy you may discard one of your threats",
-      "Flavor": ""
-    },
-    {
-      "Name": "Killer Nanite Swarm",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics] [^Genetics]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 4 damage to an enemy this has not attacked, if it's Robotic you may repeat this effect",
-      "Flavor": ""
-    },
-    {
-      "Name": "Magic Cannon",
-      "Wave": "3",
-      "Cost": "[^Magic] [^Magic] [^Robotics]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 9 damage divided as you choose, any damage dealt to Large enemies is doubled",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 3 damage to all Magical Threats",
       "Flavor": ""
     },
     {
       "Name": "Chaos Cannon",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 2d6 damage to an enemy, it's doubled if it's a Large enemy",
+      "CostType": "[^Magic]",
+      "Effect": "Deal 1d6 + 2 damage to an Overt Threat ",
       "Flavor": ""
     },
     {
-      "Name": "Flying Castle",
-      "Wave": "3",
-      "Cost": "[^Magic] [^Magic] [^Magic] [^Magic] [^Robotics] [^Robotics]",
-      "ScientistRequirement": "1",
-      "Effect": "All your other inventions deal 1 more damage to each threat they hit",
+      "Name": "Black Hole Warhead",
+      "CostType": "[^Magic]",
+      "Effect": "Lose 9 Victory Points and Deal 4 damage to all Overt Threats",
       "Flavor": ""
     },
     {
-      "Name": "Immortality Field",
-      "Wave": "3",
-      "Cost": "[^Genetics] [^Genetics] [^Robotics]",
-      "ScientistRequirement": "0",
-      "Effect": "You can't lose Victory Points this turn",
+      "Name": "Counter Spell Creater",
+      "CostType": "[^Magic]",
+      "Effect": "Pay 1 [^Magic] and deal 7 damage to a Magical threat or 1 damage if you already used it this round and can be used as many times as you want",
+      "Flavor": ""
+    },
+    {
+      "Name": "Weak Seeking Missle",
+      "CostType": "[^Magic]",
+      "Effect": "Kill the lowest remaining health Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Holy Protector",
+      "CostType": "[^Magic]",
+      "Effect": "Cannot be effected by any Threat effect. deal 3 unpreventable damage to any Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Hell Portal",
+      "CostType": "[^Magic]",
+      "Effect": "Lose 7 Victory Points and destroy a Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Demon Hunter",
+      "CostType": "[^Magic]",
+      "Effect": "Lose 2 [^Magic] and destroy a Magical Threat",
+      "Flavor": "He is really good at his job but his always saying he needs more equipment"
+    },
+    {
+      "Name": "Portal Gun",
+      "CostType": "[^Magic]",
+      "Effect": "One threat one of your inventions is hitting, is hit twice by the invention",
+      "Flavor": ""
+    },
+    {
+      "Name": "Temporal Charm",
+      "CostType": "[^Magic]",
+      "Effect": "You may use another invention again this turn",
+      "Flavor": ""
+    },
+    {
+      "Name": "Sacrificial Plume",
+      "CostType": "[^Magic]",
+      "Effect": "Lose 1 Scientist and Victory Points equal to the Wave, then deal 10 damage to a Threat",
       "Flavor": ""
     },
     {
       "Name": "Orbital Laser",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Robotics] [^Robotics] [^Robotics] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 12 damage to an enemy, doubled if it's Large",
+      "CostType": "[^Robotics]",
+      "Effect": "Gain a charge\nOR\nLose a charge and deal 15 damage to a Threat",
       "Flavor": ""
     },
     {
-      "Name": "Continental Nuke",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Robotics] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "Lose 3 victory points, deal 5 damage to all enemies, this damage is doubled against Large enemies",
+      "Name": "Incendary Rounds",
+      "CostType": "[^Robotics]",
+      "Effect": "Gain 5 ammo. \nWhenever you deal damage to a Threat remove a ammo and deal 1 addtional damage",
+      "Flavor": ""
+    },
+    {
+      "Name": "Stun Gun",
+      "CostType": "[^Robotics]",
+      "Effect": "Discard one threat in front of you",
+      "Flavor": ""
+    },
+    {
+      "Name": "Sticky Grenade",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 4 damage to an Overt Threat and 2 damage to another Overt Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Robotic Soldiers",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 3 damage to 2 different Overt Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Seek & Destroy Missles",
+      "CostType": "[^Robotics]",
+      "Effect": "Lose 9 Victory Points and deal 6 damage to all Robotic Threats",
+      "Flavor": "The colateral damage is within acceptable margins"
+    },
+    {
+      "Name": "Gravity Gun",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 2 damage to a threat and disable their text ",
+      "Flavor": ""
+    },
+    {
+      "Name": "EMP Bomb",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 3 damage to all Robotic Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Recycler",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 2 damage to a Threat. If this kills the Threat, gain 1 science of the type of the threat and gain 1 Victory Point",
+      "Flavor": ""
+    },
+    {
+      "Name": "Power Transfer",
+      "CostType": "[^Robotics]",
+      "Effect": "Target up to 4 Robotic Threats: Deal 2 damage to the first, 3 to the second, 4 to the third, and 5 to the forth",
+      "Flavor": ""
+    },
+    {
+      "Name": "Laser Beam",
+      "CostType": "[^Robotics]",
+      "Effect": "Expend a Scientist and deal 7 damage to a Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "AI Hunter",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 5 damage to a Robotic Threat and an additional 2 if it's Covert",
+      "Flavor": ""
+    },
+    {
+      "Name": "Psycho Android",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 3 damage divided as you choose to Covert Threats, gain 1 additional Victory Point for each Threat killed this way",
+      "Flavor": ""
+    },
+    {
+      "Name": "Giant Mech",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 2 damage to all Overt Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Surveillance Network",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 2 damage to all Covert Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Spider Mines",
+      "CostType": "[^Robotics]",
+      "Effect": "Must be used as soon as possible. Deal 7 damage to the highest health Covert Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Internal Security AI",
+      "CostType": "[^Robotics]",
+      "Effect": "Choose all but one Covert Threat to deal 4 damage to",
+      "Flavor": ""
+    },
+    {
+      "Name": "Honey Pot Facility",
+      "CostType": "[^Robotics]",
+      "Effect": "Expend a scientist and deal 9 damage to a Covert Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Sabotage Multitool",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 5 damage to a Covert Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Automated Turrets",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 5 damage to a Overt Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Cyber Virus",
+      "CostType": "[^Robotics]",
+      "Effect": "Deal 6 damage to a Robotic Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Engineered Pathogen",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 3 damage to all Biological Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Augmented Soldiers",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 1 less damage, for each Overt Threat in front of you, then 7 damage to an Overt Threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Poison Infused Weapons",
+      "CostType": "[^Genetics]",
+      "Effect": "Take the negative victory points of a Threat and then double the damage on it",
+      "Flavor": ""
+    },
+    {
+      "Name": "Giant Potion",
+      "CostType": "[^Genetics]",
+      "Effect": "Another invention deals double damage to Overt Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Shapeshifting Implant",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 5 damage to a Covert Threat",
       "Flavor": ""
     },
     {
       "Name": "Pet Dragon",
-      "Wave": "3",
-      "Cost": "[^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Deal 2 damage to all the enemies, and double to Large enemies, any enemy killed this gain an additional Victory Point",
-      "Flavor": ""
-    },
-    {
-      "Name": "Gravity Generator",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Robotics] [^Magic] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "The next invention you use that hits an enemy hits all your enemies",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 2 damage to a Threat and gain 1 Victory Point if it died. Repeat this ",
       "Flavor": ""
     },
     {
       "Name": "Mind Control Device",
-      "Wave": "3",
-      "Cost": "[^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Genetics] [^Magic]",
-      "ScientistRequirement": "0",
-      "Effect": "Destroy one, non Large, Biological enemy, and deal damage equal to it's health to another Threat ",
+      "CostType": "[^Genetics]",
+      "Effect": "Once per game discard one Biological Threat and gain one action for this and all future turns",
       "Flavor": ""
     },
     {
-      "Name": "Invisible Airship",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Genetics] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "After resolving failure effects you may use all your inventions again",
+      "Name": "Pathogen Templet",
+      "CostType": "[^Genetics]",
+      "Effect": "Pay 1 [^Genetics] and deal 8 damage to a Biological Threat",
       "Flavor": ""
     },
     {
-      "Name": "Dimensional Hole Device",
-      "Wave": "3",
-      "Cost": "[^Robotics] [^Magic] [^Magic]",
-      "ScientistRequirement": "1",
-      "Effect": "Deal 5 damage to an enemy, it's doubled if they are biological, it's also doubled if they are Large",
+      "Name": "Spy Hunter",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 4 damage to a Covert Threat and an additional 3 if it's Biological",
+      "Flavor": ""
+    },
+    {
+      "Name": "Covert Analyzer",
+      "CostType": "[^Genetics]",
+      "Effect": "Target a Threat, you cannot damage the target, but at end of the turn gain 5 science of the type of the threat",
+      "Flavor": ""
+    },
+    {
+      "Name": "Chemical Weapons ",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 4 damage to an Overt Threat and an additional 3 if it is Biological",
+      "Flavor": ""
+    },
+    {
+      "Name": "Enhanced Senses ",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 3 damage to 2 different Covert Threats",
+      "Flavor": ""
+    },
+    {
+      "Name": "Reactive Poison",
+      "CostType": "[^Genetics]",
+      "Effect": "One biological Threat takes 3 more damage from all sources for the turn",
+      "Flavor": ""
+    },
+    {
+      "Name": "Deadly Parasite",
+      "CostType": "[^Genetics]",
+      "Effect": "One Threat takes 1 more damage from all sources, if this threat dies, reuse this invention",
+      "Flavor": ""
+    },
+    {
+      "Name": "Anti Alien Ventilation",
+      "CostType": "[^Genetics]",
+      "Effect": "Deal 1 to all Covert Threats and an additional 3 if it is Biological",
       "Flavor": ""
     }
   ]

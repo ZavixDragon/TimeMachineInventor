@@ -1,14 +1,13 @@
 {
-    "SpreadSheetID": "1wAVQZ15kvzPnTLyGyeFIHCFrdBDsdRW8PcgdYd3sEko",
+    "SpreadSheetID": "1wQTSE-ehTX0sYEAXHNZBD_pkxh_o3-ucP-OUk3xgHpU",
     "Range": "Inventions!A2:F999",
     "Output": "InventionItems.json",
     "Properties": 
     [
         { "ColumnIndex": 0, "Name": "Name" },
-        { "ColumnIndex": 1, "Name": "Wave" },
         { 
-            "ColumnIndex": 2, 
-            "Name": "Cost",
+            "ColumnIndex": 1, 
+            "Name": "CostType",
             "Modifiers": 
             [
                 { 
@@ -18,9 +17,8 @@
                 }
             ] 
         },
-        { "ColumnIndex": 3, "Name": "ScientistRequirement" },
         { 
-            "ColumnIndex": 4, 
+            "ColumnIndex": 2, 
             "Name": "Effect",
             "Modifiers": 
             [
@@ -36,6 +34,6 @@
                 },
             ] 
         },
-        { "ColumnIndex": 5, "Name": "Flavor" }
+        { "ColumnIndex": 3, "Name": "Flavor" }
     ]
 }

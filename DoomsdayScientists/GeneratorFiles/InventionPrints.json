@@ -16,20 +16,20 @@
         {
             "Type": "AddImages",
             "Front": "Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention1.png",
-            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 15 } }
+            "Back": "../Images/CardBackMiniMagic.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 16 } }
         },
         {
             "Type": "AddImages",
             "Front": "Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention2.png",
-            "Range": { "Type": "Range", "Range": { "Start": 16, "End": 31 } }
+            "Back": "../Images/CardBackMiniRobotics.png",
+            "Range": { "Type": "Range", "Range": { "Start": 17, "End": 37 } }
         },
         {
             "Type": "AddImages",
             "Front": "Inventions/Invention.png",
-            "Back": "../Images/CardBackInvention3.png",
-            "Range": { "Type": "Range", "Range": { "Start": 32, "End": 47 } }
+            "Back": "../Images/CardBackMiniGenetics.png",
+            "Range": { "Type": "Range", "Range": { "Start": 38, "End": 52 } }
         }
     ]
 }

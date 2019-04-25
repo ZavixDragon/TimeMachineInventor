@@ -1,0 +1,82 @@
+{
+  "Items": [
+    {
+      "Name": "Adaptive Armor 1",
+      "Effect": "Aliens have +1 max health",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "Teleportation 1",
+      "Effect": "Draw 1 more level 2 Alien after drafting",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "Disruption Tech 1",
+      "Effect": "You must choose an invention to disable on each turn",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "Mind Control 1",
+      "Effect": "Lose 2 Research at start of turn",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "Improved Weapons 1",
+      "Effect": "For every 2 Threats you fail lose 1 Victory Point",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "",
+      "Effect": "",
+      "Wave": "1",
+      "Flavor": ""
+    },
+    {
+      "Name": "Adaptive Armor 2",
+      "Effect": "Aliens have +2 max health",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "Teleportation 2",
+      "Effect": "Draw 2 more level 2 Alien after drafting",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "Disruption Tech 2",
+      "Effect": "You must choose 2 inventions to disable on each turn",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "Mind Control 2",
+      "Effect": "Lose 4 Research at the start of turn",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "Improved Weapons 2",
+      "Effect": "For every 2 Threats you fail lose 2 Victory Points",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "",
+      "Effect": "",
+      "Wave": "2",
+      "Flavor": ""
+    },
+    {
+      "Name": "Inevitable Conflict",
+      "Effect": "Lose 2 Victory Points",
+      "Wave": "3",
+      "Flavor": "You have stopped them for now, but the will be back"
+    }
+  ]
+}

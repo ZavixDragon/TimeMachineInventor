@@ -1,0 +1,23 @@
+{
+    "SpreadSheetID": "1wQTSE-ehTX0sYEAXHNZBD_pkxh_o3-ucP-OUk3xgHpU",
+    "Range": "Alien Invasion Research!A2:D999",
+    "Output": "AlienResearchItems.json",
+    "Properties": 
+    [
+        { "ColumnIndex": 0, "Name": "Name" },
+        { 
+            "ColumnIndex": 1, 
+            "Name": "Effect",
+            "Modifiers": 
+            [
+                { 
+                    "Type": "Replace", 
+                    "Patterns": [ "Genetics\\b", "Robotics\\b", "Magic\\b" ], 
+                    "Replacement": "[^$&]" 
+                }
+            ] 
+        },
+        { "ColumnIndex": 2, "Name": "Wave" },
+        { "ColumnIndex": 3, "Name": "Flavor" }
+    ]
+}

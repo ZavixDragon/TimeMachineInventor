@@ -6,7 +6,7 @@
         {
             "Type": "Set",
             "Key": "Count",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "Type": "Set",
@@ -16,20 +16,27 @@
         {
             "Type": "AddImages",
             "Front": "Threats/Threat.png",
-            "Back": "../Images/CardBackThreat1.png",
-            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 15 } }
+            "Back": "../Images/CardBack1.png",
+            "Range": { "Type": "Range", "Range": { "Start": 0, "End": 19 } }
         },
         {
             "Type": "AddImages",
             "Front": "Threats/Threat.png",
-            "Back": "../Images/CardBackThreat2.png",
-            "Range": { "Type": "Range", "Range": { "Start": 16, "End": 31 } }
+            "Back": "../Images/CardBack2.png",
+            "Range": { "Type": "Range", "Range": { "Start": 20, "End": 39 } }
         },
         {
             "Type": "AddImages",
             "Front": "Threats/Threat.png",
-            "Back": "../Images/CardBackThreat3.png",
-            "Range": { "Type": "Range", "Range": { "Start": 32, "End": 47 } }
+            "Back": "../Images/CardBack3.png",
+            "Range": { "Type": "Range", "Range": { "Start": 40, "End": 59 } }
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Threats/Threat.png",
+            "Back": "../Images/CardBackS.png",
+            "Count": "1",
+            "Range": { "Type": "ListFront", "List": [ 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 60, 60 ] }
         }
     ]
 }

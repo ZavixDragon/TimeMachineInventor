@@ -1,6 +1,6 @@
 {
-    "SpreadSheetID": "1wAVQZ15kvzPnTLyGyeFIHCFrdBDsdRW8PcgdYd3sEko",
-    "Range": "Threats!A3:J50",
+    "SpreadSheetID": "1wQTSE-ehTX0sYEAXHNZBD_pkxh_o3-ucP-OUk3xgHpU",
+    "Range": "Alien Invasion Threats!A2:J999",
     "Output": "ThreatItems.json",
     "Properties": 
     [
@@ -37,7 +37,7 @@
                     "Type": "Replace",
                     "Patterns": [ "\\b([a-z,A-Z]*)z\\b" ],
                     "Replacement": "$1"
-                },
+                }
             ] 
         },
         { "ColumnIndex": 9, "Name": "Flavor" }
